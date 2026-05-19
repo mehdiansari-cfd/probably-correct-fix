@@ -232,6 +232,7 @@
   const factTextEl = $('fact-text');
   const toastEl = $('toast');
   const themeToggle = $('theme-toggle');
+  const refreshBtn = $('refresh-btn');
 
   // --------------------------------------------------------------
   // SCORING
@@ -434,9 +435,11 @@
       '</div>';
     } else if (r.type === 'nv') {
       const n = NV[r.idx];
-      const cv = n[0].toUpperCase();
+      const nameUp = (n[1] || '').toUpperCase();
+      const cv = nameUp || n[0].toUpperCase();
+      const copyTitle = nameUp ? 'Copy name' : 'Copy ident';
       const navTypePill = n[2] ? '<span class="navaid-type">' + escapeHtml(n[2]) + '</span>' : '';
-      const nameLine = n[1] ? '<div class="name">' + escapeHtml(n[1]) + '</div>' : '';
+      const nameLine = nameUp ? '<div class="name">' + escapeHtml(nameUp) + '</div>' : '';
       return '<div class="row' + (r.nearby ? ' is-nearby' : '') + '">' +
         '<div class="info">' +
           '<div class="line1">' +
@@ -450,12 +453,14 @@
             nt +
           '</div>' +
         '</div>' +
-        '<button class="copy-btn" data-copy="' + escapeHtml(cv) + '" title="Copy ident">Copy</button>' +
+        '<button class="copy-btn" data-copy="' + escapeHtml(cv) + '" title="' + copyTitle + '">Copy</button>' +
       '</div>';
     } else if (r.type === 'vf') {
       const v = VF[r.idx];
-      const cv = v[0].toUpperCase();
-      const nameLine = v[1] ? '<div class="name">' + escapeHtml(v[1]) + '</div>' : '';
+      const nameUp = (v[1] || '').toUpperCase();
+      const cv = nameUp || v[0].toUpperCase();
+      const copyTitle = nameUp ? 'Copy name' : 'Copy ident';
+      const nameLine = nameUp ? '<div class="name">' + escapeHtml(nameUp) + '</div>' : '';
       const apTag = v[3] ? '<span class="vfr-airport">' + escapeHtml(v[3]) + '</span>' : '';
       return '<div class="row' + (r.nearby ? ' is-nearby' : '') + '">' +
         '<div class="info">' +
@@ -470,7 +475,7 @@
             nt +
           '</div>' +
         '</div>' +
-        '<button class="copy-btn" data-copy="' + escapeHtml(cv) + '" title="Copy ident">Copy</button>' +
+        '<button class="copy-btn" data-copy="' + escapeHtml(cv) + '" title="' + copyTitle + '">Copy</button>' +
       '</div>';
     } else {
       const a = AP[r.idx];
@@ -770,6 +775,82 @@
     return out;
   }
 
+  function rebuildIndices(wpText, nvText, apText, vfText) {
+    {
+      const { rows } = parseCSV(wpText);
+      WP = rows.map(r => [r[0], r[1]]);
+      WP_BY_C = buildByCountry(WP, w => w[1]);
+      WP_SOUNDEX = new Array(WP.length);
+      for (let i = 0; i < WP.length; i++) WP_SOUNDEX[i] = soundex(WP[i][0]);
+    }
+    {
+      const { rows } = parseCSV(nvText);
+      NV = rows.map(r => [r[0], r[1], r[2], r[3]]);
+      NV_BY_C = buildByCountry(NV, n => n[3]);
+      NV_SOUNDEX = new Array(NV.length);
+      for (let i = 0; i < NV.length; i++) NV_SOUNDEX[i] = soundex(NV[i][0]);
+    }
+    {
+      const { rows } = parseCSV(apText);
+      AP = rows.map(r => [r[0], r[1], r[2], r[3], r[4], r[5]]);
+      AP_BY_C = buildByCountry(AP, a => a[3]);
+      AP_SOUNDEX = new Array(AP.length);
+      for (let i = 0; i < AP.length; i++) {
+        AP_SOUNDEX[i] = soundex(AP[i][5] || AP[i][0]);
+      }
+    }
+    {
+      const { rows } = parseCSV(vfText);
+      VF = rows.map(r => [r[0], r[1], r[2], r[3]]);
+      VF_BY_C = buildByCountry(VF, v => v[2]);
+      VF_SOUNDEX = new Array(VF.length);
+      for (let i = 0; i < VF.length; i++) VF_SOUNDEX[i] = soundex(VF[i][0]);
+    }
+  }
+
+  // --------------------------------------------------------------
+  // MANUAL REFRESH
+  // Force-fetches all four CSVs from GitHub (bypassing the TTL
+  // cache), updates chrome.storage.local, and rebuilds the in-memory
+  // indices. On failure nothing is written to cache; the existing
+  // indices keep working.
+  // --------------------------------------------------------------
+  let refreshing = false;
+  async function refreshAllData() {
+    if (refreshing) return;
+    refreshing = true;
+    refreshBtn.disabled = true;
+    refreshBtn.classList.add('spinning');
+    try {
+      const [wpText, nvText, apText, vfText] = await Promise.all([
+        fetchRemoteCSV('waypoints.csv'),
+        fetchRemoteCSV('navaids.csv'),
+        fetchRemoteCSV('airports.csv'),
+        fetchRemoteCSV('vfr.csv'),
+      ]);
+      if (hasChromeStorage) {
+        const now = Date.now();
+        await storageSet({
+          [csvCacheKey('waypoints.csv')]: { text: wpText, fetchedAt: now },
+          [csvCacheKey('navaids.csv')]:   { text: nvText, fetchedAt: now },
+          [csvCacheKey('airports.csv')]:  { text: apText, fetchedAt: now },
+          [csvCacheKey('vfr.csv')]:       { text: vfText, fetchedAt: now },
+        });
+      }
+      rebuildIndices(wpText, nvText, apText, vfText);
+      renderResults();
+      showToast('Database refreshed');
+    } catch (err) {
+      console.error('[PCF] manual refresh failed', err);
+      showToast('Refresh failed — check connection');
+    } finally {
+      refreshing = false;
+      refreshBtn.disabled = false;
+      refreshBtn.classList.remove('spinning');
+    }
+  }
+  refreshBtn.addEventListener('click', refreshAllData);
+
   async function boot() {
     showLoading();
     startFacts();
@@ -790,36 +871,7 @@
         NEARBY_COUNTRIES.set(cc, info.nearby || []);
       }
 
-      {
-        const { rows } = parseCSV(wpText);
-        WP = rows.map(r => [r[0], r[1]]);
-        WP_BY_C = buildByCountry(WP, w => w[1]);
-        WP_SOUNDEX = new Array(WP.length);
-        for (let i = 0; i < WP.length; i++) WP_SOUNDEX[i] = soundex(WP[i][0]);
-      }
-      {
-        const { rows } = parseCSV(nvText);
-        NV = rows.map(r => [r[0], r[1], r[2], r[3]]);
-        NV_BY_C = buildByCountry(NV, n => n[3]);
-        NV_SOUNDEX = new Array(NV.length);
-        for (let i = 0; i < NV.length; i++) NV_SOUNDEX[i] = soundex(NV[i][0]);
-      }
-      {
-        const { rows } = parseCSV(apText);
-        AP = rows.map(r => [r[0], r[1], r[2], r[3], r[4], r[5]]);
-        AP_BY_C = buildByCountry(AP, a => a[3]);
-        AP_SOUNDEX = new Array(AP.length);
-        for (let i = 0; i < AP.length; i++) {
-          AP_SOUNDEX[i] = soundex(AP[i][5] || AP[i][0]);
-        }
-      }
-      {
-        const { rows } = parseCSV(vfText);
-        VF = rows.map(r => [r[0], r[1], r[2], r[3]]);
-        VF_BY_C = buildByCountry(VF, v => v[2]);
-        VF_SOUNDEX = new Array(VF.length);
-        for (let i = 0; i < VF.length; i++) VF_SOUNDEX[i] = soundex(VF[i][0]);
-      }
+      rebuildIndices(wpText, nvText, apText, vfText);
 
       searchInput.focus();
       renderResults();
