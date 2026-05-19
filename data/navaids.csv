@@ -1,0 +1,7511 @@
+ident,name,type,country_code
+ALN,Al Ain,VOR-DME,AE
+AUH,Abu Dhabi,VOR-DME,AE
+BH,Buhasa,NDB,AE
+DUB,Dubai,VOR-DME,AE
+FJR,Fujairah,VOR-DME,AE
+ID,Das Island,NDB,AE
+JD,Jebel Dhana,NDB,AE
+MA,Al Dhafra,VORTAC,AE
+RAV,Ras Al Khaimah,VOR-DME,AE
+RNZ,Arzanah,NDB,AE
+SHJ,Sharjah,VOR-DME,AE
+VAD,Bateen,VOR-DME,AE
+ZKU,Zirku,NDB,AE
+BGM,Bagram,TACAN,AF
+KAF,Kandahar,TACAN,AF
+KBL,Kabul,VOR-DME,AF
+KIA,Kabul,TACAN,AF
+OKB,Kabul,TACAN,AF
+OKN,Kandahar,NDB,AF
+ANU,V C Bird,VOR-DME,AG
+ZDX,V C Bird,NDB,AG
+ANG,Wallblake,NDB,AI
+TR,Tirana,NDB,AL
+TR,Tr,DME,AL
+TRN,Tirana,VOR-DME,AL
+AND,Andranik,NDB,AM
+ER,Yerevan,NDB,AM
+GRM,Gyumri,VOR-DME,AM
+MGR,Megri,NDB,AM
+S,Stepanavan,NDB,AM
+ST,Stepanavan,NDB,AM
+SVN,Sevan,NDB,AM
+TLN,Talin,NDB,AM
+Z,Yerevan,NDB,AM
+ZVR,Yerevan,VOR-DME,AM
+AM,Ambriz,NDB,AO
+BC,Mbanza Congo,NDB,AO
+BG,Benguela,NDB,AO
+CF,Cafunfo,NDB,AO
+CH,Chitato,NDB,AO
+CV,Cuito Cuanavale,NDB,AO
+KK,Menongue,NDB,AO
+KU,Kuito,NDB,AO
+LB,Lobito,NDB,AO
+LK,Lucapa,NDB,AO
+LU,Luanda,NDB,AO
+MA,Malanje,NDB,AO
+ME,Menongue,NDB,AO
+NG,Negage,NDB,AO
+PA,Porto Amboim,NDB,AO
+PE,Ngiva,NDB,AO
+SA,Saurimo,NDB,AO
+SO,Soyo,NDB,AO
+SU,Sumbe,NDB,AO
+UG,Uige,NDB,AO
+VCA,Cabinda,VOR-DME,AO
+VHU,Huambo,VOR-DME,AO
+VMO,Namibe,VOR-DME,AO
+VNA,Luanda,VOR-DME,AO
+VUB,Lubango,VOR-DME,AO
+VUE,Luena,VOR,AO
+WK,Waco Kungo,NDB,AO
+DNO,Orcadas Del Sur,NDB,AQ
+FXJ,Juan De Nova,NDB,AQ
+FXT,Tromelin,NDB,AQ
+FXZ,Grande Glorieuse,NDB,AQ
+IRJ,Isla Rey Jorge,VOR-DME,AQ
+MBI,Marambio,VOR-DME,AQ
+ZIR,Ice Runway,TACAN,AQ
+ZPG,Pegasus,TACAN,AQ
+ZSP,South Pole Station,TACAN,AQ
+ZWD,Williams Fld,TACAN,AQ
+A,Ministro Pistarini,NDB,AR
+A,Reconquista,NDB,AR
+A,Tartagal,NDB,AR
+ADO,Puerto Deseado,NDB,AR
+ARS,Alto Rio Senguerr,NDB,AR
+B,San Carlos De Bariloche,NDB,AR
+B,Escuela De Aviacion Militar,NDB,AR
+BAR,San Carlos De Bariloche,VOR-DME,AR
+BCA,Bahia Blanca,VOR-DME,AR
+BIO,El Turbio,NDB,AR
+C,Comandante Espora,NDB,AR
+C,Comodoro Rivadavia,NDB,AR
+C,Ministro Pistarini,NDB,AR
+C,Corrientes,NDB,AR
+CAT,Catamarca,VOR-DME,AR
+CBA,Cordoba,VOR-DME,AR
+CHP,San Martin De Los Andes,VOR-DME,AR
+CHP,San Martin De Los Andes,NDB,AR
+CRR,Corrientes,VOR-DME,AR
+CRV,Comodoro Rivadavia,VOR-DME,AR
+D,Santiago Del Estero,NDB,AR
+D,Comodoro Pierrestegui,NDB,AR
+D,Tandil,NDB,AR
+D,El Plumerillo,NDB,AR
+DIA,Concordia,NDB,AR
+DIL,Tandil,VOR-DME,AR
+DOZ,Mendoza,VOR-DME,AR
+ECA,El Calafate,VOR-DME,AR
+ENO,Mariano Moreno,VOR-DME,AR
+EPO,Comandante Espora,NDB,AR
+ERE,Ceres,VOR-DME,AR
+ESQ,Esquel,VOR-DME,AR
+EZE,Ezeiza,VOR-DME,AR
+F,Formosa,NDB,AR
+F,Rosario,NDB,AR
+FDO,San Fernando,VOR-DME,AR
+FSA,Formosa,VOR-DME,AR
+G,Rio Gallegos,NDB,AR
+G,General Pico,NDB,AR
+GAL,Rio Gallegos,VOR-DME,AR
+GBE,General Belgrano,VOR,AR
+GES,Villa Gesell,NDB,AR
+GNR,General Roca,NDB,AR
+GPI,General Pico,VOR,AR
+GRA,Rio Grande,VOR-DME,AR
+GRE,Gobernador Gregores,NDB,AR
+GUA,Gualeguaychu,VOR-DME,AR
+H,Cordoba,NDB,AR
+IGU,Cataratas Del Iguazu,VOR-DME,AR
+ILM,Quilmes,NDB,AR
+ITA,Las Lomitas,VOR,AR
+ITO,Chilecito,VOR,AR
+J,San Juan,NDB,AR
+J,Jujuy,NDB,AR
+JSM,Jose De San Martin,NDB,AR
+JUA,San Juan,VOR-DME,AR
+JUJ,Jujuy,VOR-DME,AR
+L,Salta,NDB,AR
+L,La Rioja,NDB,AR
+L,Paso De Los Libres,NDB,AR
+L,El Palomar,NDB,AR
+L,Esquel,NDB,AR
+LAR,La Rioja,VOR,AR
+LDR,Villa Dolores,NDB,AR
+LIB,Paso De Los Libres,NDB,AR
+LYE,Laboulaye,VOR,AR
+M,Malargue,NDB,AR
+MCS,Monte Caseros,VOR-DME,AR
+MDP,Mar Del Plata,VOR-DME,AR
+MJZ,Marcos Juarez,VOR,AR
+MLG,Malargue,VOR-DME,AR
+N,Resistencia,NDB,AR
+N,Catamarca,NDB,AR
+N,Presidente Peron,NDB,AR
+N,Junin,NDB,AR
+N,Aeroparque,NDB,AR
+NEU,Neuquen,VOR-DME,AR
+NIN,Junin,VOR,AR
+O,Santa Rosa,NDB,AR
+OA,Ministro Pistarini,NDB,AR
+OB,San Carlos De Bariloche,NDB,AR
+OC,Ministro Pistarini,NDB,AR
+OC,Comandante Espora,NDB,AR
+OC,Comodoro Rivadavia,NDB,AR
+OD,Tandil,NDB,AR
+OEL,Choele Choel,VOR-DME,AR
+OJ,Jujuy,NDB,AR
+OL,Esquel,NDB,AR
+OL,Salta,NDB,AR
+ON,Presidente Peron,NDB,AR
+OP,Aeroparque Jorge Newbery,NDB,AR
+OP,General Urquiza,NDB,AR
+OR,Rio Cuarto,NDB,AR
+ORA,Oran,NDB,AR
+OSA,Santa Rosa,VOR-DME,AR
+OU,Teniente Benjamin Matienzo,NDB,AR
+OV,Sauce Viejo,NDB,AR
+OZ,Mariano Moreno,NDB,AR
+P,Posadas,NDB,AR
+P,Aeroparque Jorge Newbery,NDB,AR
+P,Rio Grande,NDB,AR
+P,General Urquiza,NDB,AR
+PAL,El Palomar,VOR-DME,AR
+PAR,Parana,VOR-DME,AR
+PDI,Punta Indio,VOR-DME,AR
+PEH,Pehuajo,NDB,AR
+POS,Posadas,VOR-DME,AR
+PSP,Presidencia Roque Saenz Pena,NDB,AR
+PTA,La Plata,VOR,AR
+PTM,Perito Moreno,NDB,AR
+R,Rio Cuarto,NDB,AR
+RMY,Rio Mayo,NDB,AR
+ROS,Rosario,VOR-DME,AR
+RTA,Reconquista,VOR-DME,AR
+RYD,Villa Reynolds,VOR-DME,AR
+SAL,Salta,VOR-DME,AR
+SAN,San Antonio Oeste,NDB,AR
+SCZ,Santa Cruz,NDB,AR
+SDE,Santiago Del Estero,VOR,AR
+SIS,Resistencia,VOR-DME,AR
+SIS,Resistancia,NDB,AR
+SJU,San Julian,VOR-DME,AR
+SNT,San Antonio De Areco,VOR-DME,AR
+SRA,San Rafael,VOR,AR
+SRC,Santa Rosa De Conlara,VOR-DME,AR
+STR,Santa Teresita,NDB,AR
+SVO,Sauce Viejo,NDB,AR
+T,Trelew,NDB,AR
+TAR,Tartagal,NDB,AR
+TRC,Rio Cuarto,VOR,AR
+TRE,Trelew,VOR-DME,AR
+TUC,Tucuman,VOR-DME,AR
+U,San Luis,NDB,AR
+UIS,San Luis,VOR,AR
+USU,Ushuaia,VOR,AR
+V,Sauce Viejo,NDB,AR
+V,Villa Reynolds,NDB,AR
+V,Viedma,NDB,AR
+VIE,Viedma,VOR,AR
+W,Villa Reynolds,NDB,AR
+Y,Goya,NDB,AR
+Z,Mariano Moreno,NDB,AR
+Z,Cataratas Del Igauzu,NDB,AR
+Z,Santa Cruz,NDB,AR
+LOG,Logotala Hill,NDB,AS
+TUT,Pago Pago,VORTAC,AS
+BRK,Bruck,NDB,AT
+FMD,Fischamend,VOR-DME,AT
+FRE,Freistadt,VOR-DME,AT
+GBG,Gleichenberg,NDB,AT
+GRZ,Graz,VOR-DME,AT
+INN,Innsbruck,NDB,AT
+KFT,Klagenfurt,VOR-DME,AT
+KTI,Kuhtai,NDB,AT
+KW,Klagenfurt,NDB,AT
+LNZ,Linz,VOR-DME,AT
+LNZ,Linz,NDB,AT
+RTT,Rattenberg,NDB,AT
+SBG,Salzburg,VOR-DME,AT
+SI,Salzburg,NDB,AT
+SNU,Sollenau,VOR-DME,AT
+STE,Steinhof,NDB,AT
+STO,Stockerau,VOR-DME,AT
+SU,Salzburg,NDB,AT
+TF,Wierner Neustadt East,NDB,AT
+TUN,Tulln,VOR-DME,AT
+VIW,Villach,VOR-DME,AT
+WGM,Wagram,VOR-DME,AT
+WO,Schwechat,NDB,AT
+ZW,Zeltweg,NDB,AT
+ABA,Albany,NDB-DME,AU
+AD,Adelaide,VOR-DME,AU
+AD,Adelaide (DECOMMISSIONED),NDB,AU
+AF,Archerfield,NDB,AU
+AMB,Amberley,TACAN,AU
+AMB,Amberley,NDB,AU
+AMK,Andamooka,NDB,AU
+ARG,Argyle,VOR-DME,AU
+ARM,Armidale,NDB-DME,AU
+ARS,Ardrossan,VOR,AU
+ARS,Ardrossan (DECOMMISSIONED),NDB,AU
+AS,Alice Springs,VOR-DME,AU
+AV,Avalon,VOR-DME,AU
+AY,Albury,VOR-DME,AU
+AYE,Ayers Rock,NDB-DME,AU
+BAR,Barcaldine,NDB,AU
+BCK,Blackall,NDB,AU
+BDG,Bendigo,NDB,AU
+BDV,Birdsville,NDB,AU
+BGO,Balgo Hill,NDB,AU
+BGT,Bagot,NDB,AU
+BHI,Broken Hill,VOR-DME,AU
+BIB,Biboohra,VOR,AU
+BIK,Bindook,VOR-DME,AU
+BIK,Bindook (Closed May 2016),NDB,AU
+BIU,Ballidu,VOR,AU
+BK,Bankstown,NDB,AU
+BKE,Bourke,NDB,AU
+BKT,Burketown,NDB,AU
+BLN,Busselton,NDB,AU
+BLT,Ballarat,NDB,AU
+BML,Bromelton,NDB,AU
+BN,Brisbane,VOR-DME,AU
+BNA,Ballina,NDB,AU
+BNS,Bairnsdale,NDB,AU
+BOL,Bolinda,NDB,AU
+BOR,Bordertown,VOR,AU
+BOU,Boulia,NDB,AU
+BRL,Borroloola,NDB,AU
+BRM,Broome,NDB-DME,AU
+BRW,Brewarrina,NDB,AU
+BTH,Bathurst,NDB,AU
+BUD,Bundaberg,NDB,AU
+BWN,Bowen,NDB,AU
+BWX,Barrow Island,NDB,AU
+CAA,Calga (Closed May 2016),NDB,AU
+CAG,Caiguna,VOR-DME,AU
+CAR,Carnarvon,VOR-DME,AU
+CB,Canberra,VOR-DME,AU
+CBA,Cobar,NDB,AU
+CBB,Coonabarabran,NDB,AU
+CBP,Coober Pedy,NDB,AU
+CCK,Church Creek,NDB,AU
+CCY,Cloncurry,NDB,AU
+CDO,Condobolin,NDB,AU
+CDU,Ceduna,NDB,AU
+CG,Coolangatta,VOR-DME,AU
+CH,Coffs Harbour,VOR-DME,AU
+CIN,Curtin,VOR-DME,AU
+CKL,Clackline,NDB,AU
+CKN,Cooktown,NDB,AU
+CMT,Clermont,NDB,AU
+CMU,Cunnamulla,VOR,AU
+CMW,Camooweal,NDB,AU
+CN,Camden,NDB,AU
+CNM,Coonamble,NDB,AU
+CNY,Century Mine,NDB,AU
+COE,Coen,NDB,AU
+COM,Cooma,NDB-DME,AU
+COR,Corowa,NDB,AU
+CRG,Corryong,NDB,AU
+CS,Cairns,VOR-DME,AU
+CSV,Collinsville,VOR,AU
+CTM,Cootamundra,NDB,AU
+CUA,Cudal,NDB,AU
+CUN,Cunderdin,NDB,AU
+CV,Charleville,VOR,AU
+CVM,Caversham,NDB,AU
+CWR,Cowra,VOR,AU
+CWS,Cowes,VOR,AU
+DAR,Darwin,TACAN,AU
+DBY,Derby,NDB,AU
+DLQ,Deniliquin,NDB,AU
+DN,Darwin,VOR-DME,AU
+DN,Darwin,NDB,AU
+DPO,Devonport,VOR-DME,AU
+DU,Dubbo,VOR-DME,AU
+DYS,Dysart,NDB,AU
+ECH,Echuca,NDB,AU
+EDN,Edinburgh,TACAN,AU
+EDN,Edinburgh,NDB,AU
+ELW,Eildon Weir,VOR,AU
+EML,Emerald,NDB,AU
+EN,Essendon,NDB,AU
+EPP,Epping,NDB,AU
+ESL,East Sale,TACAN,AU
+ESL,East Sale,NDB,AU
+ESP,Esperance,VOR-DME,AU
+FBS,Forbes,NDB,AU
+FLI,Flinders Island,NDB,AU
+FRT,Forrest,NDB,AU
+FTZ,Fitzroy Crossing,NDB,AU
+GAY,Gayndah,NDB,AU
+GBA,Gibraltar,NDB,AU
+GDH,Gunnedah,NDB,AU
+GDI,Goondiwindi,NDB,AU
+GEL,Geraldton,VOR-DME,AU
+GFN,Grafton,NDB,AU
+GIB,Gibb River,NDB,AU
+GIG,Gingin,NDB,AU
+GLA,Gladstone,VOR,AU
+GLB,Goulburn,NDB,AU
+GLF,Glenfield,NDB,AU
+GLI,Glen Innes,NDB,AU
+GLS,Giles,NDB,AU
+GTE,Groote Eylandt,NDB-DME,AU
+GTH,Griffith,VOR-DME,AU
+GTN,Georgetown,NDB,AU
+GV,Gove,VOR-DME,AU
+HAY,Hay,NDB,AU
+HB,Hobart,VOR-DME,AU
+HB,Hobart,NDB,AU
+HBA,Hervey Bay,NDB,AU
+HBK,Holbrook,NDB,AU
+HID,Horn Island,NDB,AU
+HLC,Halls Creek,NDB,AU
+HM,Hamilton Island,VOR-DME,AU
+HML,Hamilton,NDB,AU
+HOO,Hooker Creek,NDB,AU
+HSM,Horsham,NDB,AU
+HUG,Hughenden,VOR,AU
+HWS,Howard Springs,NDB,AU
+IFL,Innisfail,NDB,AU
+IVL,Inverell,NDB,AU
+JCW,Jacobs Well,VOR,AU
+JLC,Julia Creek,NDB,AU
+JNB,Jurien Bay,VOR,AU
+JT,Jandakot,NDB,AU
+JVS,Jervois,NDB,AU
+KA,Karratha,VOR-DME,AU
+KAT,Katoomba,NDB,AU
+KCY,Kilcoy,NDB,AU
+KG,Kalgoorlie,VOR-DME,AU
+KII,King Island,NDB,AU
+KMP,Kempsey,NDB,AU
+KOW,Kowanyama,NDB,AU
+KRY,Kingaroy,NDB,AU
+KSC,Kingscote,NDB,AU
+KU,Kununurra,VOR-DME,AU
+LAV,Laravale,VOR,AU
+LEC,Leigh Creek,VOR,AU
+LEO,Leonora,NDB,AU
+LHI,Lord Howe Island,NDB-DME,AU
+LHR,Lockhart River,NDB,AU
+LIS,Lismore,NDB,AU
+LM,Learmonth,VOR-DME,AU
+LRE,Longreach,VOR,AU
+LRT,Lake Albert,NDB,AU
+LST,Leinster,NDB,AU
+LT,Launceston,VOR-DME,AU
+LTN,Laverton,NDB,AU
+LTV,Latrobe Valley,NDB,AU
+LVG,Mount Livingstone,VOR,AU
+MA,Mount Isa,VOR-DME,AU
+MB,Moorabbin,NDB,AU
+MBY,Modbury (DECOMISSIONED),NDB,AU
+MC,Maroochydore,VOR-DME,AU
+MCO,Mallacoota,VOR-DME,AU
+MDG,Mudgee,VOR,AU
+MEK,Meekatharra,VOR-DME,AU
+MER,Merimbula,NDB-DME,AU
+MFD,Mansfield,NDB,AU
+MGD,Maningrida,NDB,AU
+MHU,Mcarthur River Mine,NDB,AU
+MIA,Mildura,VOR-DME,AU
+MJM,Manjimup,NDB,AU
+MK,Mackay,VOR-DME,AU
+ML,Melbourne,VOR-DME,AU
+MLY,Maleny,VOR,AU
+MNE,Mount Keith,NDB,AU
+MNG,Mangalore,VOR,AU
+MOG,Mount Magnet,NDB,AU
+MOR,Moree,NDB,AU
+MPA,Minnipa,NDB,AU
+MQD,Mount Mcquoid (Closed Nov 2008),VOR,AU
+MQD,Mount Mcquoid (Closed May 2016),NDB,AU
+MRB,Moranbah,NDB,AU
+MRW,Morawa,NDB,AU
+MRY,Moruya,NDB,AU
+MSO,Mount Sandon,VOR,AU
+MTG,Mount Gambier,VOR,AU
+MTI,Mornington Island,NDB,AU
+MTP,Mount Hope,VOR-DME,AU
+MYB,Maryborough,NDB,AU
+NAR,Narrandera,VOR-DME,AU
+NBR,Narrabri,NDB,AU
+NGU,Ngukurr,NDB,AU
+NHL,Nhill,VOR,AU
+NIE,Nile,NDB,AU
+NRB,Narembeen,NDB,AU
+NRC,Naracoorte,NDB,AU
+NRM,Narromine,NDB,AU
+NSM,Norseman,NDB,AU
+NTN,Normanton,NDB,AU
+NWA,Nowra,TACAN,AU
+NWN,Newman,VOR-DME,AU
+NYA,Natya,VOR,AU
+NYN,Nyngan,NDB,AU
+OK,Oakey,VOR-DME,AU
+OOD,Oodnadatta,NDB,AU
+OOM,Moomba,NDB-DME,AU
+ORG,Orange,NDB,AU
+PAG,Port Augusta,NDB,AU
+PBO,Paraburdoo,VOR-DME,AU
+PCK,Point Cook,NDB,AU
+PD,Port Hedland,VOR-DME,AU
+PEA,Pearce,TACAN,AU
+PEA,Pearce,NDB,AU
+PF,Parafield,NDB,AU
+PH,Perth,VOR-DME,AU
+PIY,Pingelly,NDB,AU
+PKS,Parkes,VOR-DME,AU
+PLC,Port Lincoln,NDB,AU
+PLE,Plenty,NDB,AU
+PLO,Point Lookout,VOR,AU
+PMQ,Port Macquarie,NDB,AU
+PN,Proserpine,VOR-DME,AU
+POD,Portland,NDB,AU
+PRL,Parkerville,NDB,AU
+QDI,Quirindi,NDB,AU
+REN,Renmark,NDB,AU
+RIC,Richmond,TACAN,AU
+RIC,Richmond,NDB,AU
+RK,Rockhampton,VOR-DME,AU
+RMD,Richmond,NDB,AU
+ROC,Rockdale,NDB,AU
+ROM,Roma,NDB,AU
+RPY,Ripley (Decommissioned),NDB,AU
+RTI,Rottnest Island,NDB,AU
+RUG,Rugby,NDB,AU
+SBG,Strathbogie,NDB,AU
+SCO,Scone,NDB,AU
+SCR,Southern Cross,NDB,AU
+SDM,Sydenham,NDB,AU
+SFL,Stonefield (DECOMMISSIONED),NDB,AU
+SGE,St George,NDB,AU
+SGT,Singleton,NDB,AU
+SHT,Shepparton,NDB,AU
+SLS,Shellys,NDB,AU
+SMI,Smithton,NDB,AU
+SPG,Simpsons Gap,NDB,AU
+SRN,Strahan,NDB,AU
+STH,St.hHlens,NDB,AU
+SWH,Swan Hill,NDB,AU
+SY,Sydney,DME,AU
+TAM,Taroom,VOR,AU
+TBD,Tailem Bend (DECOMMISSIONED),VOR,AU
+TDL,Tindal,TACAN,AU
+TEF,Telfer,NDB,AU
+TEM,Temora,NDB,AU
+TGM,Thargomindah,NDB,AU
+TIB,Tibooburra,NDB,AU
+TL,Townsville,VOR-DME,AU
+TMO,The Monument,NDB,AU
+TN,Tindal,VOR,AU
+TNG,Thangool,NDB-DME,AU
+TNK,Tennant Creek,VOR-DME,AU
+TPB,Temple Bar,NDB,AU
+TRE,Taree,NDB,AU
+TST,Truscott,NDB,AU
+TTR,Tea Tree,NDB,AU
+TTX,Troughton Island,NDB,AU
+TVL,Townsville,TACAN,AU
+TW,Tamworth,VOR-DME,AU
+TWB,Toowoomba,NDB,AU
+VRD,Victoria River Downs,NDB,AU
+WAV,Wave Hill,NDB,AU
+WAY,Wallaby,NDB,AU
+WBL,Warrnambool,NDB,AU
+WBR,Warburton Range,NDB,AU
+WDH,Windorah,NDB,AU
+WG,Wagga Wagga,VOR-DME,AU
+WGT,Wangaratta,NDB,AU
+WHA,Whyalla,NDB,AU
+WJS,Wee Jasper,VOR,AU
+WKB,Warracknabeal,NDB,AU
+WLE,Williamsdale,VOR,AU
+WLG,Walgett,VOR,AU
+WLM,Williamtown,TACAN,AU
+WLU,Wiluna,NDB,AU
+WMD,West Maitland,VOR,AU
+WOL,Wollongong,NDB,AU
+WON,Wonthaggi,VOR,AU
+WP,Weipa,VOR-DME,AU
+WR,Woomera,NDB,AU
+WTN,Winton,NDB,AU
+WWL,West Wyalong,NDB,AU
+WYM,Wyndham,NDB,AU
+WYY,Wynyard,VOR,AU
+YAS,Yass,NDB,AU
+YNG,Young,NDB,AU
+YWE,Yarrowee,VOR,AU
+ABA,Aruba,VOR-DME,AW
+BEA,Reina Beatrix,VOR-DME,AW
+A,Baku/Bina,NDB,AZ
+AU,Akhsu,NDB,AZ
+BI,Baku,NDB,AZ
+BN,Baku,NDB,AZ
+BU,Baku,NDB,AZ
+ED,Yevlakh,NDB,AZ
+GYD,Baku,VOR-DME,AZ
+I,Baku,NDB,AZ
+K,Gyandzha,NDB,AZ
+KL,Kala,NDB,AZ
+KM,Gyandzha,NDB,AZ
+MO,Khanlar,NDB,AZ
+N,Baku,NDB,AZ
+NO,Nakhchivan,NDB,AZ
+NT,Nakhchivan,NDB,AZ
+U,Baku/Bina,NDB,AZ
+ZW,Gyandzha,NDB,AZ
+BLK,Banja Luka,NDB,BA
+DER,Derventa,VOR-DME,BA
+DNC,Mostar,NDB,BA
+GAC,Gacko,NDB,BA
+KEB,Sarajevo,VOR-DME,BA
+KG,Kobiljaca,NDB,BA
+LAK,Banja Luka,VOR-DME,BA
+LU,Banja Luka,NDB,BA
+MGV,Mcgovern,NDB,BA
+MSR,Mostar,VOR-DME,BA
+NA,Banja Luka,NDB,BA
+OMA,Omarska,VOR-DME,BA
+OTJ,Mostar,TACAN,BA
+SAR,Sarajevo,VORTAC,BA
+TU,Tuzla,NDB,BA
+TUZ,Tuzla,TACAN,BA
+BGI,Adams,VOR-DME,BB
+BL,Barisal,NDB,BD
+CB,Coxs Bazar,NDB,BD
+CML,Comilla,VOR,BD
+CTG,Chittagong,VOR-DME,BD
+DAC,Dhaka,VOR-DME,BD
+EG,Chittagong,NDB,BD
+IS,Ishurdi,NDB,BD
+JSR,Jessore,VOR,BD
+RAJ,Rajshahi,VOR,BD
+SDP,Saidpur,VOR,BD
+SYT,Sylhet,VOR,BD
+AFI,Affligem,VOR-DME,BE
+ANT,Antwerpen,VOR-DME,BE
+BBE,Beauvechain,TACAN,BE
+BBL,Kleine Brogel,TACAN,BE
+BFS,Florennes,TACAN,BE
+BUB,Brussels,VOR-DME,BE
+BUN,Bruno,VOR-DME,BE
+CC,Charleroi Lctr,NDB,BE
+CIV,ChiÃ¨vres,VOR,BE
+COA,Costa,VOR-DME,BE
+DD,Oostende,NDB,BE
+FLO,Flora,VOR-DME,BE
+GSY,Gosly,VOR-DME,BE
+HUL,Huldenberg,VOR-DME,BE
+KOK,Koksy,VORTAC,BE
+LGE,Liege,VOR-DME,BE
+LNO,Olno,VOR-DME,BE
+MAK,Mackel,NDB,BE
+NIK,Nicky,VOR-DME,BE
+OB,Brussels,NDB,BE
+OKT,Kortrijk,NDB,BE
+ONC,Charleroi,NDB,BE
+ONL,Liege,NDB,BE
+ONO,Oostende,NDB,BE
+ONT,Kleine Brogel,NDB,BE
+ONW,Antwerpen,NDB,BE
+OZ,Brussels,NDB,BE
+SLV,Spa,NDB,BE
+SPI,Sprimont,VOR-DME,BE
+AY,Arli,NDB,BF
+BD,Bobo Dioulasso,VOR-DME,BF
+BDO,Bobo Dioulasso,NDB,BF
+DD,Dori,NDB,BF
+OG,Ouagadougou,VOR-DME,BF
+OUA,Ouagadougou,NDB,BF
+B,Burgas,NDB,BG
+BGS,Burgas,VOR-DME,BG
+BGS,Burgas,NDB,BG
+BLO,Bailovo,VOR-DME,BG
+BOZ,Bozhourishte,NDB,BG
+BU,Burgas,NDB,BG
+DWN,Devnya,NDB,BG
+F,Sofia,NDB,BG
+G,Gorna,NDB,BG
+GO,Gorna,NDB,BG
+GOL,Golyama,VOR-DME,BG
+GRN,Gorna Oryahovitsa,VOR-DME,BG
+GRN,Gorna,NDB,BG
+KAL,Kalotina,VOR-DME,BG
+O,Gorna,NDB,BG
+P,Plovdiv,NDB,BG
+PDV,Plovdiv,VOR-DME,BG
+R,Varna,NDB,BG
+RUS,Ruse,NDB,BG
+S,Sofia,NDB,BG
+SF,Sofia,NDB,BG
+SOF,Sofia,VOR-DME,BG
+SOF,Sofia,NDB,BG
+U,Burgas,NDB,BG
+W,Varna,NDB,BG
+WAK,Vakarel,NDB,BG
+WN,Varna,NDB,BG
+WR,Varna,NDB,BG
+WRN,Varna,VOR-DME,BG
+BAH,Bahrain,VOR-DME,BH
+LB,Bahrain,NDB,BH
+SIA,Shaikh Isa,VORTAC,BH
+BJA,Bujumbura,VOR-DME,BI
+BN,Bujumbura,NDB,BI
+DO,Kirundo,NDB,BI
+GA,Muyinga,NDB,BI
+GI,Gitega,NDB,BI
+KW,Bujumbura,NDB,BI
+NL,Nyanza-Lac,NDB,BI
+RG,Rwegura,NDB,BI
+YI,Ruyigi,NDB,BI
+CO,Cotonou,NDB,BJ
+PA,Parakou,VOR,BJ
+TYE,Cotonou,VOR-DME,BJ
+TYK,Kandi,NDB,BJ
+TYN,Natitingou,NDB,BJ
+BDA,Bermuda,VOR-DME,BM
+AKI,Anduki,NDB,BN
+BRU,Brunei,VOR-DME,BN
+AGU,Monteagudo,NDB,BO
+ANA,Santa Ana,NDB,BO
+APB,Apolo,NDB,BO
+ASG,Ascencion De Guarayos,NDB,BO
+BJO,Bermejo,NDB,BO
+BOR,San Borja,VOR,BO
+CAL,Calamarca,VOR-DME,BO
+CAM,Camiri,NDB,BO
+CBA,Cochabamba,VOR-DME,BO
+CIJ,Cobija,NDB,BO
+CRC,Coroico,NDB,BO
+GYA,Guayaramerin,NDB,BO
+JOA,San Joaquin,NDB,BO
+LPZ,La Paz,NDB,BO
+MGD,Magdalena,NDB,BO
+OBO,Robore,NDB,BO
+ORU,Oruro,NDB,BO
+PAZ,La Paz,VOR-DME,BO
+POI,Potosi,NDB,BO
+PSZ,Puerto Suarez,NDB,BO
+PVR,El Porvenir,NDB,BO
+R,La Paz,NDB,BO
+R,Cochabamba,NDB,BO
+RBQ,Rurrenabaque,NDB,BO
+RBT,Riberalta,VOR,BO
+REA,Riberalta,NDB,BO
+REY,Reyes,NDB,BO
+SJV,San Javier,NDB,BO
+SMT,San Matias,NDB,BO
+SNG,San Ignacio De Velasco,NDB,BO
+SRJ,San Borja,NDB,BO
+SUR,Sucre,VOR-DME,BO
+TAR,Tarija,VOR-DME,BO
+TCZ,El Trompillo,NDB,BO
+TDD,Trinidad,NDB,BO
+TRI,Trinidad,VOR-DME,BO
+VIR,Viru Viru,VOR-DME,BO
+VRO,Viru Viru,NDB,BO
+VTS,Villamontes,NDB,BO
+VVO,Viru Viru,NDB,BO
+YAC,Yacuiba,NDB,BO
+HTO,Hato,TACAN,BQ
+PJB,Bonaire,NDB,BQ
+PJE,St.eEstatius,NDB,BQ
+PJG,Curacao,VOR-DME,BQ
+PJM,St.mMarten,VOR-DME,BQ
+AAQ,Araraquara,NDB,BR
+ACJ,Aracaju,VOR-DME,BR
+ADA,Aldeia,VOR-DME,BR
+AFS,Afonsos,NDB,BR
+AGI,Araguaina,NDB,BR
+AGN,Alagoinhas,NDB,BR
+AI,Sao Joao,NDB,BR
+ALC,Alcantara,NDB,BR
+AMP,Amapa,NDB,BR
+ANP,Anapolis,VOR-DME,BR
+ANP,Anapolis,NDB,BR
+ARA,Aracatuba,NDB,BR
+ARG,Araguaia,NDB,BR
+ARX,Araxa,VOR-DME,BR
+ARX,Araxa,NDB,BR
+ASS,Assis,NDB,BR
+ATF,Alta Floresta,VOR-DME,BR
+ATM,Altamira,VOR,BR
+AV,Abrolhos,NDB,BR
+BAG,Garcas,VOR-DME,BR
+BBC,Barbacena,NDB,BR
+BCH,Bacacheri,NDB,BR
+BCO,Bonsucesso,VOR-DME,BR
+BCP,Dezoito,NDB,BR
+BDA,Boca Do Acre,NDB,BR
+BEL,Belem,VOR-DME,BR
+BGC,Braganca,VOR-DME,BR
+BGE,Bage,VOR,BR
+BHZ,Belo Horizonte,VOR-DME,BR
+BHZ,Belo Horizonte,NDB,BR
+BKO,Boko,NDB,BR
+BL,Salinopolis,NDB,BR
+BRL,Barcelos,NDB,BR
+BRR,Barreiras,VOR,BR
+BRS,Brasilia,VOR-DME,BR
+BRT,Barretos,NDB,BR
+BRU,Bauru,NDB,BR
+BVI,Boa Vista,VOR-DME,BR
+CAD,Cacador,NDB,BR
+CAV,Cascavel,NDB,BR
+CAX,Caxias,VOR-DME,BR
+CBF,Cabo Frio,NDB,BR
+CCI,Cucui,NDB,BR
+CGO,Congonhas,VOR-DME,BR
+CGR,Campo Grande,VOR-DME,BR
+CGR,Campo Grande,NDB,BR
+CH,Cocho,NDB,BR
+CIA,Cuiaba,VOR-DME,BR
+CN,Canivete,NDB,BR
+CNA,Carolina,VOR,BR
+CNB,Cana Brava,NDB,BR
+CNF,Confins,VOR-DME,BR
+COA,Canoas,VOR-DME,BR
+COM,Comandatuba,NDB,BR
+CPG,Campina Grande,NDB,BR
+CPN,Campinas,VOR-DME,BR
+CPO,Campos,NDB,BR
+CRJ,Carajas,VOR-DME,BR
+CRY,Criciuma,NDB,BR
+CTB,Curitiba,VOR-DME,BR
+CUA,Carauari,NDB,BR
+CUB,Corumba,NDB,BR
+CVL,Caravelas,VOR,BR
+CXB,Cachimbo,VOR-DME,BR
+CXM,Coxim,NDB,BR
+CXS,Do Sul,VOR-DME,BR
+CXS,Do Sul,NDB,BR
+CZS,Cruzeiro Do Sul,VOR-DME,BR
+DA,Calcanhar,NDB,BR
+DAD,Diadema,NDB,BR
+DOU,Doura,NDB,BR
+EMB,Embuguacu,NDB,BR
+ERP,Eirunepe,NDB,BR
+FB,Tramandai,NDB,BR
+FGN,Fazenda Guanabara,NDB,BR
+FGR,Figueiras,NDB,BR
+FLN,Florianopolis,NDB,BR
+FLU,Fluminense,NDB,BR
+FLZ,Fortaleza,VOR-DME,BR
+FNO,Fernando,VOR-DME,BR
+FOZ,Foz,VOR-DME,BR
+FOZ,Foz,NDB,BR
+FPB,Beira,NDB,BR
+FRA,Fora,NDB,BR
+FRC,Franca,NDB,BR
+FRM,Formosa,VOR-DME,BR
+FTR,Fronteira,NDB,BR
+FUR,Furnas,NDB,BR
+GAB,Gabi,NDB,BR
+GDP,Guadalupe,NDB,BR
+GGT,Guaratingueta,NDB,BR
+GJM,Guajara,NDB,BR
+GOI,Goiania,VOR-DME,BR
+GRU,Guarapuava,NDB,BR
+IA,Pestana,NDB,BR
+IB,Bonsucesso,NDB,BR
+IC,Gisa,NDB,BR
+IC,Mocambo,NDB,BR
+IE,Valde,NDB,BR
+IF,Fazenda,NDB,BR
+IG,Tuca,NDB,BR
+IG,Soja,NDB,BR
+IH,Rasa,NDB,BR
+IK,Bento,NDB,BR
+IL,Cariano,NDB,BR
+IP,Guaiba,NDB,BR
+IP,Jardim,NDB,BR
+IR,Trevo,NDB,BR
+IS,Cimbra,NDB,BR
+IS,Mada,NDB,BR
+IS,Fonte,NDB,BR
+IT,Meriti,NDB,BR
+IT,Pena,NDB,BR
+IV,Ipitanga,NDB,BR
+IW,Jaguari,NDB,BR
+IY,Pira,NDB,BR
+JAC,Jacareacanga,VOR-DME,BR
+JNV,Joinville,VOR-DME,BR
+JPG,Jacarepagua,NDB,BR
+JPS,Joao Pessoa,NDB,BR
+JRP,Rio Preto,NDB,BR
+JZR,Juazeiro,NDB,BR
+KP,Grama,NDB,BR
+KRI,Quari,NDB,BR
+LAP,Lapa,VOR-DME,BR
+LBA,Macae,NDB,BR
+LBR,Labrea,NDB,BR
+LEN,Lencois,NDB,BR
+LJS,Lages,NDB,BR
+LNS,Lins,NDB,BR
+LON,Londrina,VOR-DME,BR
+LST,Lagoa Santa,NDB,BR
+LUZ,Luziania,VOR-DME,BR
+MAC,Macae,VOR-DME,BR
+MAE,Marte,NDB,BR
+MAR,Marlim,NDB,BR
+MCE,Zumbi,VOR-DME,BR
+MCL,Montes Claros,NDB,BR
+MCO,Maceio,NDB,BR
+MCP,Macapa,VOR-DME,BR
+MCR,Manicore,NDB,BR
+MDD,Dourado,NDB,BR
+MLZ,Merluza,NDB,BR
+MNS,Manaus,VOR-DME,BR
+MOZ,Moz,NDB,BR
+MRA,Marilia,NDB,BR
+MRB,Maraba,VOR-DME,BR
+MRC,Marica,VOR-DME,BR
+MRN,Maringa,NDB,BR
+MSS,Mossoro,VOR-DME,BR
+MXN,Maxaranguape,NDB,BR
+NOA,Nova,NDB,BR
+NOR,Noronha,NDB,BR
+NR,Moela,NDB,BR
+NTL,Natal,VOR-DME,BR
+NVG,Navegantes,NDB,BR
+NX,Domel,NDB,BR
+OIA,Oiapoque,NDB,BR
+OLD,Olinda,NDB,BR
+ORH,Ourinhos,NDB,BR
+PA,Salgado,NDB,BR
+PAF,Paulo Afonso,VOR,BR
+PAG,Porto Alegre,NDB,BR
+PAI,Pirai,VOR-DME,BR
+PAT,Patos De Minas,NDB,BR
+PCI,Pici,NDB,BR
+PCL,Pocos,NDB,BR
+PCR,Pari-Cachoeira,NDB,BR
+PCX,Porto,VOR-DME,BR
+PEL,Pelada,NDB,BR
+PER,Perus,NDB,BR
+PFD,Passo Fundo,VOR,BR
+PKT,Paracatu,NDB,BR
+PMS,Palmas,VOR-DME,BR
+PNB,Parnaiba,NDB,BR
+PNC,Porto Nacional,VOR-DME,BR
+PNG,Paranagua,NDB,BR
+PNH,Pinhais,NDB,BR
+PNQ,Quinze,NDB,BR
+POR,Porto Alegre,VOR-DME,BR
+PP,Maraca,NDB,BR
+PP,Metro,NDB,BR
+PP,Guaruja,NDB,BR
+PP,Pororoca,NDB,BR
+PP,Paiol,NDB,BR
+PRI,Parintins,VOR-DME,BR
+PRR,Prudente,VOR-DME,BR
+PRR,Prudente,NDB,BR
+PSN,Piracununga,VOR-DME,BR
+PTL,Petrolina,VOR-DME,BR
+PTP,Ponta Pora,NDB,BR
+PTS,Pelotas,VOR,BR
+PTT,Trombetas,NDB,BR
+PVH,Porto Velho,VOR-DME,BR
+QQ,Iguacu,NDB,BR
+QQ,Cruz,NDB,BR
+RBC,Branco,VOR-DME,BR
+RCL,Rio Claro,NDB,BR
+RDE,Rede,VOR-DME,BR
+REC,Recife,VOR-DME,BR
+RG,Canal,NDB,BR
+RIB,Ribas,NDB,BR
+RND,Rio Grande,NDB,BR
+RON,Rondonia,NDB,BR
+RPR,Ribeirao,NDB,BR
+RR,Vicente,NDB,BR
+SAN,Santo Angelo,NDB,BR
+SAT,Santos,NDB,BR
+SBG,Santa Barbara,NDB,BR
+SCB,Sorocaba,VOR-DME,BR
+SCB,Sorocaba,NDB,BR
+SCP,Sao Jose,VOR-DME,BR
+SCR,Santa Cruz,VOR-DME,BR
+SGC,Gabriel,VOR-DME,BR
+SGR,Porto Seguro,NDB,BR
+SLI,Sao Luis,VOR-DME,BR
+SM,Sao Marcos,NDB,BR
+SMA,Santa Maria,VOR-DME,BR
+SMR,Cerrito,NDB,BR
+SPO,Sao Paulo,NDB,BR
+STG,Tome,NDB,BR
+STM,Santarem,VOR-DME,BR
+STN,Santana,VOR-DME,BR
+SVD,Salvador,VOR-DME,BR
+SW,Santa Marta,NDB,BR
+TBE,Taubate,NDB,BR
+TBT,Tabatinga,NDB,BR
+TFE,Tefe,VOR-DME,BR
+TIR,Tirios,NDB,BR
+TLB,Telemaco,NDB,BR
+TOL,Toledo,NDB,BR
+TOR,Torres,NDB,BR
+TPQ,Tapuruquara,NDB,BR
+TPV,Itapevi,NDB,BR
+TQA,Taquara,NDB,BR
+TRM,Tres Marias,VOR-DME,BR
+TUI,Tucurui,VOR-DME,BR
+TUP,Tupa,NDB,BR
+UBA,Ubarana,NDB,BR
+UBT,Ubatuba,NDB,BR
+UI,Chui,NDB,BR
+ULD,Uberlandia,VOR-DME,BR
+URB,Uberaba,NDB,BR
+URC,Coari,NDB,BR
+URG,Uruguaiana,NDB,BR
+URP,Urubupunga,VOR-DME,BR
+URT,Uruburetama,NDB,BR
+VAL,Valadares,NDB,BR
+VCO,Conquista,NDB,BR
+VGH,Varginha,NDB,BR
+VLH,Vilhena,VOR-DME,BR
+VSA,Santo Antao,NDB,BR
+VTR,Vitoria,VOR-DME,BR
+VTR,Vitoria,NDB,BR
+XMA,Gama,VOR,BR
+XPC,Chapeco,VOR-DME,BR
+XRO,Florianopolis,VOR-DME,BR
+YAU,Iauarete,NDB,BR
+YBA,Itumbiara,NDB,BR
+YLA,Ilha,NDB,BR
+YLH,Ilheus,NDB,BR
+YPT,Usiminas,NDB,BR
+YTC,Itacoatiara,NDB,BR
+YTN,Itamarati Norte,NDB,BR
+YTT,Itataia,NDB,BR
+YTZ,Imperatriz,VOR-DME,BR
+YUB,Itaituba,NDB,BR
+BHF,Islands,NDB,BS
+NCZ,Autec,TACAN,BS
+ZBV,Bimini,VORTAC,BS
+ZCC,Chub Cay,NDB,BS
+ZEF,Great Exuma,NDB,BS
+ZFP,Freeport,VOR-DME,BS
+ZFP,Freeport,NDB,BS
+ZGB,Governors Harbour,NDB,BS
+ZIN,Great Inagua,NDB,BS
+ZLS,Stella Maris,NDB,BS
+ZMH,Marsh Harbour,NDB,BS
+ZQA,Nassau,VOR-DME,BS
+ZSJ,San Salvador,NDB,BS
+ZTC,Treasure Cay,VOR-DME,BS
+ZWC,Walker Cay,NDB,BS
+PR,Paro,NDB,BT
+PRO,Paro,VOR,BT
+FTV,Francistown,VOR-DME,BW
+GBE,Gaborone,NDB,BW
+GBL,Gabarone,NDB,BW
+GBV,Gaborone,VOR-DME,BW
+GZ,Ghanzi,NDB,BW
+JWN,Jwaneng,NDB,BW
+KGV,Kang,VOR,BW
+KSV,Kasane,VOR-DME,BW
+LVA,Limpopo Vally,NDB,BW
+MNV,Maun,VOR-DME,BW
+OR,Orapa,NDB,BW
+SP,Selebi Phikwe,NDB,BW
+BY,Brest,NDB,BY
+CO,Mogilev,NDB,BY
+CP,Brest,NDB,BY
+GH,Minsk-2,NDB,BY
+GK,Minsk-1,NDB,BY
+GM,Gomel,NDB,BY
+GOL,Gomel,VOR-DME,BY
+GP,Grodno,NDB,BY
+KI,Ivenets,NDB,BY
+MNS,Minsk-2,VOR-DME,BY
+MV,Gomel,NDB,BY
+NE,Minsk-1,NDB,BY
+PNK,Pinsk,VOR-DME,BY
+QM,Machulishchi,NDB,BY
+UF,Mogilev,NDB,BY
+UU,Vitebsk,NDB,BY
+VTB,Vitebsk,VOR-DME,BY
+VX,Minsk-2,NDB,BY
+WF,Grodno,NDB,BY
+WN,Machulishchi,NDB,BY
+WS,Vitebsk,NDB,BY
+BZE,Belize,VOR-DME,BZ
+1A,Williams Harbour,NDB,CA
+1B,Sable Island,NDB,CA
+1CD,Nanaimo,DME,CA
+1D,Charlottetown,NDB,CA
+1E,Black Tickle,NDB,CA
+1F,Manta,NDB,CA
+1K,Zama Lake,NDB,CA
+1S,North Of Sixty,NDB,CA
+1T,Lloydminster,DME,CA
+1U,Masset,NDB,CA
+1W,Sandy Bay,NDB,CA
+2A,South Indian Lake,NDB,CA
+2B,Springdale,NDB,CA
+2F,Bathurst,DME,CA
+2H,Lebel-sur-Quevillon,NDB,CA
+2J,Grand Forks,NDB-DME,CA
+2K,Camrose,NDB,CA
+2M,Opapimiskan Lake,NDB,CA
+2Q,Mont-Laurier,NDB,CA
+2S,High Prairie,NDB-DME,CA
+2T,Pokemouche,NDB,CA
+2U,Mackenzie Bc,NDB-DME,CA
+2Z,Diavik,NDB,CA
+3D,Cumberland House,NDB,CA
+3F,Ile-A-La-Crosse,NDB,CA
+3H,Consort,NDB,CA
+3I,Mobil Sierra,NDB,CA
+3M,Drayton Valley Industrial,NDB-DME,CA
+3N,Weyburn,NDB,CA
+3P,Muddy Lake,NDB,CA
+3R,Postville,NDB,CA
+3X,Cluff Lake,NDB,CA
+3Y,Donnelly,NDB-DME,CA
+3Z,Russell,NDB,CA
+3Z,Taber,NDB-DME,CA
+4A,Koala,NDB-DME,CA
+4B,Little Grand Rapids,NDB,CA
+4D,Helmet,NDB,CA
+4G,Cross Lake,NDB,CA
+4H,Points North Landing,NDB,CA
+4J,Knee Lake,NDB,CA
+4K,St Theresa Point,NDB,CA
+4L,Chatham,NDB,CA
+4M,Red Sucker Lake,NDB,CA
+4N,Oxford House,NDB,CA
+4O,Swan Hills,NDB,CA
+4Q,Brochet,NDB,CA
+4T,Shamattawa,NDB,CA
+4V,Lac Brochet,NDB,CA
+4W,Kelsey,NDB,CA
+4X,Lac Du Bonnet,NDB,CA
+4Y,Key Lake,NDB,CA
+5B,Summerside,NDB,CA
+5F,Fox Creek,NDB-DME,CA
+5J,Coronation,NDB,CA
+5L,Donaldson,NDB,CA
+5M,Sparwood,NDB,CA
+5O,Gods River,NDB,CA
+5Q,Fontanges,NDB,CA
+5U,Fort Vermilion,NDB-DME,CA
+5V,Drumheller,NDB-DME,CA
+5W,Leaf Rapids,NDB,CA
+5Y,Trenton,NDB,CA
+6E,Grand Manan,NDB,CA
+6F,Port Hope Simpson,NDB,CA
+6G,Red Deer,DME,CA
+6K,Vernon Bc,NDB,CA
+6M,Belleville,NDB,CA
+6Q,Cigar Lake,NDB,CA
+6X,York Landing,NDB,CA
+6Z,La Loche,NDB,CA
+7B,St Thomas,NDB,CA
+7C,Fogo,NDB,CA
+7D,Hudson Bay,NDB,CA
+7F,Collins Bay,NDB,CA
+7H,Marystown,NDB,CA
+7J,Forestburg,NDB,CA
+7L,La Sarre,NDB,CA
+7P,Iroquois Falls,NDB,CA
+7V,Jasper-Hinton,NDB,CA
+8A,Carlyle,NDB,CA
+8C,Fairview,NDB-DME,CA
+8F,Debert,NDB,CA
+8G,Stettler,NDB-DME,CA
+8H,St Paul,NDB,CA
+8J,Provost,NDB,CA
+8K,Valleyview,NDB,CA
+8M,Elk Point,NDB-DME,CA
+8N,Edson,NDB-DME,CA
+9A,Hanna,NDB,CA
+9G,Sundre,NDB,CA
+9H,La Grande 3,NDB,CA
+9Q,Amos,NDB,CA
+9S,Powell River Bc,DME,CA
+9X,Brooks,NDB-DME,CA
+9Y,Pincher Creek,NDB,CA
+9Z,Westlock,NDB-DME,CA
+A1,Taltheilei Narrows,NDB,CA
+A5,Chinchaga,NDB,CA
+A9,Liverpool,NDB,CA
+AC,Pleasant Lake,NDB,CA
+AP,Active Pass,NDB,CA
+AY,St Anthony,NDB,CA
+B5,Gunisao Lake,NDB,CA
+BC,Baie Comeau,NDB,CA
+BD,Baildon,NDB,CA
+BM,Balmoral,NDB,CA
+BR,Brandon,NDB,CA
+BV,Champlain,NDB,CA
+BX,Blanc Sablon,NDB,CA
+BY,Beechy,NDB,CA
+C7,Geraldton,NDB,CA
+CA,Cartwright,NDB,CA
+CB,Cambridge Bay,NDB,CA
+CG,Castlegar,NDB,CA
+CL,Charlo,NDB,CA
+D1,Great Bear Lake,NDB,CA
+D3,Ponoka Indus,NDB,CA
+D4,Rocanville,NDB,CA
+D5,Melfort,NDB,CA
+D5,Mcarthur River,NDB,CA
+D6,Fairmont Hot Springs,NDB-DME,CA
+D7,Kincardine,NDB,CA
+D8,Dolbeau,NDB,CA
+DA,Dawson City,NDB,CA
+DC,Princeton,NDB,CA
+E2,Tisdale,NDB,CA
+E3,Wabasca,NDB-DME,CA
+EF,Champion,NDB,CA
+EX,Rutland,NDB,CA
+F4,Little Cornwallis Island,NDB,CA
+F6,Chetwynd,NDB,CA
+F7,Georgian Bay,NDB,CA
+F8,Victoriaville,NDB,CA
+F9,Miramichi,NDB,CA
+FC,Fredericton,NDB,CA
+FD,Brantford,NDB,CA
+FE,Forestville,NDB,CA
+FK,Junction,NDB,CA
+FO,Flin Flon,NDB,CA
+FR,Fort Resolution,NDB,CA
+G6,La Biche River,NDB,CA
+GD,Goderich,NDB,CA
+GF,Aylesford,NDB,CA
+GR,Grindstone,NDB,CA
+GW,Jarpik,NDB,CA
+GX,Gillam,DME,CA
+H7,Manitoulin,NDB,CA
+HE,Hope,NDB,CA
+HI,Holman,NDB,CA
+HM,Hamilton,NDB,CA
+I6R,Bromont,DME,CA
+IB,Atikokan,NDB,CA
+IBL,Campbell River,DME,CA
+IBX,Lourdes-De-Blanc-Sablon,DME,CA
+IDC,Fredericton,DME,CA
+IEV,Inuvik,DME,CA
+IFB,Iqualuit,DME,CA
+IGV,Havre St Pierre,DME,CA
+IHD,Dryden Regional,DME,CA
+IHR,Chevery,DME,CA
+IHZ,Halifax,DME,CA
+IIF,St-Augustin,DME,CA
+IJS,Toronto,DME,CA
+IKZ,Buttonville,DME,CA
+INV,Toronto,DME,CA
+IOA,Montreal Dorval Intl,DME,CA
+IOO,Oshawa,DME,CA
+IOW,Ottawa,DME,CA
+IPR,Prince Rupert,DME,CA
+IQH,Watson Lake,DME,CA
+IQX,Gander,DME,CA
+IRJ,Roberval,DME,CA
+ITF,Alma,DME,CA
+ITO,Toronto,DME,CA
+ITZ,City Centre,DME,CA
+IUL,Montreal,DME,CA
+IUY,Rouyn,DME,CA
+IV,Island Lake,DME,CA
+IXC,Cranbrook,DME,CA
+IXD,Edmonton Muni,DME,CA
+IXT,Terrace,DME,CA
+IYC,Calgary,DME,CA
+J7,One Hunderd Eight Mile,NDB-DME,CA
+JB,Laberge,NDB,CA
+JT,Stephenville,NDB,CA
+JW,Pigeon,NDB,CA
+K2,Olds-Didsbury,NDB,CA
+K5,Maple Creek,NDB,CA
+K7,Ste-Anne-Des-Monts,NDB,CA
+K8,Nemiscau,NDB,CA
+KL,Schefferville,NDB,CA
+KR,Squaw,NDB,CA
+KZ,Buttonville,NDB,CA
+L4,Nipawin,NDB,CA
+L7,Estevan,NDB,CA
+LF,La Salle,NDB,CA
+LT,Alert,NDB,CA
+LU,Cultus,NDB,CA
+LW,Kelowna,NDB,CA
+M3,Kindersley,NDB,CA
+M4,Gimli Indus Park,NDB,CA
+M5,Manning,NDB-DME,CA
+M9,Kathlyn,NDB,CA
+MA,Mayo,NDB,CA
+MB,Mill Bay,NDB,CA
+ME,Matane,NDB,CA
+ML,Charlevoix,NDB,CA
+MM,Fort Mcmurray,NDB,CA
+MS,Mcinnes Island,NDB,CA
+MT,Chiboo,NDB,CA
+N4,Swan River,NDB,CA
+N9,Tumbler,NDB,CA
+NA,Natash,NDB,CA
+NE,Norway House,DME,CA
+NI,Assiniboia,NDB,CA
+NM,Matagami,NDB,CA
+OO,Oshawa,NDB,CA
+OU,Ste-Foy,NDB,CA
+OW,Ottawa,NDB,CA
+P2,Wetaskiwin,NDB-DME,CA
+PA,Prince Albert,NDB,CA
+PEC,Jasper-Hinton,DME,CA
+PG,Portage,NDB,CA
+PH,Inukjuak,NDB,CA
+PJ,Robinson,NDB,CA
+PL,Pickle Lake,DME,CA
+PN,Port Menier,NDB,CA
+PR,Prince Rupert,NDB,CA
+PY,Fort Chipewyan,NDB,CA
+Q1,Tadoule Lake,NDB,CA
+Q5,Grande Cache,NDB,CA
+QB,Quebec,NDB,CA
+QG,Windsor,NDB,CA
+QH,Watson Lake,NDB,CA
+QL,Lethbridge,NDB,CA
+QM,Moncton,NDB,CA
+QN,Nakina,NDB,CA
+QQ,Comox,NDB,CA
+QR,Regina,NDB,CA
+QT,Thunder Bay,NDB,CA
+QU,Grande Prairie,NDB,CA
+QW,North Battleford,NDB,CA
+QX,Gander,NDB,CA
+QY,Sydney,NDB,CA
+R1,Thetford Mines,NDB,CA
+R5,Pukatawagan,NDB,CA
+RJ,Roberval,NDB,CA
+RU,Cape Martyr,NDB,CA
+S7,Hanover,NDB,CA
+SB,Sudbury,NDB,CA
+SM,Fort Smith,NDB,CA
+SN,St. Catharines,NDB,CA
+SX,Skookum,NDB,CA
+T8,St-FrÃ©dÃ©ric,NDB,CA
+TB,Skeena,NDB,CA
+TS,Timmins,NDB,CA
+TV,Turner Valley,NDB,CA
+TZ,Gibraltar Point,NDB,CA
+U6,Creston,NDB,CA
+UAU,Mckay,TACAN,CA
+UAW,Shearwater,TACAN,CA
+UB,Tuktoyaktuk,NDB,CA
+UDE,Delta,NDB,CA
+UFX,St-Felix-de-Valois,NDB,CA
+UHA,Quaqtaq,NDB,CA
+UL,Montreal,NDB,CA
+ULT,Alert,TACAN,CA
+UM,Churchill Falls,NDB,CA
+UNT,Naramata,NDB,CA
+UOD,Cold Lake,TACAN,CA
+UQQ,Comox,TACAN,CA
+UTR,Trenton,TACAN,CA
+UYR,Goose,TACAN,CA
+UYT,St.John's,TACAN,CA
+UZV,Sept Iles,TACAN,CA
+UZX,Greenwood,TACAN,CA
+V1,Moose Jaw Muni,NDB,CA
+V2,Humboldt,NDB,CA
+V4,Bonnyville,NDB,CA
+V6,Salmon Arm,NDB-DME,CA
+VBI,Sioux Narrows,VORTAC,CA
+VBS,Saguenay,VOR-DME,CA
+VC,La Ronge,NDB,CA
+VIE,Coehill,VOR-DME,CA
+VLN,Lumsden,VORTAC,CA
+VLR,Langruth,VORTAC,CA
+VLV,Beauce,VOR-DME,CA
+VO,Val-d'Or,NDB,CA
+VR,Vancouver,VOR-DME,CA
+VX,Dafoe,NDB,CA
+W2,Kirby,NDB,CA
+W4,Jenpeg,NDB,CA
+W6,Creston North,NDB,CA
+W7,Pabok (Du Rocher-Perce),NDB,CA
+WC,White Rock,NDB,CA
+WG,Winnipeg,NDB,CA
+WK,Wabush,NDB,CA
+X2,Athabasca,NDB-DME,CA
+X7,Donaldson,VOR-DME,CA
+XBG,Bagotville,TACAN,CA
+XC,Cranbrook,NDB,CA
+XCG,Castlegar,DME,CA
+XD,Edmonton,NDB,CA
+XE,Saskatoon,NDB,CA
+XG,Lakeshore,NDB,CA
+XH,Medicine Hat,NDB,CA
+XL,Sioux Lookout,DME,CA
+XPP,Kamloops,DME,CA
+XS,Prince George,NDB,CA
+XT,Terrace,NDB,CA
+XX,Abbotsford,NDB,CA
+XY,Whitehorse,NDB,CA
+XYF,Penticton,DME,CA
+XZ,Wawa,NDB,CA
+Y3,Bonnyville,DME,CA
+Y5,Slave Lake,DME,CA
+Y8,Drummondville,NDB,CA
+Y9,Digby,NDB,CA
+YAG,Fort Frances,NDB,CA
+YAN,Ameson,VOR-DME,CA
+YAQ,Kasabonika,NDB,CA
+YAS,Kangirsuk,NDB,CA
+YAT,Wapisk,NDB,CA
+YAY,St.aAthony nNld,VOR-DME,CA
+YAZ,Tofino,NDB,CA
+YBC,Baie-Comeau,VOR-DME,CA
+YBE,Uranium City,NDB,CA
+YBG,Bagotville,NDB,CA
+YBK,Baker Lake,VOR-DME,CA
+YBL,Campbell River,NDB,CA
+YBR,Brandon,VORTAC,CA
+YBV,Berens River,NDB,CA
+YCB,Cambridge Bay,VOR-DME,CA
+YCD,Nanaimo,NDB,CA
+YCF,Campbellford,DME,CA
+YCO,Coppermine,NDB,CA
+YCS,Chesterfield Inlet,NDB,CA
+YCY,Clyde River,NDB,CA
+YDC,Princeton,VORTAC,CA
+YDF,Deer Lake,VOR-DME,CA
+YDL,Dease Lake,NDB,CA
+YDM,Ross River,NDB,CA
+YDN,Dauphin,VOR-DME,CA
+YDP,Nain,NDB,CA
+YDR,Broadview,VORTAC,CA
+YE,Fort Nelson,NDB,CA
+YEA,Empress,VORTAC,CA
+YEE,Midland,VOR-DME,CA
+YEG,Edmonton,VORTAC,CA
+YEK,Arviat,NDB,CA
+YEL,Elliot Lake,NDB,CA
+YER,Fort Severn,NDB,CA
+YEU,Eureka,NDB,CA
+YEV,Inuvik,VOR-DME,CA
+YFA,Fort Albany,NDB,CA
+YFB,Frobay,VOR,CA
+YFC,Fredericton,VORTAC,CA
+YFM,Lg 4,NDB,CA
+YFS,Fort Simpson,VOR-DME,CA
+YG,Charlottetown,NDB,CA
+YGH,Fort Good Hope,VOR-DME,CA
+YGK,Kingston,NDB,CA
+YGL,La Grande Riviere,VOR-DME,CA
+YGP,Gaspe,VOR-DME,CA
+YGQ,Geraldton,VOR-DME,CA
+YGR,Grindstone,VOR-DME,CA
+YGV,Havre St Pierre,NDB,CA
+YGX,Gillam,NDB,CA
+YHD,Dryden Regional,NDB,CA
+YHK,Gjoa Haven,NDB,CA
+YHR,Chevery,NDB,CA
+YHY,Hay River,VOR-DME,CA
+YHZ,Halifax,VOR-DME,CA
+YIF,St Augustin,NDB,CA
+YIK,Ivujivik,NDB,CA
+YIO,Pond Inlet,NDB,CA
+YIV,Island Lake,NDB,CA
+YJ,Victoria,NDB,CA
+YJI,Broughton,NDB,CA
+YJN,St-Jean,VORTAC,CA
+YJQ,Bella Bella,NDB,CA
+YJT,Stephenville,VORTAC,CA
+YK,Brilliant,NDB,CA
+YKA,Kamloops,NDB,CA
+YKG,Kangiqsujuaq,NDB,CA
+YKL,Schefferville,VOR-DME,CA
+YKQ,Waskaganish,NDB,CA
+YKX,Kirkland Lake,NDB,CA
+YLA,Aupaluk,NDB,CA
+YLD,Chapleau,NDB,CA
+YLL,Lloydminster,NDB,CA
+YLQ,La Tuque,NDB,CA
+YMH,Mary'S Harbour,NDB,CA
+YMJ,Moose Jaw,VORTAC,CA
+YMM,Fort Mcmurray,VOR-DME,CA
+YMO,Moosonee,VOR-DME,CA
+YMS,Mans,VORTAC,CA
+YMT,Chiboo,DME,CA
+YMU,Umiujaq,NDB,CA
+YMW,Maniwaki,NDB,CA
+YMX,Mirabel,VOR-DME,CA
+YMY,Ear Falls,NDB,CA
+YNA,Natash,VOR-DME,CA
+YNC,Wemindji,NDB,CA
+YNE,Norway House,NDB,CA
+YNY,Enderby,VORTAC,CA
+YOC,Old Crow,NDB,CA
+YOD,Cold Lake,NDB,CA
+YOJ,High Level,VOR-DME,CA
+YOW,Ottawa,VOR-DME,CA
+YPA,Prince Albert,VOR-DME,CA
+YPC,Paulatuk,NDB,CA
+YPE,Peace River,VOR-DME,CA
+YPG,Portage,VOR-DME,CA
+YPK,Pitt Meadows Bc,VOR,CA
+YPL,Pickle Lake,NDB,CA
+YPO,Peawanuck,NDB,CA
+YPP,Parent Que,NDB,CA
+YPQ,Peterborough,NDB,CA
+YPW,Powell River,NDB,CA
+YPX,Puvirnituq,NDB,CA
+YPX,Puvirnituq Que,DME,CA
+YQB,Quebec,VORTAC,CA
+YQD,The Pas,VOR-DME,CA
+YQF,Red Deer,NDB,CA
+YQG,Windsor,VOR-DME,CA
+YQH,Watson Lake,VOR-DME,CA
+YQI,Yarmouth,VOR-DME,CA
+YQK,Kenora,NDB,CA
+YQL,Lethbridge,VOR-DME,CA
+YQM,Moncton,VORTAC,CA
+YQT,Thunder Bay,VORTAC,CA
+YQU,Grande Prairie,VOR-DME,CA
+YQV,Yorkton,VORTAC,CA
+YQX,Gander,VORTAC,CA
+YQY,Sydney,VORTAC,CA
+YR,Goose,NDB,CA
+YRB,Resolute Bay,VOR-DME,CA
+YRC,St.hHnore,NDB,CA
+YRI,Riviere Du Loup,VOR,CA
+YRL,Red Lake,VOR-DME,CA
+YRM,Rocky Mtn House,VOR-DME,CA
+YRQ,Trois RiviÃ¨res,NDB,CA
+YRR,Greely,NDB,CA
+YRT,Rankin Inlet,VOR-DME,CA
+YSB,Sudbury,VOR-DME,CA
+YSF,Stony Rapids,NDB,CA
+YSJ,Saint John,VOR-DME,CA
+YSM,Fort Smith,VOR-DME,CA
+YSO,Simcoe,VOR-DME,CA
+YSP,Marathon,VOR-DME,CA
+YSR,Nanisivik,NDB,CA
+YSY,Sachs Harbour,NDB,CA
+YTA,Pembroke,NDB,CA
+YTE,Cape Dorset,NDB,CA
+YTF,Alma,NDB,CA
+YTH,Thompson,VOR-DME,CA
+YTJ,Terrace Bay,NDB,CA
+YTL,Big Trout Lake,NDB,CA
+YTP,Pearson,VOR-DME,CA
+YTQ,Tasiujaq,NDB,CA
+YTR,Trenton,NDB,CA
+YTS,Timmins,VOR-DME,CA
+YU,Kapuskasing,DME,CA
+YUL,Montreal,VOR-DME,CA
+YUT,Repulse Bay,NDB,CA
+YUX,Hall Beach,VOR-DME,CA
+YUY,Rouyn,NDB,CA
+YVC,La Ronge,VOR-DME,CA
+YVO,Val-d'Or,VOR-DME,CA
+YVP,Kujack,VOR-DME,CA
+YVQ,Norman Wells,VOR-DME,CA
+YVV,Wiarton,VORTAC,CA
+YWA,Petawawa,NDB,CA
+YWG,Winnipeg,VORTAC,CA
+YWK,Wabush,VOR-DME,CA
+YWL,Williams Lake,VORTAC,CA
+YWO,Lupin,NDB,CA
+YWP,Webequie,NDB,CA
+YWT,Waterloo,DME,CA
+YXC,Cranbrook,VOR-DME,CA
+YXE,Saskatoon,VORTAC,CA
+YXI,Killaloe,VOR-DME,CA
+YXJ,Fort St.jJhn,VOR-DME,CA
+YXK,Rimouski,NDB,CA
+YXL,Sioux Lookout,NDB,CA
+YXN,Whale Cove,NDB,CA
+YXP,Pangnirtung,NDB,CA
+YXQ,Beaver Creek,NDB,CA
+YXS,Prince George,VOR-DME,CA
+YXU,London,VORTAC,CA
+YXY,Whitehorse,VOR-DME,CA
+YXZ,Wawa,VOR-DME,CA
+YY,Mont Joli,NDB,CA
+YYB,North Bay,VOR-DME,CA
+YYC,Calgary,VOR-DME,CA
+YYD,Houston,VOR-DME,CA
+YYE,Fort Nelson,VOR-DME,CA
+YYF,Penticton,NDB,CA
+YYG,Charlottetown,VOR-DME,CA
+YYH,Taloyoak,NDB,CA
+YYJ,Victoria,VOR-DME,CA
+YYL,Lynn Lake,VOR-DME,CA
+YYN,Swift Current,VOR-DME,CA
+YYQ,Churchill,VOR-DME,CA
+YYR,Goose,VOR-DME,CA
+YYT,Torbay,VOR-DME,CA
+YYW,Armstrong,NDB,CA
+YYY,Mont Joli,VOR-DME,CA
+YYZ,Toronto,VOR-DME,CA
+YZA,Ashcroft,NDB,CA
+YZF,Yellowknife,VORTAC,CA
+YZP,Sandspit,VORTAC,CA
+YZS,Coral Harbour,NDB,CA
+YZT,Port Hardy,VORTAC,CA
+YZU,Whitecourt,VOR-DME,CA
+YZV,Sept Iles,VOR,CA
+YZX,Greenwood,NDB,CA
+Z1,Three Hills,NDB,CA
+Z2,Rainbow Lake,DME,CA
+Z5,Vulcan,NDB-DME,CA
+Z7,Claresholm,NDB,CA
+ZAB,Leduc,NDB,CA
+ZCA,Blackfoot,NDB,CA
+ZCH,Beluga,NDB,CA
+ZDH,Rexdale,NDB,CA
+ZDV,Valois,NDB,CA
+ZEG,Nisku,NDB,CA
+ZEM,Eastmain,NDB,CA
+ZET,Devon,NDB,CA
+ZF,Yellowknife,NDB,CA
+ZFA,Faro,NDB,CA
+ZHA,Ancaster,NDB,CA
+ZHD,Barclay,NDB,CA
+ZHM,Binbrook,NDB,CA
+ZHT,Forks,NDB,CA
+ZHU,Hauts-Bois,NDB,CA
+ZJT,Harmon,NDB,CA
+ZKF,Wellington,NDB,CA
+ZKI,Kitimat,NDB,CA
+ZL,Liard River,NDB,CA
+ZLB,Britannia,NDB,CA
+ZLP,Meadowvale,NDB,CA
+ZMC,Sapray,NDB,CA
+ZMM,Joly,NDB,CA
+ZMN,Lewisville,NDB,CA
+ZMR,Hermas,NDB,CA
+ZMT,Jarry,NDB,CA
+ZMX,Janvier,NDB,CA
+ZPA,Glass,NDB,CA
+ZQG,Laurel,NDB,CA
+ZQM,Riverview,NDB,CA
+ZQR,Findlay,NDB,CA
+ZQT,Superior,NDB,CA
+ZQY,Bras D Or,NDB,CA
+ZRG,Brophy,NDB,CA
+ZRJ,Round Lake,NDB,CA
+ZRS,Ajax,NDB,CA
+ZS,Coral Harbour,DME,CA
+ZSB,Noranda,NDB,CA
+ZSJ,Sandy Lake,NDB,CA
+ZSK,Moonlake,NDB,CA
+ZSM,Gros Cap,NDB,CA
+ZSS,Yellowhead,NDB,CA
+ZST,Alpine,NDB,CA
+ZTH,Headframe,NDB,CA
+ZTO,Woodhill,NDB,CA
+ZUL,Rockland,NDB,CA
+ZV,Sept Iles,NDB,CA
+ZVR,Sea Island,NDB,CA
+ZWG,Stoney,NDB,CA
+ZWN,Downs,NDB,CA
+ZWW,Boine,NDB,CA
+ZXD,Blatchford,NDB,CA
+ZXE,Barnes,NDB,CA
+ZXJ,Taylor,NDB,CA
+ZXS,Northwood,NDB,CA
+ZXY,Klondike,NDB,CA
+ZYB,Yellek,NDB,CA
+ZYC,Sarcee,NDB,CA
+ZYD,Glace Bay,NDB,CA
+ZYG,Cavendish,NDB,CA
+ZYQ,Polarbear,NDB,CA
+ZYZ,Queensway,NDB,CA
+ZZD,Calmar,NDB,CA
+ZZR,Severn,NDB,CA
+ZZV,Monoghan,NDB,CA
+ZZZ,Nicklebelt,NDB,CA
+CC,Cocos (Keeling) Island,VOR-DME,CC
+CC,Cocos (Keeling) Island,NDB,CC
+CIL,Cocos (Keeling) Island,NDB,CC
+BAN,Bandundu,NDB,CD
+BBA,Bumba,NDB,CD
+BDE,Boende,NDB,CD
+BE,Kamina Base,NDB,CD
+BKV,Bukavu,NDB,CD
+BLT,Gbadolite,VOR-DME,CD
+BLT,Gbadolite,NDB,CD
+BOM,Boma,NDB,CD
+BSU,Basankusu,NDB,CD
+BUN,Bunia,VOR,CD
+BUN,Bunia,NDB,CD
+BUT,Buta,NDB,CD
+BW,Kamina Base,NDB,CD
+GEM,Gemena,NDB,CD
+GOM,Goma,VOR-DME,CD
+GS,Goma,NDB,CD
+INO,Inongo,NDB,CD
+IRO,Isiro,NDB,CD
+KAL,Kalima,NDB,CD
+KE,Kitona Base,NDB,CD
+KGI,Bangoka,VOR-DME,CD
+KIN,Kindu,VOR,CD
+KIS,Bangoka,NDB,CD
+KIT,Kitona Base,VOR,CD
+KKW,Kikwit,NDB,CD
+KMB,Kamina Base,VOR,CD
+KMI,Kalemie,VOR,CD
+KMI,Kalemie,NDB,CD
+KNG,Kananga,VOR-DME,CD
+KOT,Kotakoli,NDB,CD
+KSA,Ndjili,VOR-DME,CD
+KW,Kitona Base,NDB,CD
+KWZ,Kolwezi,NDB,CD
+LE,Lubumbashi,NDB,CD
+LIB,Libenge,NDB,CD
+LIS,Lisala,NDB,CD
+LJA,Lodja,VOR,CD
+LUB,Lubumbashi,VOR-DME,CD
+MBA,Mbandaka,VOR-DME,CD
+MBY,Mbuji Mayi,VOR-DME,CD
+MN,Mbuji Mayi,NDB,CD
+MS,Matadi,NDB,CD
+MS,Mbandaka,NDB,CD
+MTI,Matadi,NDB,CD
+NDO,Ndolo,NDB,CD
+OK,Ndjili,NDB,CD
+OL,Lubumbashi,NDB,CD
+TKP,Tshikapa,NDB,CD
+BN,Bangui M Poko,NDB,CF
+BO,Birao,NDB,CF
+BP,Bangui M Poko,NDB,CF
+BT,Berberati,VOR,CF
+FBU,Bouar,NDB,CF
+IA,Bria,VOR,CF
+KB,Kembe,NDB,CF
+LE,Ndele,VOR,CF
+MPK,Bangui M Poko,VOR-DME,CF
+PK,Bangui M Poko,NDB,CF
+BZ,Brazzaville Maya Maya,VOR-DME,CG
+CF,Makoua,VOR,CG
+IP,Impfondo,NDB,CG
+IT,Pointe Noire,VOR,CG
+LO,Dolisie,NDB,CG
+MK,Makabana,NDB,CG
+OU,Ouesso,NDB,CG
+BER,Bern,NDB,CH
+CVA,Corvatsch,DME,CH
+FRI,Fribourg,VOR-DME,CH
+GLA,Gland,NDB,CH
+GVA,Geneva Cointrin,VOR-DME,CH
+HOC,Hochwald,VOR-DME,CH
+KLO,Kloten,VOR-DME,CH
+LAP,La Praz,DME,CH
+MOT,Montana,VOR-DME,CH
+MUR,Muri,NDB,CH
+PAS,Passeiry,VOR-DME,CH
+SHU,Schupberg,NDB,CH
+SIO,Sion,VOR-DME,CH
+SPR,St-Prex,VOR-DME,CH
+TRA,Trasadingen,DME,CH
+WIL,Willisau,VOR-DME,CH
+ZUE,Zurich East,VOR-DME,CH
+AD,Abidjan,VOR-DME,CI
+AFO,Afienou,NDB,CI
+AN,Abidjan,NDB,CI
+BDI,Boundiali,NDB,CI
+BDU,Bondoukou/Soko,VOR,CI
+BKE,Bouake,NDB,CI
+BKY,Bouake,VOR-DME,CI
+BNA,Bouna/Tehini,NDB,CI
+DA,Daloa,NDB,CI
+GGA,Gagnoa,NDB,CI
+KH,Korhogo,NDB,CI
+KRG,Korhogo,VOR,CI
+MN,Man,NDB,CI
+ODN,Odienne,VOR-DME,CI
+PB,Abidjan Felix Houphouet Boigny,NDB,CI
+SGA,Seguela,NDB,CI
+SPO,San Pedro,VOR-DME,CI
+SS,Sassandra,NDB,CI
+TBA,Touba,NDB,CI
+TBU,Tabou,NDB,CI
+YAM,Yamoussoukro,VOR-DME,CI
+YKO,Yamoussoukro,NDB,CI
+YMO,Yamoussoukro,NDB,CI
+AI,Aitutaki,NDB,CK
+AT,Atiu,NDB,CK
+MH,Manihiki,NDB,CK
+PY,Penrhyn,NDB,CK
+RG,Rarotonga,VOR-DME,CK
+AMB,Santiago,VOR-DME,CL
+ARI,Arica,VOR-DME,CL
+BAL,Balmaceda,VOR-DME,CL
+CAR,Concepcion,VOR-DME,CL
+CE,Concepcion,NDB,CL
+CFL,Calama,NDB,CL
+CFM,Capitan Fuentes Martinez,NDB,CL
+CHE,Chena,NDB,CL
+CHI,Chillan,VOR-DME,CL
+CLD,Caldera,NDB,CL
+COP,Coposa,NDB,CL
+CTN,Constitucion,NDB,CL
+DAT,Atacama,VOR-DME,CL
+ERO,Quintero,NDB,CL
+FAG,Antofagasta,VOR-DME,CL
+ICO,Curico,VOR-DME,CL
+IPA,Isla De Pascua,VOR-DME,CL
+IQQ,Iquique,VOR-DME,CL
+IRC,Isla Robinson Crusoe,NDB,CL
+LOA,Calama,VOR-DME,CL
+MAD,Los Angeles,VOR,CL
+MJL,Mejillones,NDB,CL
+MO,Trapen,NDB,CL
+MON,Puerto Montt,VOR-DME,CL
+NAS,Punta Arenas,VOR-DME,CL
+NES,Coposa,NDB,CL
+ON,El Tepual,NDB,CL
+OSO,Osorno,VOR-DME,CL
+PAR,Puerto Aguirre,VOR-DME,CL
+PDH,Pudahuel,VOR-DME,CL
+PIL,Melipilla,NDB,CL
+PNT,Puerto Natales,VOR-DME,CL
+PWL,Puerto Williams,VOR-DME,CL
+R,Diego Aracena,NDB,CL
+R,Arica,NDB,CL
+R,Antofagasta,NDB,CL
+SAL,Salinas,NDB,CL
+SER,La Serena,VOR-DME,CL
+SNO,Santo Domingo,VOR-DME,CL
+SOM,Cerro Sombrero,NDB,CL
+STI,Los Cerrillos,VOR-DME,CL
+TAL,Talagante,NDB,CL
+TBN,Tabon,VOR-DME,CL
+TCO,Temuco,VOR-DME,CL
+TEN,Chaiten,NDB,CL
+TEP,Puerto Montt,NDB,CL
+TOC,Tocopilla,VOR,CL
+TOY,Tongoy,VOR-DME,CL
+UCU,Iquique,NDB,CL
+UE,Lo Castro,NDB,CL
+VLD,Valdivia,VOR-DME,CL
+VLD,Valdivia,NDB,CL
+VTN,Ventanas,VOR-DME,CL
+BF,Bafoussam,VOR-DME,CM
+BND,Bamenda,VOR-DME,CM
+BO,Bafoussam,NDB,CM
+BT,Bertoua,NDB,CM
+DE,Edea,NDB,CM
+DLA,Douala,VOR-DME,CM
+GRO,Garoua,NDB,CM
+KB,Kribi,NDB,CM
+MF,Mamfe,VOR,CM
+NLY,Yaounde Nsimalen,VOR-DME,CM
+TI,Tiko,NDB,CM
+TJI,Batouri,NDB,CM
+TJJ,Mbanga,NDB,CM
+TJL,Maroua/Salak,NDB,CM
+TJM,Foumban Nkounja,NDB,CM
+TJN,Ngaoundere,VOR,CM
+TJP,Kaele,NDB,CM
+TJR,Garoua,VOR-DME,CM
+TJR,Garoua,NDB,CM
+TJS,Dschang,NDB,CM
+YK,Douala,NDB,CM
+YO,Yaounde,NDB,CM
+AND,Andong,VOR-DME,CN
+B,Hongqiao,NDB,CN
+BAV,Baotou,VOR-DME,CN
+BH,Gaoyao,NDB,CN
+BHS,Baihesi,VOR-DME,CN
+BK,Ningbo,NDB,CN
+BM,Wafangdian,NDB,CN
+BNN,Xishuangbanna,VOR-DME,CN
+BS,Liyuantun,NDB,CN
+BSE,Bose,VOR-DME,CN
+BTO,Potou,VOR-DME,CN
+BZ,Yunhe,NDB,CN
+C,Hongqiao,NDB,CN
+CD,Qingbaikou,NDB,CN
+CEN,Cencun,VOR-DME,CN
+CG,Tianjin,NDB,CN
+CGO,Zhengzhou,VOR-DME,CN
+CHG,Chaoyang,VOR-DME,CN
+CHW,Jiayuguan,VOR-DME,CN
+CJ,Jianqiao,NDB,CN
+CKG,Chongqing,VOR-DME,CN
+CON,Conghua,VOR-DME,CN
+CSX,Changsha,VOR-DME,CN
+CTU,Shuangliu,VOR-DME,CN
+CU,Shahe,NDB,CN
+CZ,Tonglu,NDB,CN
+CZH,Chongzhou,VOR-DME,CN
+DA,Hebaohu,NDB,CN
+DDG,Dandong,VOR-DME,CN
+DHN,Dahushan,VOR-DME,CN
+DJC,Wangjiachuan,VOR-DME,CN
+DKO,Dengkou,VOR-DME,CN
+DLC,Dalian,VOR-DME,CN
+DM,Zedang,NDB,CN
+DNC,Lanzhou,VOR-DME,CN
+DO,Zhoukou,NDB,CN
+DO,Qingzhou,NDB,CN
+DS,Heliushui,NDB,CN
+DSH,Dangshan,VOR-DME,CN
+DY,Yabrai,NDB,CN
+DZH,Zhonghe,VOR,CN
+ENH,Enshi,VOR-DME,CN
+ERE,Eren,VOR-DME,CN
+FB,Kaiyuan,NDB,CN
+FC,Fujiazhuang,NDB,CN
+FJ,Chaoyang,NDB,CN
+FJC,Fujiachang,VOR-DME,CN
+FKG,Fukang,VOR-DME,CN
+FL,Wuji,NDB,CN
+FLG,Fuling,VOR-DME,CN
+FM,Linli,NDB,CN
+FO,Baiyun,NDB,CN
+FOC,Fuzhou,VOR-DME,CN
+FQG,Fuqing,VOR-DME,CN
+FR,Wufengxi,NDB,CN
+FYU,Fuyu,VOR-DME,CN
+FZ,Tunli,NDB,CN
+GAO,Nanchong,VOR-DME,CN
+GJ,Laoliangcang,NDB,CN
+GLN,Guanlan,VOR-DME,CN
+GM,Fengning,NDB,CN
+GMA,Gengma,VOR-DME,CN
+GS,Lishui,NDB,CN
+GT,Qunli,NDB,CN
+GYA,Gaoyao,VOR-DME,CN
+HCH,Huangcheng,VOR-DME,CN
+HD,Tumurtai,NDB,CN
+HFE,Hefei,VOR-DME,CN
+HG,Tianhe,NDB,CN
+HG,Hengshui,NDB,CN
+HGH,Hangzhou,VOR-DME,CN
+HL,Dongshan,NDB,CN
+HLD,Hailar,VOR-DME,CN
+HMI,Hami,VOR-DME,CN
+HO,Changwu,NDB,CN
+HQ,Qijiang,NDB,CN
+HRB,Harbin,VOR-DME,CN
+HSH,Hengsha,VOR-DME,CN
+HSN,Zhoushan,VOR-DME,CN
+HTN,Hotan,VOR-DME,CN
+HUR,Huairou,VOR-DME,CN
+HUY,Huayuan,VOR-DME,CN
+HX,Weining,NDB,CN
+HZ,Tianmen,NDB,CN
+ID,Xiaodanyang,NDB,CN
+IJ,Haiqing,NDB,CN
+J,Tianjin,NDB,CN
+JA,Dexin,NDB,CN
+JB,Dongying,NDB,CN
+JB,Zangangzhen,NDB,CN
+JG,Xinzheng,NDB,CN
+JH,Fuling,NDB,CN
+JHG,Ganlanba,VOR-DME,CN
+JIG,Jingning,VOR-DME,CN
+JK,Longli,NDB-DME,CN
+JMU,Jiamusi,VOR-DME,CN
+JR,Liangxiang,NDB,CN
+JS,Tianjin,NDB,CN
+JTA,Jingtai,VOR-DME,CN
+JTG,Jintang,VOR-DME,CN
+JTN,Jiuting,VOR-DME,CN
+JW,Yongfu,NDB,CN
+JX,Weixian,NDB,CN
+KC,Laibin,NDB,CN
+KCA,Kuqa,VOR-DME,CN
+KG,Longkou,NDB,CN
+KHG,Kashi,VOR-DME,CN
+KHN,Xiangtang,VOR-DME,CN
+KJ,Hohhot,NDB,CN
+KM,Dahushan,NDB,CN
+KM,Huailai,NDB,CN
+KMG,Kunming,VOR-DME,CN
+KN,Dongshan,NDB,CN
+KOW,Ganzhou,VOR-DME,CN
+KR,Nanchengzi,NDB,CN
+KV,Xinzheng,NDB,CN
+KWE,Guiyang,VOR-DME,CN
+KWL,Guilin,VOR-DME,CN
+KY,Wangbingou,NDB,CN
+KYU,Kaiyuan,VOR-DME,CN
+L,Beijing,NDB,CN
+LBN,Laibin,VOR-DME,CN
+LCH,Longchang,VOR-DME,CN
+LH,Huguang,NDB,CN
+LIG,Liling,VOR-DME,CN
+LJ,Qiqihar,NDB,CN
+LJB,Wanchang,VOR-DME,CN
+LJG,Lianjiang,VOR-DME,CN
+LKO,Longkou,VOR-DME,CN
+LLC,Laoliangcang,VOR-DME,CN
+LMN,Longmen,VOR-DME,CN
+LO,Wolong,NDB,CN
+LQ,Shilong,NDB,CN
+LR,Gubeikou,NDB,CN
+LR,Kunming,NDB,CN
+LUX,Luanxian,VOR-DME,CN
+LXA,Lhasa,VOR-DME,CN
+LXI,Luxi,VOR-DME,CN
+LZ,Liling,NDB,CN
+MA,Lianshengwei,NDB,CN
+MLT,Dongmulantou,VOR-DME,CN
+NCH,Changbei,VOR-DME,CN
+NDG,Qiqihar,VOR-DME,CN
+NF,Nanfeng,NDB,CN
+NGB,Ningbo,VOR-DME,CN
+NHW,Nanhui,VOR-DME,CN
+NL,Longzhou,NDB,CN
+NLG,Nanlang,VOR-DME,CN
+NNG,Nanning,VOR-DME,CN
+NNX,Nanxiong,VOR-DME,CN
+NS,Nanxiong,NDB,CN
+NSE,Nanjing,VOR-DME,CN
+NSH,Ningshan,VOR-DME,CN
+NTG,Nantong,VOR-DME,CN
+NYB,Nanyingbindao,VOR-DME,CN
+O,Tacheng,NDB,CN
+O,Hailang,NDB,CN
+O,Capital,NDB,CN
+O,Zhengdeng,NDB,CN
+OB,Huairou,NDB,CN
+OC,Xingtang,NDB,CN
+OD,Sanyuan,NDB,CN
+OF,Bantaji,NDB,CN
+OS,Tongjingchang,NDB,CN
+OX,Bose,NDB,CN
+PA,Wutong,NDB,CN
+PDL,Liuzao,VOR-DME,CN
+PEK,Beijing,VOR-DME,CN
+PH,Zhuliao,NDB,CN
+PIX,Pixian,VOR-DME,CN
+PK,Eren,NDB,CN
+PK,Nanxiang,NDB,CN
+PM,Potou,NDB,CN
+POU,Pingzhou,VOR-DME,CN
+PT,Jingtai,NDB,CN
+PU,Dongyangjiao,NDB,CN
+PUD,Pudong,VOR-DME,CN
+QB,Hunshuitang,NDB,CN
+QD,Heihe,NDB,CN
+QI,Jingning,NDB,CN
+QJ,Shenzhen,NDB,CN
+QJG,Qijiang,VOR-DME,CN
+QK,Gengma,NDB,CN
+QM,Yanbu,NDB,CN
+QNX,Qianxi,VOR-DME,CN
+QP,Ertang,NDB,CN
+RG,Changdu,NDB,CN
+RL,Hami,NDB,CN
+RO,Sanjiang,NDB,CN
+RP,Lijia,NDB,CN
+RQ,Ningshan,NDB,CN
+SB,Hexi,NDB,CN
+SB,Luogang,NDB,CN
+SCH,Shache,VOR-DME,CN
+SEY,Shenyang,VOR-DME,CN
+SG,Yijun,NDB,CN
+SHA,Hongqiao,VOR-DME,CN
+SHK,Shekou,VOR-DME,CN
+SHL,Shilong,VOR-DME,CN
+SHR,Shangrao,VOR-DME,CN
+SHY,Shuyuan,VOR-DME,CN
+SHZ,Shengzhou,VOR-DME,CN
+SIA,Xianyang,VOR-DME,CN
+SJW,Zhengding,VOR-DME,CN
+SL,Maguohe,NDB,CN
+SWA,Shantou,VOR-DME,CN
+SX,Nanxun,NDB,CN
+SY,Xishui,NDB,CN
+SYX,Sanya,VOR-DME,CN
+SZ,Liangcheng,NDB,CN
+SZX,Shenzhen,VOR-DME,CN
+SZY,Shaziying,VOR-DME,CN
+TAJ,Tianjin,VOR-DME,CN
+TAN,Yuantan,VOR-DME,CN
+TAO,Qingdao,VOR-DME,CN
+TGO,Tongliao,VOR-DME,CN
+TMR,Tumurtai,VOR-DME,CN
+TOL,Tonglu,VOR-DME,CN
+TYN,Taiyuan,VOR-DME,CN
+TZH,Tianzhen,VOR-DME,CN
+U,Sanzao,NDB,CN
+UF,Longmen,NDB,CN
+UJ,Gaolan,NDB,CN
+UL,Hulutaotun,NDB,CN
+URC,Urumqi,VOR-DME,CN
+VB,Yingde,NDB,CN
+VM,Shigezhuang,NDB,CN
+VMB,Wuxi,VOR-DME,CN
+VQ,Darongjiang,NDB,CN
+VW,Fujiachang,NDB,CN
+VYK,Dawangzhuang,VOR-DME,CN
+VZ,Altay,NDB,CN
+WA,Wongyuan,NDB,CN
+WD,Zhonghao,NDB,CN
+WEH,Weihai,VOR-DME,CN
+WF,Xiliuhetun,NDB,CN
+WF,Xinglin,NDB,CN
+WFX,Wufengxi,VOR-DME,CN
+WHA,Tianhe,VOR-DME,CN
+WL,Baolong,NDB,CN
+WQG,Wangqing,VOR-DME,CN
+WR,Jiayuguan,NDB,CN
+WX,Changshengqiao,NDB,CN
+WXI,Weixian,VOR-DME,CN
+WY,Wenyan,NDB,CN
+WYN,Wongyuan,VOR-DME,CN
+XIC,Xichang,VOR-DME,CN
+XJT,Xuejiadao,VOR-DME,CN
+XK,Pingzhou,NDB,CN
+XMN,Xiamen,VOR-DME,CN
+XSH,Xishui,VOR-DME,CN
+XYO,Xuyong,VOR-DME,CN
+Y,Qifengling,NDB,CN
+YBL,Yabrai,VOR-DME,CN
+YBN,Yibin,VOR-DME,CN
+YIH,Sanxia,VOR-DME,CN
+YIJ,Yijun,VOR-DME,CN
+YIN,Yingde,VOR-DME,CN
+YNC,Yinchuan,VOR-DME,CN
+YNJ,Yanji,VOR-DME,CN
+YNT,Yantai,VOR-DME,CN
+YQG,Jinan,VOR-DME,CN
+YV,Tanghekou,NDB,CN
+ZF,Hekou,NDB,CN
+ZHO,Zhoukou,VOR-DME,CN
+ZJ,Changzhou,NDB,CN
+ZK,Datuopu,NDB,CN
+ZN,Luxi,NDB,CN
+ZN,Tianzhen,NDB,CN
+ZQ,Baotou,NDB,CN
+ZS,Yanzhuang,NDB,CN
+ZUH,Lianshengwei,VOR-DME,CN
+ZYG,Ziyang,VOR-DME,CN
+ABL,Ambalema,NDB,CO
+AP,Apiay,NDB,CO
+AQ,Barranquilla,NDB,CO
+ARA,Araracuara,NDB,CO
+AS,Cali,NDB,CO
+AUC,Arauca,VOR-DME,CO
+AXM,Armenia,NDB,CO
+BAQ,Barranquilla,VOR-DME,CO
+BGA,Bucaramanga,VOR-DME,CO
+BHS,Bahia Solano,NDB,CO
+BOG,Bogota,VOR-DME,CO
+BUN,Buenaventura,VOR-DME,CO
+BUV,Buvis,VOR-DME,CO
+CDT,Condoto,NDB,CO
+CJN,Cerrejon,VOR-DME,CO
+CLO,Cali,VOR-DME,CO
+CRG,Carimauga,NDB,CO
+CT,Cartagena,NDB,CO
+CTG,Cartagena,VOR-DME,CO
+CU,Cucuta,NDB,CO
+CUC,Cucuta,VOR-DME,CO
+DE,Rionegro,NDB,CO
+DR,Delta Romeo,NDB,CO
+ECB,El Cabo,NDB,CO
+ED,Echo Delta,NDB,CO
+EJA,Barrancabermeja,VOR-DME,CO
+ELB,El Banco,VOR-DME,CO
+EPO,El Paso,NDB,CO
+EYP,El Yopal,VOR-DME,CO
+FLA,Florencia,VOR-DME,CO
+GIR,Girardot,VOR-DME,CO
+GPI,Guapi,NDB,CO
+IBG,Ibague,VOR-DME,CO
+IPI,Ipiales,VOR-DME,CO
+JDN,Jardin,NDB,CO
+LCE,Los Cedros,VOR-DME,CO
+LET,Leticia,VOR-DME,CO
+LI,Medellin,NDB,CO
+LNA,Manizales,NDB,CO
+LPD,La Pedrera,NDB,CO
+MAT,Matecana,NDB,CO
+MD,Rionegro,NDB,CO
+MER,Mercaderes,VOR-DME,CO
+MGN,Magangue,VOR-DME,CO
+MLB,Montelibano,NDB,CO
+MQU,Mariquita,VOR-DME,CO
+MRN,Marinilla,VOR-DME,CO
+MTR,Monteria,VOR-DME,CO
+MTU,Mitu,VOR-DME,CO
+NQI,Nuqui,NDB,CO
+NVA,Neiva,VOR-DME,CO
+ORI,Orito,NDB,CO
+OTU,Otu,VOR-DME,CO
+PBL,Puerto Bolivar,NDB,CO
+PDA,Puerto Inirida,VOR-DME,CO
+PEI,Pereira,VOR-DME,CO
+PIE,Piedecuesta,NDB,CO
+PL,Palma,NDB,CO
+PLG,Puerto Leguizamo,VOR-DME,CO
+PPN,Popayan,NDB,CO
+PSO,Pasto,VOR-DME,CO
+PTC,Puerto Carreno,VOR-DME,CO
+PTE,Portete,NDB,CO
+PY,Apiay,NDB,CO
+R,Romeo,NDB,CO
+RHC,Riohacha,VOR-DME,CO
+RNG,Rionegro,VOR-DME,CO
+SIS,Puerto Asis,NDB,CO
+SJE,San Jose Del Guaviare,VOR-DME,CO
+SLI,San Luis,NDB,CO
+SMR,Santa Marta,NDB,CO
+SOA,Soacha,VOR-DME,CO
+SOG,Sogamoso,NDB,CO
+SPP,San Andres,VOR-DME,CO
+STA,Santa Marta,VOR-DME,CO
+SVA,Saravena,NDB,CO
+SVC,San Vicente Del Caguan,VOR-DME,CO
+TCO,Tumaco,VOR-DME,CO
+TEH,Techo,NDB,CO
+TME,Tame,NDB,CO
+TQS,Tres Esquinas,VOR-DME,CO
+TUR,Turbo,NDB,CO
+UIB,Quibdo,VOR-DME,CO
+ULQ,Tulua,VOR-DME,CO
+UPI,Barranca De Upia,NDB,CO
+VUP,Valledupar,NDB,CO
+VVC,Villavicencio,VOR-DME,CO
+VVP,Valledupar,VOR-DME,CO
+ZIP,Zipaquira,VOR-DME,CO
+CHI,Los Chiles,NDB,CR
+COL,Barra Del Colorado,NDB,CR
+COT,Coto 47,NDB,CR
+FIO,Fiora,NDB,CR
+HOR,Horcones,NDB,CR
+LIB,Liberia,VOR-DME,CR
+LIO,Limon,VOR-DME,CR
+PAR,Parrita,NDB,CR
+TIO,El Coco,VOR-DME,CR
+A,Habana,NDB,CU
+C,Camaguey,NDB,CU
+D,Gerona,NDB,CU
+G,Ciego De Avila,NDB,CU
+K,Santiago De Cuba,NDB,CU
+NBW,Guantanamo Bay Ns,VOR,CU
+NBW,Guantanamo Bay Ns,TACAN,CU
+U,Santa Clara,NDB,CU
+UBA,Baracoa,NDB,CU
+UBY,Bayamo,NDB,CU
+UCA,Ciego De Avila,VOR-DME,CU
+UCA,Ciego De Avila,NDB,CU
+UCF,Cienfuegos,VOR-DME,CU
+UCJ,Jardines Del Rey,VOR-DME,CU
+UCL,Cayo Largo Del Sur,VOR-DME,CU
+UCM,Camaguey,VOR-DME,CU
+UCM,Camaguey,NDB,CU
+UCU,Santiago De Cuba,VOR-DME,CU
+UCY,Cayabo,NDB,CU
+UGT,Guantanamo,NDB,CU
+UHA,Habana,VOR-DME,CU
+UHA,Habana,NDB,CU
+UHG,Holguin,VOR-DME,CU
+UHG,Holguin,NDB,CU
+UMO,Moa,NDB,CU
+UMZ,Manzanillo,VOR-DME,CU
+UNG,Gerona,NDB,CU
+UNV,Nuevas,VOR,CU
+UPB,Playa Baracoa,VOR,CU
+USC,Santa Clara,NDB,CU
+UTD,Trinidad,NDB,CU
+UVA,Varder,VOR-DME,CU
+UVT,Tunas,NDB,CU
+UZG,Zarago,NDB,CU
+BVT,Rabil,NDB,CV
+CVS,Sal,VOR-DME,CV
+NCL,Sao Nicolau,NDB,CV
+PRA,Praia,NDB,CV
+SAL,Sal,NDB,CV
+SNT,Praia,VOR-DME,CV
+SVT,Sao Vicente,NDB,CV
+XMX,Christmas Island,VOR-DME,CX
+AKR,Akrotiri,TACAN,CY
+DKA,Dhekelia,NDB,CY
+LCA,Larnaca,VOR-DME,CY
+LCA,Larnaca,NDB,CY
+PHA,Pafos,TACAN,CY
+PHA,Pafos,VOR-DME,CY
+BNO,Brno,VOR-DME,CZ
+BNO,Brno,NDB,CZ
+CF,Caslav,NDB,CZ
+CK,Prerov,NDB,CZ
+D,Dejvice,NDB,CZ
+D,Line,NDB,CZ
+GT,Otrokovice,NDB,CZ
+HLV,Holesov,NDB,CZ
+KD,Kbely,NDB,CZ
+KNE,Kunovice,NDB,CZ
+KUN,Kunovice,NDB,CZ
+KVY,Karlovy Vary,VOR-DME,CZ
+L,Liboc,NDB,CZ
+LA,Namest,NDB,CZ
+NER,Neratovice,VOR-DME,CZ
+OKF,Desna,VOR-DME,CZ
+OKG,Cheb,VOR-DME,CZ
+OKL,Praha,VOR-DME,CZ
+OKX,Frydlant,VOR-DME,CZ
+OTA,Ostrava,VOR-DME,CZ
+PG,Ruzyne Middle,NDB,CZ
+PK,Pardubice,NDB,CZ
+PR,Ruzyne North,NDB,CZ
+PSK,Pisek,DME,CZ
+R,Ceske Budejovice,NDB,CZ
+RA,Ceske Budejovice,NDB,CZ
+RAK,Rakovnik,NDB,CZ
+TBV,Trebova,NDB,CZ
+VLM,Vlasim,VOR-DME,CZ
+VO,Brezany,NDB,CZ
+VOZ,Vozice,VOR-DME,CZ
+XU,Namest,NDB,CZ
+ABU,Altenburg,NDB,DE
+AGB,Augsburg,NDB,DE
+AGD,Altenburg,DME,DE
+ALB,Allersberg,VOR-DME,DE
+ALF,Alster,DME,DE
+ANS,Ansbach,NDB,DE
+AUG,Augsburg,DME,DE
+BA,Bautzen,NDB,DE
+BAM,Barmen,VORTAC,DE
+BAY,Bayreuth,VOR,DE
+BAZ,Bayreuth,NDB,DE
+BET,Rheine Bentlage,NDB,DE
+BHD,Barth,DME,DE
+BKD,Brunkendorf,VOR-DME,DE
+BMN,Bremen,VOR-DME,DE
+BOT,Bottrop,NDB,DE
+BRU,Braunschweig,NDB,DE
+BTH,Barth,NDB,DE
+BUE,Buchel,TACAN,DE
+BYC,Buckeburg,NDB,DE
+CDD,Drewitz,DME,DE
+CEL,Celle,NDB,DE
+CHA,Charlie,VOR,DE
+COL,Cola,VORTAC,DE
+DBR,Helmholtz,NDB,DE
+DHE,Helgoland,VOR-DME,DE
+DIP,Planter,NDB,DE
+DKB,Dinkelsbuhl,VORTAC,DE
+DLE,Leine,VOR-DME,DE
+DLS,Lubars,NDB,DE
+DMN,Munchen,DME,DE
+DMS,Munchen,DME,DE
+DND,Dresden,DME,DE
+DOM,Dortmund,VOR-DME,DE
+DON,Donaueschingen,DME,DE
+DOR,Wickede,VOR-DME,DE
+DP,Diepholz,NDB,DE
+DRN,Dresden,VOR-DME,DE
+DRW,Drewitz,NDB,DE
+DUS,Dusseldorf,VOR-DME,DE
+DVI,Donaueschingen,NDB,DE
+DWI,Dortmund,NDB,DE
+EFD,Erfurt,DME,DE
+EGG,Eggenfelden,NDB,DE
+EH,Egelsbach,NDB,DE
+EMD,Emden,NDB,DE
+END,Eggenfelden,DME,DE
+ENW,Emden,DME,DE
+ERD,Erding,TACAN,DE
+ERF,Erfurt,VOR-DME,DE
+ERL,Erlangen,VOR-DME,DE
+ERT,Erfurt,NDB,DE
+EUR,Eurach,VOR-DME,DE
+FFM,Frankfurt,VORTAC,DE
+FHA,Friedrichshafen,NDB,DE
+FHD,Friedrichshafen,DME,DE
+FLD,Friedland,VOR-DME,DE
+FR,Frankfurt,NDB,DE
+FRD,Frankfurt,DME,DE
+FSB,Fassberg,NDB,DE
+FTZ,Fritzlar,NDB,DE
+FU,Hamburg West,NDB,DE
+FUL,Fulda,VOR-DME,DE
+FW,Frankfurt,NDB,DE
+FWE,Furstenwalde,VOR-DME,DE
+GBL,Giebelstadt,TACAN,DE
+GBL,Giebelstadt,NDB,DE
+GED,Gedern,VORTAC,DE
+GIN,Giessen,NDB,DE
+GIX,Geilenkirchen,TACAN,DE
+GL,Tegel East,NDB,DE
+GMH,Germinghausen,VOR-DME,DE
+GOT,Gotem,VOR-DME,DE
+GRF,Grafenwohr,TACAN,DE
+GRW,Grafenwohr,NDB,DE
+GT,Hamburg North,NDB,DE
+HA,Hannover,NDB,DE
+HAB,Hammelburg,NDB,DE
+HAD,Hannover,DME,DE
+HAE,Hannover,NDB,DE
+HAM,Hamburg,VORTAC,DE
+HAN,Hahn,NDB,DE
+HBD,Hannover,DME,DE
+HC,Heringsdorf,NDB,DE
+HDL,Heidelberg,NDB,DE
+HDM,Coleman,VOR,DE
+HDM,Coleman,NDB,DE
+HDO,Hermsdorf,VOR-DME,DE
+HFX,Hohenfels,NDB,DE
+HLZ,Hehlingen,VOR-DME,DE
+HMM,Hamm,VOR-DME,DE
+HN,Hohn,NDB,DE
+HND,Hahn,DME,DE
+HNT,Hohn,TACAN,DE
+HNU,Hanau,NDB,DE
+HOD,Hof,DME,DE
+HOF,Hof,NDB,DE
+HOS,Hamburg,NDB,DE
+HOZ,Holzdorf,TACAN,DE
+HOZ,Holzdorf,NDB,DE
+HW,Hannover,NDB,DE
+IGL,Ingolstadt,TACAN,DE
+IGL,Ingolstadt,NDB,DE
+ILM,Illesheim,NDB,DE
+KBA,Karlsruhe Baden Baden,NDB,DE
+KBD,Karlsruhe Baden Baden,DME,DE
+KBO,Koln/Bonn,VOR-DME,DE
+KHD,Kiel Holtenau,DME,DE
+KIL,Kiel Holtenau,NDB,DE
+KIR,Kirn,VORTAC,DE
+KLF,Klasdorf,VOR-DME,DE
+KNG,Konig,NDB,DE
+KPT,Kempten,VOR-DME,DE
+KRH,Karlsruhe,VOR-DME,DE
+KSL,Kassel,NDB,DE
+KTG,Kitzingen,VOR,DE
+LAB,Landsberg,TACAN,DE
+LAG,Laage,TACAN,DE
+LAU,Lichtenau,NDB,DE
+LBE,Elbe,VOR-DME,DE
+LBU,Luburg,VOR-DME,DE
+LCH,Lechfeld,TACAN,DE
+LED,Leipzig South,DME,DE
+LEG,Leipzig,VOR-DME,DE
+LHR,Lahr,NDB,DE
+LI,Dusseldorf,NDB,DE
+LJ,Koln/Bonn,NDB,DE
+LMA,Lima,NDB,DE
+LND,Leipzig North,DME,DE
+LQ,Landsberg,NDB,DE
+LRD,Lahr,DME,DE
+LUB,Lubeck,VOR,DE
+LUD,Lubeck Blankensee,DME,DE
+LUP,Laupheim,NDB,DE
+LV,Koln/Bonn,NDB,DE
+LW,Koln/Bonn,NDB,DE
+LWB,Lowenberg,VOR-DME,DE
+LYE,Lubeck Blankensee,NDB,DE
+MA,Leipzig,NDB,DE
+MAG,Magdeburg,VOR-DME,DE
+MAH,Maisach,VOR-DME,DE
+MBG,Moosburg,VOR-DME,DE
+MDF,Milldorf,VOR-DME,DE
+MEG,Mengen,NDB,DE
+MGB,Monchengladbach,NDB,DE
+MGD,Magdeburg,DME,DE
+MHD,Monchengladbach,DME,DE
+MHV,Monchengladbach,VOR,DE
+MIC,Michaelsdorf,VOR,DE
+MIQ,Mike,NDB,DE
+MND,Mannheim,DME,DE
+MNE,Munchen,NDB,DE
+MNW,Munchen,NDB,DE
+MOD,Munster,DME,DE
+MSE,Munchen,NDB,DE
+MST,Greven,NDB,DE
+MSW,Munchen,NDB,DE
+MTR,Metro,VOR,DE
+MU,Magdeburg,NDB,DE
+MUN,Munchen,VOR-DME,DE
+MYN,Munster,NDB,DE
+NDG,Nordlingen,NDB,DE
+NDO,Nordholz,TACAN,DE
+NDO,Nordholz,NDB,DE
+NEG,Neubrandenburg,TACAN,DE
+NEU,Neuburg,TACAN,DE
+NGD,Nurnberg,DME,DE
+NID,Niederrhein,DME,DE
+NIE,Nienburg,VOR,DE
+NKR,Neckar,NDB,DE
+NMN,Mendig,NDB,DE
+NRG,Neubrandenburg,NDB,DE
+NSN,Niederstetten,NDB,DE
+NTM,Nattenheim,VORTAC,DE
+OBI,Oberpfaffenhofen,NDB-DME,DE
+OSB,Osnabruck,TACAN,DE
+OSN,Osnabruck,VOR,DE
+PAD,Paderborn/Lippstadt,NDB-DME,DE
+PAH,Schwerin-Parchim,NDB,DE
+PI,Schwerin-Parchim,NDB,DE
+PMD,Schwerin-Parchim,DME,DE
+PSA,Spessart,NDB,DE
+RDG,Roding,VOR-DME,DE
+RID,Ried,VOR-DME,DE
+RMS,Ramstein,TACAN,DE
+RO,Rothenburg,NDB,DE
+RTB,Rothenbach,NDB,DE
+RW,Tegel West,NDB,DE
+SAD,Saarbrucken,DME,DE
+SBN,Saarbrucken,NDB,DE
+SDD,Schonefeld,DME,DE
+SG,Stuttgart,NDB,DE
+SGD,Stuttgart,DME,DE
+SHD,Schwabisch,DME,DE
+SIL,Siegerland,NDB,DE
+SK,Leipzig,NDB,DE
+SLD,Siegerland,DME,DE
+SLN,Schonefeld,NDB,DE
+SLT,Sylt,NDB,DE
+SPA,Spangdahlem,TACAN,DE
+SR,Ensheim,NDB,DE
+SUL,Sulz,VOR,DE
+SWG,Schleswig,TACAN,DE
+SY,Stuttgart,NDB,DE
+TAU,Taunus,VORTAC,DE
+TGL,Tegel,VOR-DME,DE
+TGO,Tango,VORTAC,DE
+TOF,Tempelhof,VOR-DME,DE
+TRT,Trent,VOR-DME,DE
+WBD,Wiesbaden,NDB,DE
+WES,Westerland,DME,DE
+WIB,Wiesbaden,TACAN,DE
+WLD,Walda,VOR-DME,DE
+WRB,Warburg,VOR-DME,DE
+WSR,Weser,VOR,DE
+WTM,Wittmundhafen,TACAN,DE
+WUN,Wunstorf,TACAN,DE
+WUR,Wurzburg,VOR,DE
+WYP,Wipper,VOR,DE
+ZIG,Leipzig,NDB,DE
+ZND,Zweibrucken,DME,DE
+ZWN,Zweibrucken,VOR-DME,DE
+ABI,Djibouti/Ambouli,TACAN,DJ
+DJ,Djibouti/Ambouli,NDB,DJ
+DTI,Djibouti/Ambouli,VOR-DME,DJ
+AAL,Aalborg,TACAN,DK
+ALS,Alsie,VOR,DK
+CDA,Codan,VOR-DME,DK
+DON,Donna,NDB,DK
+GL,Aalborg,NDB,DK
+HP,Esbjerg,NDB,DK
+KA,Karup,NDB,DK
+KAR,Karup,TACAN,DK
+KAS,Kastrup,VOR-DME,DK
+KOR,Korsa,VOR-DME,DK
+LO,Billund,NDB,DK
+ML,Aarhus,NDB,DK
+ODN,Odin,VOR-DME,DK
+RAM,Ramme,VOR-DME,DK
+RK,Roskilde,NDB,DK
+ROE,Ronne,TACAN,DK
+SKR,Skrydstrup,VORTAC,DK
+TE,Thisted,NDB,DK
+TNO,Trano,VOR-DME,DK
+TU,Aarhus,NDB,DK
+VES,Vesta,VOR-DME,DK
+DCF,Canefield,NDB,DM
+DOM,Melville Hall,NDB,DM
+BHO,Barahona,VOR-DME,DO
+CDO,Punta Caucedo,VOR-DME,DO
+DCR,Cabo Rojo,VOR-DME,DO
+HER,Herrera,NDB,DO
+HGR,Higuero,VOR-DME,DO
+HIJ,San Isidro,NDB,DO
+LAS,Guerra,NDB,DO
+LRN,La Romana,VOR-DME,DO
+MTC,Monte Cristi,NDB,DO
+PNA,Punta Cana,VOR-DME,DO
+PTA,Puerto Plata,VOR-DME,DO
+SGO,Santiago,VOR-DME,DO
+SIS,San Isidro,VOR,DO
+ADR,Adrar,VOR-DME,DZ
+ALR,Alger,VOR-DME,DZ
+ANB,Annaba,VOR-DME,DZ
+BAY,El Bayadh,VOR,DZ
+BBS,Beni Abbes,VOR-DME,DZ
+BC,Bechar,NDB,DZ
+BCR,Bechar,VOR-DME,DZ
+BIS,Biskra,VOR-DME,DZ
+BJA,Bejaia,NDB,DZ
+BNA,Beni Amrane,NDB,DZ
+BOD,Bordj Omar Driss,VOR-DME,DZ
+BSA,Bou Saada,VOR-DME,DZ
+BSA,Bou Saada,NDB,DZ
+BTN,Batna,VOR-DME,DZ
+CHE,Cherchell,NDB,DZ
+CNE,Constantine,NDB,DZ
+CSO,Constantine,VOR-DME,DZ
+DJA,Djanet,VOR-DME,DZ
+ELO,El Oued,VOR-DME,DZ
+GHA,Ghardaia,VOR-DME,DZ
+GRS,Ghriss,VOR,DZ
+HKI,Hassi Khebi,NDB,DZ
+HMB,Hammam Bou Hadjar,NDB,DZ
+HME,Hassi Messaoud,VOR-DME,DZ
+HRM,Hassi R Mel/Tilrempt,VOR-DME,DZ
+HRM,Hassi R Mel/Tilrempt,NDB,DZ
+IGZ,In Guezzam,VOR,DZ
+ILZ,Illizi,VOR,DZ
+IMN,In Amenas,VOR-DME,DZ
+JIL,Jijel,VOR-DME,DZ
+MAR,Houari Boumediene,NDB,DZ
+MCH,Mechria,NDB,DZ
+MNA,El Golea,VOR-DME,DZ
+MOK,Bordj Mokhtar,VOR,DZ
+MOS,Mostaganem,VOR-DME,DZ
+NSL,In Salah,VOR-DME,DZ
+ORA,Oran,VOR-DME,DZ
+RGN,Reggan,NDB,DZ
+SAH,In Salah,NDB,DZ
+SDM,Alger,VOR,DZ
+SMR,Houari Boumediene,NDB,DZ
+TAM,Tamanrasset,VOR-DME,DZ
+TBS,Tebessa,VOR-DME,DZ
+TDF,Tindouf,VOR-DME,DZ
+TGU,Touggourt,VOR-DME,DZ
+TIO,Timimoun,VOR-DME,DZ
+TLM,Tlemcen,VOR-DME,DZ
+TRB,Tiaret,VOR-DME,DZ
+ZAR,Zarzaitine,NDB,DZ
+ZEM,Zemmouri,VOR-DME,DZ
+AMB,Ambato,NDB,EC
+AMV,Ambato,VOR-DME,EC
+BCN,Bahia,NDB,EC
+COC,Coca,NDB,EC
+CUV,Cuenca,VOR-DME,EC
+ESV,Esmeraldas,VOR-DME,EC
+GLV,Galapagos,VOR-DME,EC
+GLZ,Gualaquiza,NDB,EC
+GYV,Guayaquil,VOR-DME,EC
+IBL,Isabela,NDB,EC
+LAG,Lago Agrio,NDB,EC
+LAV,Lago Agrio,VOR-DME,EC
+LOJ,Loja,NDB,EC
+LTV,Latacunga,VOR-DME,EC
+MAC,Macara,NDB,EC
+MAS,Macas,NDB,EC
+MHV,Machala,VOR-DME,EC
+MNV,Manta,VOR-DME,EC
+MSV,Macas,VOR-DME,EC
+MTL,Montalvo,NDB,EC
+NIR,Nir,NDB,EC
+OLM,Olmedo,NDB,EC
+PAL,Palma,NDB,EC
+PAV,Pastaza,VOR-DME,EC
+PTN,Portoviejo,NDB,EC
+PTZ,Pastaza,NDB,EC
+QIT,Condorcocha,VOR-DME,EC
+QMS,Monjas Sur,VOR-DME,EC
+R,Guayaquil,NDB,EC
+RIO,Riobamba,NDB,EC
+SAV,Salinas,VOR-DME,EC
+SCV,San Cristobal,VOR-DME,EC
+SLS,Salinas,NDB,EC
+SOL,Chongon,NDB,EC
+TLC,Tulcan,NDB,EC
+TNA,Tena,NDB,EC
+TRP,Tarapoa,NDB,EC
+UIO,Quito,NDB,EC
+ZUI,Ascazubi,NDB,EC
+I,Tallinn Ulemiste Lmm India,NDB,EE
+IB,Tallinn,NDB,EE
+KRS,Kuressaare,VOR-DME,EE
+L,Tallinn,NDB,EE
+LK,Tallinn,NDB,EE
+OZ,Kardla,NDB,EE
+PRN,Parnu,VOR-DME,EE
+R,Parnu,NDB,EE
+RC,Parnu,NDB,EE
+TLL,Tallinn,VOR-DME,EE
+UM,Tartu,NDB,EE
+VI,Vohma,VOR-DME,EE
+WA,Kuressaare,NDB,EE
+A,Almaza,NDB,EG
+ARH,El Arish,VOR-DME,EG
+ASN,Aswan,VOR-DME,EG
+AST,Asyut,VOR-DME,EG
+AXD,Alexandria,NDB,EG
+BLA,Cairo West,TACAN,EG
+BLT,Baltim,VOR-DME,EG
+BRN,Sidi Barrani,VOR-DME,EG
+CAI,Cairo,VOR-DME,EG
+CAT,St Catherine,NDB,EG
+CVO,Cairo,VOR-DME,EG
+D,Inner Beacon,NDB,EG
+DBA,El Daba,VOR-DME,EG
+DJ,Borg El Arab,NDB,EG
+FYM,Fayoum,VOR-DME,EG
+HGD,Hurghada,VOR-DME,EG
+KHG,El Kharga,VOR-DME,EG
+LO,Luxor,NDB,EG
+LXR,Luxor,VOR-DME,EG
+MAK,Marsa Alam,VOR-DME,EG
+MB,Dakhla,NDB,EG
+MKT,Cairo,NDB,EG
+MXR,Almaza,TACAN,EG
+NOZ,Alexandria,VOR-DME,EG
+NWB,Nuweibaa,NDB,EG
+OCT,October,NDB,EG
+OWT,Shark El Oweinat,NDB,EG
+PSD,Port Said,VOR-DME,EG
+SHM,Sharm El Sheikh,VOR-DME,EG
+SML,Abu Simbel,VOR-DME,EG
+TBA,Taba,VOR-DME,EG
+DKH,Dakhla,VOR-DME,EH
+LAY,Laayoune,VOR-DME,EH
+MBA,Smara,VOR-DME,EH
+ASM,Asmara,VOR-DME,ER
+MS,Massawa,NDB,ER
+SB,Assab,NDB,ER
+AA,Madrid,NDB,ES
+ACD,Alcobendas,NDB,ES
+ADX,Andraitx,NDB,ES
+ALT,Alicante,VOR-DME,ES
+AM,Almeria,NDB,ES
+AMN,Almeria,NDB,ES
+AMR,Almeria,VOR-DME,ES
+AOG,Rota,TACAN,ES
+AOG,Rota,NDB,ES
+ARM,Armilla,NDB,ES
+ARN,Arbancon,NDB,ES
+AST,Asturias,NDB,ES
+ATR,Alcantarilla,NDB,ES
+AV,Asturias,NDB,ES
+B,Valencia,NDB,ES
+BAI,Bailen,NDB,ES
+BAN,Barahona,VOR-DME,ES
+BBI,Salamanca,VOR-DME,ES
+BCN,Barcelona,VOR-DME,ES
+BGR,Bagur,VOR-DME,ES
+BGS,Burgos,NDB,ES
+BJ,Barajas,NDB,ES
+BJZ,Badajoz,NDB,ES
+BLN,Bailen,VOR-DME,ES
+BLV,Bilbao,VOR-DME,ES
+BRA,Barajas,VOR-DME,ES
+BRB,Barcial Del Barco,NDB,ES
+BV,La Palma,DME,ES
+BX,La Palma,NDB,ES
+CAC,Caceres,NDB,ES
+CCH,Calamocha,NDB,ES
+CCS,Caceres,VOR-DME,ES
+CDB,Cordoba,VOR-DME,ES
+CDP,Capdepera,VOR-DME,ES
+CEU,Ceuta,NDB-DME,ES
+CJN,Castejon,VOR-DME,ES
+CLE,Calella,VOR-DME,ES
+CLS,Calles,VOR-DME,ES
+CMA,Calamocha,VOR-DME,ES
+CNR,Colmenar,VOR-DME,ES
+COA,La Coruna,NDB,ES
+COR,Cordoba,NDB,ES
+CST,Costix,NDB,ES
+CTE,Castejon,NDB,ES
+CVT,Cuatro Vientos,NDB,ES
+DGO,Domingo,VOR-DME,ES
+EAG,Logrono,NDB,ES
+EAL,Almagro,NDB,ES
+EBT,Valencia,NDB,ES
+ECV,Colmenar,NDB,ES
+EEC,El Copero,NDB,ES
+EON,Leon,VOR-DME,ES
+FTV,Fuerteventura,VOR-DME,ES
+GDA,Granada,VOR-DME,ES
+GDV,Gran Canaria,VOR-DME,ES
+GE,Getafe,NDB,ES
+GIR,Gerona,VOR-DME,ES
+GM,Malaga,NDB,ES
+GRA,Granada,NDB,ES
+GRN,Gerona,NDB,ES
+HIE,Hierro,NDB,ES
+HIG,San Sebastian,NDB-DME,ES
+HIJ,Hinojosa,VOR-DME,ES
+HNS,Hinojosa,NDB,ES
+HR,Hierro,DME,ES
+IBA,Ibiza,VOR-DME,ES
+IZA,Ibiza,NDB,ES
+JOA,Palma De Mallorca,VOR-DME,ES
+JRZ,Jerez,VOR-DME,ES
+L,Getafe,NDB,ES
+LCZ,Murcia/San Javier,NDB,ES
+LGM,La Gomera,VOR-DME,ES
+LPA,Logrono,VOR-DME,ES
+LPC,Gran Canaria,VOR-DME,ES
+LRA,La Coruna,VOR-DME,ES
+LRD,Lerida,NDB,ES
+LTE,Lanzarote,VOR-DME,ES
+LZ,Lanzarote,NDB,ES
+LZR,Lanzarote,VOR-DME,ES
+MA,Madrid,NDB,ES
+MAR,Martin,VOR-DME,ES
+MEL,Melilla,VOR-DME,ES
+MGA,Malaga,VOR-DME,ES
+MHN,Menorca,VOR-DME,ES
+MIA,Melilla,NDB,ES
+MJV,Palma De Mallorca,VOR-DME,ES
+MLA,Maella,VOR-DME,ES
+MLG,Malaga,VOR-DME,ES
+MLL,Melilla,DME,ES
+MNF,Moron,NDB,ES
+MRN,Moron,TACAN,ES
+MTN,Salamanca,NDB,ES
+NEA,Tabanera,VOR-DME,ES
+NO,Pamplona,NDB,ES
+NVS,Navas,VOR-DME,ES
+O,Murcia/San Javier,NDB,ES
+PA,Palma De Mallorca,NDB,ES
+PAP,Pamplona,VOR-DME,ES
+PDT,Perales,VOR-DME,ES
+PND,Valencia,NDB,ES
+POS,Pollensa,VOR-DME,ES
+PPN,Pamplona,VOR-DME,ES
+PRA,El Prat,VOR-DME,ES
+PTC,Porto Colom,NDB,ES
+RBO,Robledillo,VOR-DME,ES
+RES,Reus,VOR-DME,ES
+RMA,Malaga,NDB,ES
+RS,Barajas,NDB,ES
+SA,Santander,NDB,ES
+SBD,Sabadell,NDB,ES
+SCA,Salamanca,NDB,ES
+SEO,Seo De Urgel,NDB,ES
+SGO,Sagunto,NDB,ES
+SIE,Somosierra,VOR-DME,ES
+SLL,Sabadell,VOR-DME,ES
+SNO,Santiago,NDB,ES
+SNR,Santander,VOR-DME,ES
+SPP,Sevilla,NDB,ES
+SSJ,Palma De Mallorca,TACAN,ES
+SSN,San Sebastian,VOR-DME,ES
+SSY,S.S.rRyes,VOR-DME,ES
+STG,Santiago,VOR-DME,ES
+SVL,Sevilla,VOR-DME,ES
+TAB,Albacete,TACAN,ES
+TBC,Talavera,TACAN,ES
+TEO,Toledo,NDB,ES
+TES,Tenerife Sur,NDB,ES
+TFN,Tenerife Norte,VOR-DME,ES
+TFS,Tenerife Sur,VOR-DME,ES
+TGN,Gran Canaria,TACAN,ES
+TGR,Armilla,TACAN,ES
+TJA,Torrejon,NDB,ES
+TJZ,Torrejon,TACAN,ES
+TLD,Toledo,VOR-DME,ES
+TLZ,Lanzarote,TACAN,ES
+TON,Torralba De Aragon,NDB,ES
+TRL,Alcantarilla,TACAN,ES
+TSC,Salamanca,TACAN,ES
+TVD,Valladolid,TACAN,ES
+TX,Tenerife Norte,NDB,ES
+VAB,Albacete,VOR-DME,ES
+VBZ,Badajoz,VOR-DME,ES
+VES,Asturias,VOR-DME,ES
+VFD,Vitoria,VOR-DME,ES
+VGD,Vitigudino,NDB,ES
+VGE,Getafe,VOR,ES
+VGO,Vigo,VOR-DME,ES
+VI,Vigo,NDB,ES
+VIA,Burgos,VOR-DME,ES
+VJF,Vejer,VOR-DME,ES
+VJZ,Torrejon,VOR-DME,ES
+VLA,Villafranca,VOR-DME,ES
+VLC,Valencia,VOR-DME,ES
+VLD,Valladolid,NDB,ES
+VNV,Villanueva,NDB,ES
+VON,Vigo,NDB,ES
+VR,Gran Canaria,NDB,ES
+VRA,Vitoria,VOR-DME,ES
+VSJ,Murcia/San Javier,TACAN,ES
+VTA,Vitoria,NDB,ES
+VTB,Villatobas,VOR-DME,ES
+YES,Yeste,VOR-DME,ES
+ZAR,Zaragoza,VOR-DME,ES
+ZMR,Zamora,VOR-DME,ES
+ZRZ,Zaragoza,NDB,ES
+ZZA,Zaragoza,TACAN,ES
+ZZA,Zaragoza,NDB,ES
+AB,Addis Abeba,NDB,ET
+ADS,Addis Abeba,VOR-DME,ET
+AM,Arba Minch,NDB,ET
+AX,Axum,NDB,ET
+AY,Dire Dawa,NDB,ET
+BD,Bahir Dar,NDB,ET
+BL,Bole,NDB,ET
+BR,Gambella,NDB,ET
+DM,Debre Marcos,NDB,ET
+DWA,Dire Dawa,VOR-DME,ET
+GM,Gambella,NDB,ET
+GWZ,Gawasa,VOR-DME,ET
+JM,Jimma,NDB,ET
+KT,Jimma,NDB,ET
+LA,Lake Awasa,NDB,ET
+LLB,Lalibella,NDB,ET
+MK,Mekele,NDB,ET
+QHA,Mekele,VOR-DME,ET
+TN,Bahir Dar,NDB,ET
+AKU,Akujarvi,NDB,FI
+ANT,Antoni,VOR-DME,FI
+ENO,Enodak,VOR-DME,FI
+ESP,Espoo,NDB,FI
+ESS,Esse,NDB,FI
+FR,Foxtrot Romero,NDB,FI
+GDY,Godby,NDB,FI
+H,Hotel,NDB,FI
+HAL,Halli,VOR-DME,FI
+HEK,Heka,NDB,FI
+HEL,Helsinki,VOR-DME,FI
+HET,Hetta,NDB,FI
+JNS,Josie,VOR-DME,FI
+JOE,Joensuu,NDB,FI
+JP,Juliett-Papa,NDB,FI
+JR,Juliett-Romeo,NDB,FI
+KAD,Kadis,DME,FI
+KAJ,Kajaani,NDB,FI
+KAU,Kauhava,VOR-DME,FI
+KEM,Kemi,NDB,FI
+KIT,Kittila,NDB,FI
+KLA,Kantola,VOR-DME,FI
+KNI,Kainuu,VOR-DME,FI
+KNS,Kaunis,VOR-DME,FI
+KOR,Korso,NDB,FI
+KRU,Kruunu,NDB,FI
+KS,Kilo-Sierra,NDB,FI
+KUR,Kurki,NDB,FI
+LAA,Laanila,NDB,FI
+LIE,Lieto,NDB,FI
+LNE,Luonet,VOR-DME,FI
+MAR,Marie,VOR-DME,FI
+ORM,Orimaa,VOR-DME,FI
+OUK,Oulu,VOR-DME,FI
+PA,Papa-Alfa,NDB,FI
+PIR,Pirkka,VOR-DME,FI
+POR,Pori,NDB,FI
+PRI,Previk,VOR-DME,FI
+PSJ,Seinajoki,NDB,FI
+PVO,Porvoo,VOR-DME,FI
+RAN,Ranta,NDB,FI
+RO,Romeo-Oscar,NDB,FI
+ROI,Rovani,VOR-DME,FI
+RUS,Rusko,VOR-DME,FI
+SEP,Seppi,NDB,FI
+SK,Sierra-Kilo,NDB,FI
+SUS,Susi,NDB,FI
+SVL,Linna,VOR-DME,FI
+TOR,Toramo,NDB,FI
+TP,Tango-Papa,NDB,FI
+U,Uniform,NDB,FI
+UTT,Utti,VOR-DME,FI
+VA,Victor-Alfa,NDB,FI
+VAS,Vaasa,VOR-DME,FI
+VEH,Vehkaa,VOR-DME,FI
+VIL,Vilmas,VOR-DME,FI
+VS,Vesilahti,NDB,FI
+VTI,Vihti,VOR-DME,FI
+AL,Malolo,NDB,FJ
+LB,Labasa,VOR-DME,FJ
+LK,Lakeba,NDB,FJ
+MI,Momi,NDB,FJ
+MT,Matei,NDB,FJ
+NA,Nausori,VOR-DME,FJ
+NN,Nadi,VOR-DME,FJ
+NO,Sawani,NDB,FJ
+NV,Navua,NDB,FJ
+OI,Ono-I-Lau,NDB,FJ
+RM,Rotuma,NDB,FJ
+VK,Navakai,NDB,FJ
+MTP,Mount Pleasant,VOR,FK
+MTP,Mount Pleasant,TACAN,FK
+SA,Stanley,NDB,FK
+PNI,Pohnpei,NDB-DME,FM
+TKK,Truk,NDB-DME,FM
+UKS,Kosrae,NDB-DME,FM
+YP,Yap,NDB-DME,FM
+AB,Akraberg,NDB,FO
+MY,Myggenes,NDB,FO
+NL,Nolso,NDB,FO
+VG,Vagar,NDB,FO
+ABB,Abbeville,VOR-DME,FR
+AGN,Agen,VOR-DME,FR
+AJO,Ajaccio,VOR-DME,FR
+ALM,Aix Les Milles,NDB,FR
+AMB,Amboise,VOR-DME,FR
+AMU,Amberieu,TACAN,FR
+ANG,Angers,VOR,FR
+ARE,Monts D Arree,VOR,FR
+ATN,Autun,VOR-DME,FR
+AVD,Avord,TACAN,FR
+AVD,Avord,NDB,FR
+AVN,Avignon,VOR,FR
+AZR,Nice Cote D Azur,VOR-DME,FR
+BD,Bordeaux,NDB,FR
+BDX,Bordeaux,TACAN,FR
+BE,Bordeaux,NDB,FR
+BGC,Bergerac,NDB,FR
+BGP,Guipavas,NDB,FR
+BLM,Bale Mulhouse,VOR-DME,FR
+BMC,Bordeaux,VOR-DME,FR
+BN,Bale Mulhouse,NDB,FR
+BNE,Boulogne-sur-Mer,VOR,FR
+BRY,Bray-sur-Seine,VOR-DME,FR
+BSN,Boursonne,VOR-DME,FR
+BST,Lanveoc,TACAN,FR
+BST,Lanveoc,NDB,FR
+BT,Le Bourget,VOR-DME,FR
+BTA,Bastia,VOR-DME,FR
+BTZ,Biarritz,VOR-DME,FR
+BVS,Beauvais,VOR,FR
+BZ,Biarritz,NDB,FR
+CAA,Cazaux,TACAN,FR
+CAA,Cazaux,NDB,FR
+CAN,Caen,VOR,FR
+CAV,Vatry,VOR-DME,FR
+CBY,Chambery,VOR-DME,FR
+CDN,ChÃ¢teaudun,NDB,FR
+CFA,Clermont,VOR-DME,FR
+CGC,Cognac,TACAN,FR
+CGN,Charles de Gaulle,VOR-DME,FR
+CGS,Cagnes Sur Mer,VOR-DME,FR
+CHW,Chartres,VOR-DME,FR
+CLM,Coulommiers,VOR-DME,FR
+CLR,Colmar,TACAN,FR
+CM,Caumont,NDB,FR
+CMB,Cambrai,VORTAC,FR
+CNA,Cognac,VOR-DME,FR
+CNE,Caen,NDB,FR
+CNM,Cannes,VOR,FR
+CPE,CompiÃ¨gne,VOR-DME,FR
+CRL,Creil,VORTAC,FR
+CSM,Castelsarrasin Moissac,NDB,FR
+CTL,ChÃ¢tillon-sur-Marne,VOR-DME,FR
+CTX,ChÃ¢teauroux,NDB,FR
+CV,Calvi,NDB,FR
+DA,Ales,NDB,FR
+DGN,Digne,VOR,FR
+DIJ,Dijon,TACAN,FR
+DIN,Dinard,VOR-DME,FR
+DJL,Dijon,VOR-DME,FR
+DPE,Dieppe,VOR,FR
+DVL,Deauville,VOR,FR
+EPL,Epinal,VOR,FR
+EPR,Epernon,VOR-DME,FR
+EVX,Evreux,VORTAC,FR
+FGI,Figari,VOR-DME,FR
+FJR,Mediterranee,VOR-DME,FR
+FXE,Europa,NDB,FR
+GAI,Gaillac,VOR,FR
+GL,Nantes,NDB,FR
+GTQ,Grostenquin,VOR-DME,FR
+GU,Guipavas,NDB,FR
+HOL,Villacoublay,NDB,FR
+HR,Hericourt,NDB,FR
+HYE,Hyeres,TACAN,FR
+ING,Saint-Inglevert,NDB,FR
+IS,Ajaccio/Campo Dell Oro,NDB,FR
+ITR,Istres,TACAN,FR
+LCA,La Chatre,VOR,FR
+LDV,Landivisiau,TACAN,FR
+LEQ,Lesquin,VOR-DME,FR
+LEZ,Nice,NDB,FR
+LGL,L'Aigle,VOR,FR
+LM,Le Mans,NDB,FR
+LMG,Limoges,VOR-DME,FR
+LNP,Tour Du Pin,VOR,FR
+LOR,Lorient,TACAN,FR
+LSE,Lyon/Saint Exupery,VOR-DME,FR
+LTP,La Tour Du Pin,VOR-DME,FR
+LU,Le Luc,NDB,FR
+LUC,Le Luc,VOR-DME,FR
+LUL,Luxeuil,VOR,FR
+LXI,Luxeuil,TACAN,FR
+LXI,Luxeuil,NDB,FR
+MAR,Marseille/Provence,NDB,FR
+MBY,Moulins/Montbeugny,VOR,FR
+MC,Montlucon,NDB,FR
+MDM,Mont De Marsan,TACAN,FR
+MEN,Mende,VOR-DME,FR
+MET,Metz,TACAN,FR
+MJ,Marseille/Provence,NDB,FR
+ML,Marseille/Provence,DME,FR
+MLN,Melun,VOR-DME,FR
+MLX,Morlaix,NDB,FR
+MM,Montceau-Les-Mines,NDB,FR
+MMD,Montmedy,VOR,FR
+MOU,Moulins,VOR-DME,FR
+MRM,Marseille/Provence,VOR-DME,FR
+MS,Marseille/Provence,NDB,FR
+MT,Saint Nazaire/Montoir,NDB,FR
+MTD,Montdidier,VOR,FR
+MTG,Martigues,VOR-DME,FR
+MTL,Montelimar,VOR-DME,FR
+MUS,Nice Cote D Azur,NDB,FR
+NAY,Nancy,TACAN,FR
+NB,Bordeaux,NDB,FR
+NC,Nice/Cote D'Azur,NDB,FR
+NEV,Nevers,VOR,FR
+NG,Nimes/Garons,NDB,FR
+NIM,Nimes,TACAN,FR
+NIZ,Nice,VOR-DME,FR
+NTS,Nantes,VOR-DME,FR
+OAN,OrlÃ©ans,TACAN,FR
+OAN,OrlÃ©ans,NDB,FR
+OB,Marseille/Provence,NDB,FR
+OL,Orly,VOR-DME,FR
+ORG,Orange,TACAN,FR
+ORG,Orange,NDB,FR
+PGS,Charles de Gaulle,VOR-DME,FR
+PI,Poitiers,NDB,FR
+POI,Poitiers,VOR,FR
+PON,Pontoise,VOR,FR
+PPG,Perpignan,VOR-DME,FR
+PTV,Pithiviers,VOR,FR
+QPR,Quimper,VOR-DME,FR
+RBT,Rambouillet,VOR-DME,FR
+REM,Reims,VORTAC,FR
+REN,Rennes,VOR-DME,FR
+RLP,Rolampont,VOR-DME,FR
+ROA,Roanne,VOR,FR
+ROU,Rouen,VOR,FR
+RQ,Quimper,NDB,FR
+RTN,Romorantin,NDB,FR
+SAL,Salon,TACAN,FR
+SAU,Sauveterre,VOR,FR
+SAV,Saverne,VOR-DME,FR
+SCL,Saint Christol,NDB,FR
+SDI,Saint-Dizier,TACAN,FR
+SDI,Saint-Dizier,NDB,FR
+SFC,Saint Flour/Coltines,VOR,FR
+SNE,Senetose,NDB,FR
+SR,Saumur,NDB,FR
+STP,St.tTopez,VOR-DME,FR
+STR,Strasbourg,VOR-DME,FR
+SZA,Solenzara,TACAN,FR
+SZA,Solenzara,NDB,FR
+TA,Villacoublay,NDB,FR
+TAN,Lahitte,VOR,FR
+TBO,Tarbes,VOR,FR
+TH,Villacoublay,NDB,FR
+TIS,Thiers,VOR-DME,FR
+TL,Tarbes,NDB,FR
+TLN,Hyeres,NDB,FR
+TLU,Toulouse/Francazal,TACAN,FR
+TOE,Toulouse,NDB,FR
+TOU,Toulouse,VOR-DME,FR
+TRO,Troyes,VOR,FR
+TS,Toulouse,NDB,FR
+TSU,Toussus,VOR,FR
+TUR,Tours,TACAN,FR
+TUR,Tours,NDB,FR
+TW,Toulouse,NDB,FR
+VE,Chabeuil,NDB,FR
+VMP,ChÃ¢teaudun,VOR-DME,FR
+VNE,Vienne,VOR,FR
+YN,La Roche Sur Yon,NDB,FR
+FRV,Franceville,VOR-DME,GA
+FRV,Franceville,NDB,GA
+IC,Mitzic,NDB,GA
+IM,Bitam,NDB,GA
+KL,Koulamoutou,NDB,GA
+KO,Makokou,NDB,GA
+LB,Lambarene,NDB,GA
+LN,Libreville,NDB,GA
+LR,Lambarene,VOR,GA
+LV,Libreville,VOR-DME,GA
+LV,Lastourville,NDB,GA
+MED,Medouneu,NDB,GA
+ML,Mouilla,NDB,GA
+ND,Moanda,NDB,GA
+OE,Oyem,VOR-DME,GA
+OJ,Okondja,NDB,GA
+OY,Oyem,NDB,GA
+PG,Port Gentil,VOR,GA
+TB,Tchibanga,VOR,GA
+TC,Tchibanga,NDB,GA
+ADN,Aberdeen,VOR-DME,GB
+AP,Aberporth,NDB,GB
+AQ,Aberdeen,NDB,GB
+ATF,Aberdeen/Dyce,NDB,GB
+BBA,Benbecula,NDB,GB
+BCL,Benbecula,DME,GB
+BCN,Brecon,VOR-DME,GB
+BDN,Boscombe Down,TACAN,GB
+BEL,Belfast,VOR-DME,GB
+BEN,Benbecula,VOR-DME,GB
+BFD,Broadford,NDB,GB
+BHD,Berry Head,VOR-DME,GB
+BHX,Birmingham,NDB,GB
+BIA,Bournemouth,NDB,GB
+BIG,Biggin,VOR-DME,GB
+BKL,Ballykelly,TACAN,GB
+BKY,Barkway,VOR-DME,GB
+BLC,Blackbushe,DME,GB
+BLK,Blackbushe,NDB,GB
+BNN,Bovingdon,VOR-DME,GB
+BOU,Bourn,NDB,GB
+BPK,Brookmans Park,VOR-DME,GB
+BRI,Bristol,NDB,GB
+BRR,Barra,NDB,GB
+BSO,Benson,TACAN,GB
+BUR,Burnham,NDB,GB
+BV,Brough,NDB,GB
+BZ,Brize Norton,NDB,GB
+BZN,Brize Norton,TACAN,GB
+CAE,Caernarfon,NDB,GB
+CAM,Cambridge,NDB,GB
+CBL,Campbeltown,NDB,GB
+CBN,Cumbernauld,NDB-DME,GB
+CFD,Cranfield,VOR,GB
+CGY,Coningsby,TACAN,GB
+CHT,Chiltern,NDB,GB
+CLN,Clacton,VOR-DME,GB
+COM,Compt0n Abbas,NDB,GB
+CPT,Compton,VOR-DME,GB
+CTM,Cottesmore,TACAN,GB
+CWL,Cranwell,NDB,GB
+CWZ,Cranwell,TACAN,GB
+DCS,Dean Cross,VOR-DME,GB
+DET,Detling,VOR-DME,GB
+DND,Dundee,NDB,GB
+DTY,Daventry,VOR-DME,GB
+DVR,Dover,VOR-DME,GB
+EDN,Edinburgh,NDB,GB
+EKN,Enniskillen,NDB,GB
+EPM,Epsom,NDB,GB
+FFA,Fairford,TACAN,GB
+FNL,Fenland,NDB,GB
+FNY,Doncaster,NDB,GB
+FOS,Fairoaks,NDB,GB
+FRK,Fairoaks,DME,GB
+GAM,Gamston,VOR-DME,GB
+GE,Gatwick,NDB,GB
+GOS,Gloucestershire,DME,GB
+GOW,Glasgow,VOR-DME,GB
+GST,Gloucestershire,NDB,GB
+GWC,Goodwood,VOR-DME,GB
+GY,Gatwick,NDB,GB
+HAV,Haverfordwest,NDB,GB
+HDW,Haverfordwest,DME,GB
+HEN,Henton,NDB,GB
+HON,Honiley,VOR-DME,GB
+INS,Inverness,VOR-DME,GB
+IOF,Flotta,NDB,GB
+ISV,Stornoway,DME,GB
+ISY,Islay,DME,GB
+IVR,Inverness,NDB,GB
+IW,Bembridge,NDB,GB
+KMB,Kemble,NDB,GB
+KS,Kinloss,NDB,GB
+KSS,Kinloss,TACAN,GB
+KWL,Kirkwall,VOR-DME,GB
+LA,Lyneham,NDB,GB
+LAM,Lambourne,VOR-DME,GB
+LAY,Islay,NDB,GB
+LBA,Leeds Bradford,NDB,GB
+LCY,City,NDB,GB
+LDY,Lydd,DME,GB
+LE,Leicester,NDB,GB
+LEE,Leeming,TACAN,GB
+LIC,Lichfield,NDB,GB
+LKH,Lakenheath,TACAN,GB
+LND,Lands End,VOR-DME,GB
+LNS,Longside,NDB,GB
+LON,London,VOR-DME,GB
+LOO,Linton On Ouse,TACAN,GB
+LSH,Lashenden,NDB-DME,GB
+LUK,Leuchars,TACAN,GB
+LYD,Lydd,VOR-DME,GB
+LYE,Lyneham,TACAN,GB
+LYX,Lydd,NDB,GB
+MAC,Machrihanish,VOR-DME,GB
+MAM,Marham,TACAN,GB
+MAY,Mayfield,VOR-DME,GB
+MCT,Manchester,VOR-DME,GB
+MID,Midhurst,VOR-DME,GB
+MLD,Mildenhall,TACAN,GB
+NEW,Newcastle,VOR-DME,GB
+NGY,New Galloway,NDB,GB
+NL,Norwich,NDB,GB
+NN,Northampton,NDB,GB
+NOT,Nottingham,NDB,GB
+NT,Newcastle,NDB,GB
+OCK,Ockham,VOR-DME,GB
+ODH,Odiham,TACAN,GB
+OF,Filton,NDB,GB
+OTR,Ottringham,VOR-DME,GB
+OX,Oxford,NDB,GB
+OY,Aldergrove,NDB,GB
+PIK,Prestwick,NDB,GB
+POL,Pole Hill,VOR-DME,GB
+PTH,Perth,VOR,GB
+PW,Prestwick,NDB,GB
+PY,Plymouth,NDB,GB
+RCH,Rochester,NDB,GB
+RDL,Redhill,NDB,GB
+RWY,Isle Of Man,NDB,GB
+SAB,St.aAbs,VOR-DME,GB
+SAM,Southampton,VOR-DME,GB
+SAT,St Athan,TACAN,GB
+SAY,Stornoway,NDB-DME,GB
+SBH,Sumburgh,NDB,GB
+SBY,Strubby,NDB,GB
+SFD,Seaford,VOR-DME,GB
+SFH,Sheffield City,DME,GB
+SH,Shobdon,NDB,GB
+SHD,Scotstown Head,NDB,GB
+SLP,Sleap,NDB,GB
+SM,St Mawgan,NDB,GB
+SMF,Sheffield City,NDB,GB
+SMG,St Mawgan,TACAN,GB
+SS,Scatsta,NDB,GB
+SSD,Stansted,NDB,GB
+STM,St Marys,NDB,GB
+STN,Stornoway,VOR-DME,GB
+STU,Strumble,VOR-DME,GB
+SUM,Sumburgh,VOR-DME,GB
+SWB,Shawbury,VOR-DME,GB
+SWN,Swansea,NDB,GB
+SWZ,Swansea,DME,GB
+TD,Teesside,NDB,GB
+TIR,Tiree,VOR-DME,GB
+TL,Tingwall,NDB,GB
+TLA,Talla,VOR-DME,GB
+TNL,Tatenhill,NDB,GB
+TNT,Trent,VOR-DME,GB
+TRN,Turnberry,VOR-DME,GB
+UW,Edinburgh,NDB,GB
+VLN,Yeovilton,TACAN,GB
+VYL,Valley,TACAN,GB
+WAD,Waddington,TACAN,GB
+WAL,Wallasey,VOR-DME,GB
+WBA,Wolverhampton,NDB,GB
+WCO,Westcott,NDB,GB
+WFD,Manchester Woodford,NDB,GB
+WHI,Whitegate,NDB,GB
+WIK,Wick,VOR-DME,GB
+WIT,Wittering,TACAN,GB
+WL,Barrow,NDB,GB
+WOD,Woodley,NDB,GB
+WOL,Wolverhampton,DME,GB
+WPL,Welshpool,NDB-DME,GB
+WTN,Warton,TACAN,GB
+WTN,Warton,NDB,GB
+WTZ,Wattisham,TACAN,GB
+GND,Point Salines,VOR-DME,GD
+AV,Sukhumi,NDB,GE
+BT,Ali,NDB,GE
+DA,Gali,NDB,GE
+DF,Mukhrani,NDB,GE
+KTS,Kutaisi,VOR-DME,GE
+LU,Batumi,NDB,GE
+N,Tbilisi,NDB,GE
+NA,Tbilisi,NDB,GE
+OZ,Gori,NDB,GE
+TBS,Tbilisi,VOR-DME,GE
+TIG,Kutaisi,NDB,GE
+TO,Tsnori,NDB,GE
+UY,Kutaisi,NDB,GE
+V,Lochini,NDB,GE
+VP,Tbilisi,NDB,GE
+CP,Camopi,NDB,GF
+CW,St Laurent Du Maroni,NDB,GF
+CYR,Cayenne,VOR-DME,GF
+ELI,St Elie,NDB,GF
+FXC,Cayenne,NDB,GF
+MP,Maripasoula,NDB,GF
+SU,Saul,NDB,GF
+ALD,Alderney,NDB,GG
+GUR,Guernsey,VOR-DME,GG
+AA,Accra,NDB,GH
+ACC,Accra,VOR-DME,GH
+KL,Kumasi,NDB,GH
+KSI,Kumasi,VOR-DME,GH
+PAM,Pampa,VOR-DME,GH
+SN,Sunyani,NDB,GH
+TI,Takoradi,NDB,GH
+TLE,Tamale,VOR-DME,GH
+GBR,Gibraltar,TACAN,GI
+AA,Aasiaat,NDB,GL
+AS,Aasiaat,DME,GL
+CH,Christianshaab,NDB,GL
+CP,Constable Pynt,NDB,GL
+DA,Kulusuk,NDB,GL
+EM,Egedesminde,NDB,GL
+FH,Frederikshab,NDB,GL
+GH,Godthab/Nuuk,NDB,GL
+GN,Godthaab,DME,GL
+HB,Holsteinsborg,NDB,GL
+JA,Jacobshavn,DME,GL
+JH,Qaqortoq,NDB,GL
+JV,Ilulissat,NDB,GL
+KS,Fiskenaesset,NDB,GL
+KU,Kook Islands,NDB,GL
+MA,Maniitsoq,NDB,GL
+MAR,Marmorilik,NDB,GL
+MS,Maniitsoq,DME,GL
+MV,Mesters Vig,NDB,GL
+NA,Narsarsuaq,NDB,GL
+NK,Godthab/Nuuk,NDB,GL
+NN,Nanortalik,NDB,GL
+NQ,Narsarsuaq,DME,GL
+NS,Narsaq,NDB,GL
+OZN,Prins Christian Sund,NDB,GL
+QA,Uummannaq,DME,GL
+QN,Qaanaaq,DME,GL
+QQ,Qaanaaq,NDB,GL
+QT,Godthab/Nuuk,NDB,GL
+SF,Sondre Stromfjord,NDB,GL
+SI,Simiutaq,NDB,GL
+SM,Sisimiut,NDB,GL
+SS,Sisimiut,DME,GL
+ST,Sukkertoppen,NDB,GL
+THT,Thule,VORTAC,GL
+UP,Upernavik,NDB,GL
+UU,Uummannaq,NDB,GL
+BJ,Banjul,VOR-DME,GM
+ND,Banjul,NDB,GM
+CY,Conakry,NDB,GN
+FRH,Faranah,VOR,GN
+GIA,Conakry,VOR-DME,GN
+GK,Gbenko,NDB,GN
+KAM,Kamsar,NDB,GN
+KN,Kankan,NDB,GN
+KR,Conakry,NDB,GN
+KU,Kissidougou,NDB,GN
+LB,Labe,NDB,GN
+MA,Macenta,NDB,GN
+NZ,Nzerekore,NDB,GN
+OK,Boke,NDB,GN
+SB,Sambailo,NDB,GN
+SG,Sangaredi,NDB,GN
+SI,Siguiri,NDB,GN
+AR,Le Raizet,NDB,GP
+MG,Marie Galante,NDB,GP
+PPR,Pointe A Pitre,VOR-DME,GP
+PTP,Pointe A Pitre,NDB,GP
+BL,Malabo,NDB,GQ
+BT,Bata,NDB,GQ
+MBO,Malabo,VOR-DME,GQ
+PA,Malabo,NDB,GQ
+AGH,Anchialos,VOR-DME,GR
+AKT,Preveza/Aktion,VOR-DME,GR
+ALX,Alexandroupolis,VOR-DME,GR
+AML,Andravida,TACAN,GR
+AML,Amalias,NDB,GR
+ANL,Nea Anchialos,TACAN,GR
+ARA,Araxos,VOR-DME,GR
+ARX,Araxos,TACAN,GR
+ATV,Athinai,VOR-DME,GR
+DDM,Didimon,VOR-DME,GR
+DEK,Dekelia,NDB,GR
+EGN,Aigina,NDB,GR
+ELF,Elefsis,TACAN,GR
+FSK,Fiska,VOR-DME,GR
+GAR,Garitsa,VOR-DME,GR
+GDA,Alexandria,NDB,GR
+HER,Iraklion,NDB,GR
+HOS,Chios,VOR-DME,GR
+IKA,Ikaria,NDB,GR
+IOA,Ioannina,NDB,GR
+IRA,Iraklion,VOR-DME,GR
+KAM,Kalamata,VOR-DME,GR
+KAO,Kassos,NDB,GR
+KAS,Kastoria,VOR-DME,GR
+KEA,Kea,VOR-DME,GR
+KEK,Kerkira,NDB,GR
+KFN,Kefallinia,VOR-DME,GR
+KHR,Chrisoupolis,NDB,GR
+KHZ,Astypalaia,NDB,GR
+KLI,Kasteli,TACAN,GR
+KLM,Kalamata,TACAN,GR
+KOR,Korinthos,NDB,GR
+KOS,Kos,VOR-DME,GR
+KOZ,Kozani,VOR-DME,GR
+KPL,Kavala,VOR-DME,GR
+KRC,Karpathos,NDB,GR
+KRK,Kerkira,VOR-DME,GR
+KRN,Kotroni,TACAN,GR
+KRO,Karistos,VOR-DME,GR
+KRP,Kavala,TACAN,GR
+KTH,Kithira,VOR-DME,GR
+KTR,Kithira,TACAN,GR
+KVR,Kavouri,NDB,GR
+KZO,Kastelorizo,NDB,GR
+LAR,Larisa,TACAN,GR
+LMN,Limnos,TACAN,GR
+LMO,Limnos,VOR-DME,GR
+LSA,Larisa,NDB,GR
+LSV,Lesvos,VOR-DME,GR
+LVO,Lesvos,NDB,GR
+MES,Mesta,VOR-DME,GR
+MGR,Megara,NDB,GR
+MIK,Mikra,TACAN,GR
+MIL,Milos,VOR-DME,GR
+MKA,Mikra,TACAN,GR
+MKN,Mikonos,VOR-DME,GR
+MKR,Mikra,VOR-DME,GR
+MLN,Mitilini,VOR-DME,GR
+MLO,Milos,NDB,GR
+MLS,Milos,TACAN,GR
+NAN,Nea Anchialos,NDB,GR
+PAK,Preveza,NDB,GR
+PAO,Paros,NDB,GR
+PAR,Paradisi,VOR-DME,GR
+PLH,Paleochora,VOR-DME,GR
+RDS,Rodos,VOR-DME,GR
+RKL,Iraklion,TACAN,GR
+ROD,Rodos,TACAN,GR
+ROS,Rodos,NDB,GR
+RPA,Karpathos,TACAN,GR
+SAM,Samos,VOR-DME,GR
+SAN,Santorini,TACAN,GR
+SAT,Eleftherios Venizelos,VOR-DME,GR
+SHT,Sitia,VOR-DME,GR
+SIT,Sitia,VOR-DME,GR
+SKC,Skiathos,NDB,GR
+SKL,Skopelos,TACAN,GR
+SKP,Skopelos,VOR-DME,GR
+SKS,Skiros,VOR-DME,GR
+SKY,Skyros,TACAN,GR
+SNI,Santorini,VOR-DME,GR
+STV,Stefanovikion,VOR,GR
+SUD,Souda,TACAN,GR
+SUD,Chania,VOR-DME,GR
+SUN,Sounion,NDB,GR
+SYR,Syros,NDB,GR
+TGG,Tanagra,VOR-DME,GR
+TGR,Tanagra,TACAN,GR
+THR,Thira,NDB,GR
+THS,Thessaloniki,NDB,GR
+TIM,Timbakion,TACAN,GR
+TNG,Tanagra,NDB,GR
+TPO,Tripolis,TACAN,GR
+TRL,Tripolis,VOR-DME,GR
+TSL,Thessaloniki,VOR-DME,GR
+YNN,Ioannina,VOR-DME,GR
+ZAK,Zakinthos,VOR-DME,GR
+AUR,La Aurora,VOR-DME,GT
+BAR,Puerto Barrios,NDB,GT
+GUA,Guatemala City,NDB,GT
+IOS,Puerto Barrios,VOR-DME,GT
+IZP,Iztapa,NDB,GT
+POP,Poptun,NDB,GT
+RAB,Rabinal,VOR-DME,GT
+REU,Retalhuleu,NDB,GT
+RUB,Rubelsanto,NDB,GT
+SGA,San Jose,NDB,GT
+SJO,San Jose,VOR-DME,GT
+TIK,Tikal,VOR-DME,GT
+AJA,Mt Macajna,NDB,GU
+UAM,Andersen,TACAN,GU
+UNZ,Nimitz,VORTAC,GU
+BIS,Bissau/Oswaldo Vieira,VOR-DME,GW
+KAI,Kaieteur,NDB,GY
+KAM,Kamarang,NDB,GY
+TIM,Timehri,VOR-DME,GY
+UIT,Timehri,NDB,GY
+CH,Cheung Chau,VOR-DME,HK
+HKG,Cape D Aguilar,NDB,HK
+LC,Lam Chau,NDB,HK
+LKC,Lung Kwu Chau,VOR-DME,HK
+SMT,Siu Mo To,VOR-DME,HK
+TH,Tathong Point,VOR-DME,HK
+BTO,Bonito,VOR-DME,HN
+CTL,Punta Castilla,NDB,HN
+ESC,Soto Cano,VORTAC,HN
+LCE,La Ceiba,NDB-DME,HN
+LMS,La Mesa,VOR-DME,HN
+PIC,Picacho,NDB,HN
+PLP,Puerto Lempira,NDB,HN
+ROA,Roatan,VOR-DME,HN
+TNT,Toncontin,VOR-DME,HN
+BO,Bokanjac,NDB,HR
+BRZ,Breza,NDB,HR
+CE,Cepin,NDB,HR
+CRE,Cres,NDB,HR
+CV,Dubrovnik,NDB,HR
+DBK,Dubrovnik,VOR-DME,HR
+DVN,Drvenik,NDB,HR
+GR,Dubrovnik,NDB,HR
+HUM,Hum,NDB,HR
+IZA,Iza,DME,HR
+KAV,Kavran,NDB,HR
+KLP,Kolocep,NDB,HR
+KO,Kozala,NDB,HR
+LOS,Losinj,NDB,HR
+OSJ,Osijek,NDB,HR
+PIS,Pisarovina,NDB,HR
+PLA,Pula,NDB,HR
+PUL,Pula,VOR-DME,HR
+RI,Rijeka,NDB,HR
+RJK,Rijeka,VOR-DME,HR
+SAL,Sali,NDB,HR
+SK,S.kKaljevec,NDB,HR
+SPL,Split,VOR-DME,HR
+TRI,Trogir,NDB,HR
+UNA,Udbina,NDB,HR
+VAR,Varazdin,NDB,HR
+VBA,Barna,VOR-DME,HR
+VG,Velika Gorica,NDB,HR
+VRS,Vrsar,NDB,HR
+ZAG,Zagreb,VOR-DME,HR
+ZDA,Zadar,VOR-DME,HR
+ZK,Zadar,NDB,HR
+ZRA,Kakma,NDB,HR
+CAY,Cayes,NDB,HT
+HCN,Cap Haitien,VOR,HT
+HHP,Port Au Prince,NDB,HT
+JRM,Jeremie,NDB,HT
+OBN,Obleon,VOR-DME,HT
+PAP,Port Au Prince,VOR-DME,HT
+A,Budapest,NDB,HU
+A,Opera,NDB,HU
+AO,Opera,NDB,HU
+BKS,Bekes,VOR-DME,HU
+BL,Budapest,NDB,HU
+BR,Budapest,NDB,HU
+BUD,Budapest,VOR-DME,HU
+BUG,Bugac,VOR-DME,HU
+C,Parduc,NDB,HU
+C,Debrecen,NDB,HU
+CP,Parduc,NDB,HU
+D,Tokol,NDB,HU
+DC,Debrecen,NDB,HU
+DU,Tokol,NDB,HU
+G,Szeged,NDB,HU
+GYR,Gyor,VOR-DME,HU
+HA,Budapest,NDB,HU
+HM,Budapest,NDB,HU
+JBR,Jaszbereny,NDB,HU
+K,Tazar,NDB,HU
+L,Budapest,NDB,HU
+M,Budapest,NDB,HU
+MNR,Monor,VOR-DME,HU
+MOB,Taszar,TACAN,HU
+N,Titan,NDB,HU
+NCS,Nagycserkesz,NDB,HU
+NT,Titan,NDB,HU
+NYR,Nyiregyhaza,VOR,HU
+O,Opera,NDB,HU
+OA,Opera,NDB,HU
+PC,Parduc,NDB,HU
+PP,Pecs-Pogany,NDB,HU
+PTB,Pusztaszabolcs,VOR-DME,HU
+R,Budapest,NDB,HU
+SAG,Sajohidveg,VOR-DME,HU
+SME,Sarmellek,NDB,HU
+SVR,Sagvar,VOR-DME,HU
+T,Titan,NDB,HU
+TN,Titan,NDB,HU
+TPS,Tapiosap,VOR-DME,HU
+V,Szentkiralyszabadja,NDB,HU
+VR,Parduc,NDB,HU
+VS,Szentkiralyszabadja,NDB,HU
+XNB,Kaposvar,NDB,HU
+Y,Nyiregyhaza,NDB,HU
+ZG,Szeged,NDB,HU
+AA,Atambua,NDB,ID
+AD,Rengat,NDB,ID
+AG,Aek Godang,NDB,ID
+AK,Astra Kesetra,NDB,ID
+AL,Halim Perdanakusuma,NDB,ID
+AM,Amahai,NDB,ID
+AMN,Ambon,VOR-DME,ID
+ANY,Achmad Yani,VOR-DME,ID
+AR,Iswahyudi,NDB,ID
+AS,Sanana,NDB,ID
+AS,Atang Senjaya,NDB,ID
+AT,Pontianak,NDB,ID
+BA,Blora,NDB,ID
+BAC,Banda Aceh,VOR-DME,ID
+BB,Bau Bau,NDB,ID
+BD,Muara Badak,NDB,ID
+BDM,Banjarmasin,VOR-DME,ID
+BE,Mangkajang,NDB,ID
+BG,Bontang,NDB,ID
+BI,Bintuni,NDB,ID
+BIK,Biak,VOR-DME,ID
+BK,Buntok,NDB,ID
+BKL,Bengkulu,VOR-DME,ID
+BL,Buli,NDB,ID
+BLI,Bali,VOR-DME,ID
+BN,Banda Naera,NDB,ID
+BND,Bandung,VOR-DME,ID
+BPN,Balikpapan,VOR-DME,ID
+BR,Batu Raja,NDB,ID
+BTM,Batam,VOR-DME,ID
+BTO,Budiarto,VOR-DME,ID
+BU,Bunyu,NDB,ID
+BU,Pulua Batu,NDB,ID
+BW,Bajawa,NDB,ID
+CA,Cirebon,NDB,ID
+CB,Pondok Cabe,NDB,ID
+CKG,Cengkareng,VOR-DME,ID
+CLP,Cilacap,VOR-DME,ID
+CU,Cepu,NDB,ID
+DF,Kasiguncu,NDB,ID
+DKI,Jakarta,VOR-DME,ID
+DM,Dumai,NDB,ID
+DO,Dobo,NDB,ID
+ED,Ende,NDB,ID
+FA,Fak Fak,NDB,ID
+FK,Palangkaraya,NDB,ID
+GA,Mataram,NDB,ID
+GI,Nias,NDB,ID
+GL,Galela,NDB,ID
+GN,Gunung Sekip,NDB,ID
+GTL,Gorontalo,VOR-DME,ID
+HLM,Halim Perdanakusuma,VOR-DME,ID
+IMU,Indramayu,VOR-DME,ID
+IR,Kisar,NDB,ID
+IWY,Iswahyudi,TACAN,ID
+JMB,Jambi,VOR-DME,ID
+JOG,Yogyakarta,VOR-DME,ID
+JPA,Jayapura,VOR-DME,ID
+KC,Kerinci,NDB,ID
+KDI,Kendari,VOR-DME,ID
+KJ,Karimunjawa,NDB,ID
+KM,Kalimaru,NDB,ID
+KMI,Indo Muro Kencana,NDB,ID
+KP,Ketapang,NDB,ID
+KPG,Kupang,VOR-DME,ID
+KTP,Ketapang,VOR-DME,ID
+KU,Kuabang,NDB,ID
+LA,Bula,NDB,ID
+LB,Labuhan Bajo,NDB,ID
+LH,Labuha,NDB,ID
+LK,Bubung,NDB,ID
+LL,Senipah,NDB,ID
+LN,Long Bawang,NDB,ID
+LN,Larantuka,NDB,ID
+LO,Long Apung,NDB,ID
+LS,Lhok Sukon,NDB,ID
+LU,Lubuk Linggau,NDB,ID
+LW,Lawang,NDB,ID
+LW,Malikus Saleh,NDB,ID
+MA,Masamba,NDB,ID
+MD,Manado,NDB,ID
+MDN,Medan,VOR-DME,ID
+ME,Mangole,NDB,ID
+MG,Melangguane,NDB,ID
+MH,Meulaboh,NDB,ID
+MHI,Masalembo,NDB,ID
+MI,Mali,NDB,ID
+MK,Matak,NDB,ID
+MK,Pongtiku,NDB,ID
+MKB,Minangkabau,VOR-DME,ID
+MKE,Merauke,VOR-DME,ID
+MKS,Hasanuddin,VOR-DME,ID
+ML,Malang,NDB,ID
+MN,Muna,NDB,ID
+MNO,Manado,VOR-DME,ID
+MO,Muko Muko,NDB,ID
+MOF,Maumere,VOR-DME,ID
+MP,Sumenep,NDB,ID
+MR,Kaburau,NDB,ID
+MTM,Mataram,VOR-DME,ID
+MU,Mamuju,NDB,ID
+MW,Muara Tewe,NDB,ID
+MWB,Manado,VOR-DME,ID
+NA,Namlea,NDB,ID
+NBR,Nabire,VOR-DME,ID
+ND,Tanjung Pandan,NDB,ID
+NE,Singkep,NDB,ID
+NF,Singkawang,NDB,ID
+NH,Nanga Pinoh,NDB,ID
+NI,Kendari,NDB,ID
+NIS,Nias,VOR-DME,ID
+NMA,Bima,VOR-DME,ID
+NN,Gorontalo,NDB,ID
+NO,Maumere,NDB,ID
+NQ,Sumbawa,NDB,ID
+NR,Waingapu,NDB,ID
+NW,Pekanbaru,NDB,ID
+NW,Nusawiru,NDB,ID
+NX,Jambi,NDB,ID
+NY,Warukin,NDB,ID
+NZ,Banda Aceh,NDB,ID
+OC,Semarang,NDB,ID
+OF,Yogyakarta,NDB,ID
+OH,Ambon,NDB,ID
+OI,Pangkal Pinang,NDB,ID
+OJ,Hasanuddin,NDB,ID
+OK,Kupang,NDB,ID
+OL,Balikpapan,NDB,ID
+ON,Medan,NDB,ID
+OP,Palu,NDB,ID
+OQ,Padang,NDB,ID
+OR,Bali,NDB,ID
+OT,Tarakan,NDB,ID
+OU,Banjarmasin,NDB,ID
+OW,Palembang,NDB,ID
+OX,Morotai,NDB,ID
+OY,Bandung,NDB,ID
+PA,Pomala,NDB,ID
+PAL,Palu,VOR-DME,ID
+PB,Bengkulu,NDB,ID
+PB,Pangsuma,NDB,ID
+PD,Pendopo,NDB,ID
+PDG,Padang,VOR-DME,ID
+PG,Penggung,NDB,ID
+PGN,Pagerungan,NDB,ID
+PKN,Pangkalan Bun,VOR-DME,ID
+PKP,Pangkal Pinang,VOR-DME,ID
+PKU,Pekanbaru,VOR-DME,ID
+PKY,Tjilik Riwut,VOR-DME,ID
+PLB,Palembang,VOR-DME,ID
+PMA,Pattimura,VOR-DME,ID
+PN,Manado,NDB,ID
+PNK,Pontianak,VOR-DME,ID
+PO,Bima,NDB,ID
+PP,Pasir Pangarayan,NDB,ID
+PW,Purwakarta,NDB,ID
+RE,Namrole,NDB,ID
+RG,Ruteng,NDB,ID
+RN,Ranai,NDB,ID
+SA,Soroako,NDB,ID
+SA,Sangata,NDB,ID
+SBR,Surabaya,VOR-DME,ID
+SG,Susilo,NDB,ID
+SG,Sinabang,NDB,ID
+SG,Tanah Grogot,NDB,ID
+SI,Sarmi,NDB,ID
+SIX,Pinang Sore,VOR-DME,ID
+SK,Pinang Sore,NDB,ID
+SL,Selayar,NDB,ID
+SLO,Solo,VOR-DME,ID
+SM,Saumlaki,NDB,ID
+SN,Stagen,NDB,ID
+SO,Solo,NDB,ID
+SOG,Sorong,VOR-DME,ID
+SP,Sampit,NDB,ID
+SP,Sei pPkning,NDB,ID
+SP,Ramba,NDB,ID
+TA,Tahuna,NDB,ID
+TF,Bandar Lampung,NDB,ID
+TG,Tanjung Balai,NDB,ID
+TG,Temindung,NDB,ID
+TG,Tiong Ohong,NDB,ID
+TI,Tanjung Pinang,NDB,ID
+TKG,Bandar Lampung,VOR-DME,ID
+TL,Dumatubin,NDB,ID
+TMK,Timika,VOR-DME,ID
+TN,Tangerang,NDB,ID
+TO,Toli-Toli,NDB,ID
+TP,Tapak Tuan,NDB,ID
+TPG,Tanjung Pinang,VOR-DME,ID
+TPN,Tanjung Pandan,VOR-DME,ID
+TR,Ternate,NDB,ID
+TRK,Tarakan,VOR-DME,ID
+TT,Santan,NDB,ID
+TU,Tardanu,NDB,ID
+WK,Waikabubak,NDB,ID
+WR,Surabaya,NDB,ID
+WW,Palembang,NDB,ID
+ZF,Timika,NDB,ID
+ZG,Waghete,NDB,ID
+ZH,Tanah Merah,NDB,ID
+ZI,Teminabuan,NDB,ID
+ZM,Biak,NDB,ID
+ZN,Jayapura,NDB,ID
+ZO,Sorong,NDB,ID
+ZP,Merauke,NDB,ID
+ZQ,Manokwari,NDB,ID
+ZR,Nabire,NDB,ID
+ZU,Serui,NDB,ID
+ZV,Kaimana,NDB,ID
+ZW,Wamena,NDB,ID
+ZX,Oksibil,NDB,ID
+BAL,Baldonnel,VOR-DME,IE
+CFN,Donegal,NDB,IE
+CML,Clonmel,NDB,IE
+CON,Connaught,VOR-DME,IE
+CRK,Cork,VOR-DME,IE
+CRN,Galway,NDB,IE
+DAP,Dublin,VOR-DME,IE
+DUB,Dublin,VOR-DME,IE
+ENS,Ennis,NDB,IE
+FOY,Foynes,NDB,IE
+GAR,Garristown,NDB,IE
+GMN,Gormanston,NDB-DME,IE
+ID,Dublin,DME,IE
+KER,Kerry,NDB,IE
+KLY,Killiney,NDB,IE
+KNK,Connaught,NDB,IE
+OE,Dublin,NDB,IE
+OK,Connaught,NDB,IE
+OP,Op,NDB,IE
+RSH,Rush,NDB,IE
+SHA,Shannon,VOR-DME,IE
+SLG,Sligo,NDB-DME,IE
+WST,Weston,VOR-DME,IE
+WTD,Waterford,NDB,IE
+BGN,Ben Gurion,VOR-DME,IL
+BSA,Beer-Sheba,VOR,IL
+HFA,Haifa,NDB,IL
+HRZ,Herzlia,NDB,IL
+LL,Tel Aviv,NDB,IL
+LOT,Eilot,VOR-DME,IL
+MZD,Metzada,VOR-DME,IL
+NAT,Natania,VOR-DME,IL
+OVD,Ovda,VOR-DME,IL
+ROP,Rosh Pina,VOR-DME,IL
+TAV,Sde Dov,NDB,IL
+ZFR,Zofar,VOR-DME,IL
+CAR,Carnane,NDB,IM
+IOM,Isle Of Man,VOR-DME,IM
+AAE,Ahmedabad,VOR-DME,IN
+AAR,Amritsar,VOR-DME,IN
+AAT,Agartala,VOR-DME,IN
+AAU,Aurangabad,VOR-DME,IN
+AGG,Agra,VOR-DME,IN
+AH,Ahmedabad,NDB,IN
+ALI,Aligarh,VOR-DME,IN
+AP,Allahabad,NDB,IN
+AT,Agatti,NDB-DME,IN
+AZ,Aizawl,NDB,IN
+BBB,Mumbai,VOR-DME,IN
+BBD,Bagdogra,VOR-DME,IN
+BBG,Bangalore,VOR-DME,IN
+BBI,Bellary,VOR-DME,IN
+BBJ,Bhuj,VOR-DME,IN
+BBM,Belgaum,VOR-DME,IN
+BBN,Varanasi,VOR-DME,IN
+BBS,Bhubaneshwar,VOR-DME,IN
+BBZ,Vijayawada,VOR-DME,IN
+BNR,Bhuntar,NDB,IN
+BPL,Bhopal,VOR-DME,IN
+BPN,Barapani,VOR-DME,IN
+BR,Bidar,NDB,IN
+BR,Barapani,NDB,IN
+BVR,Bhavnagar,VOR-DME,IN
+BY,Bareilly,NDB,IN
+CA,Cochin Intl,NDB,IN
+CA,Kolkata,NDB,IN
+CC,Cochin,NDB,IN
+CCB,Coimbatore,VOR-DME,IN
+CCN,Cochin,VOR-DME,IN
+CEA,Kolkata,VOR-DME,IN
+CHG,Chandigarh,VOR-DME,IN
+CHI,Chillerki,VOR-DME,IN
+CI,Cochin Intl,NDB,IN
+CIA,Cochin Intl,VOR-DME,IN
+CIB,Cochin Intl,VOR-DME,IN
+CLC,Calicut,VOR-DME,IN
+CN,Carnicobar,NDB,IN
+CO,Cooch Behar,NDB,IN
+DG,Dundigul,NDB,IN
+DH,Delhi,NDB,IN
+DMR,Dimapur,VOR-DME,IN
+DP,Delhi,NDB,IN
+DPN,Delhi,VOR-DME,IN
+DRG,Dibrugarh,VOR-DME,IN
+DU,Kolkata,NDB,IN
+FSG,Fursatganj,VOR-DME,IN
+GGB,Gulbarga,VOR-DME,IN
+GGC,Gaya,VOR-DME,IN
+GGO,Goa,VOR-DME,IN
+GGT,Guwahati,VOR-DME,IN
+GH,Gorakhpur,NDB,IN
+GJ,Gwalior,NDB,IN
+GO,Goa,NDB,IN
+GWA,Gwalior,VOR-DME,IN
+HB,Hubli,NDB,IN
+HHY,Hyderabad,VOR-DME,IN
+HW,Pantnagar,NDB,IN
+IID,Indore,VOR-DME,IN
+IIM,Imphal,VOR-DME,IN
+JA,Jammu,NDB,IN
+JAL,Jalalabad,VOR-DME,IN
+JG,Dehradun,NDB,IN
+JH,Jharsuguda,NDB,IN
+JHT,Jorhat,VOR-DME,IN
+JJB,Jabalpur,VOR-DME,IN
+JJO,Jodhpur,VOR-DME,IN
+JJP,Jaipur,VOR-DME,IN
+JJS,Jamshedpur,VOR-DME,IN
+JJU,Jammu,VOR-DME,IN
+JMR,Jamnagar,VOR-DME,IN
+KA,Kanpur Chakeri,NDB,IN
+KD,Kandla,NDB,IN
+KG,Kishanganj,NDB,IN
+KH,Katihar,NDB,IN
+KKJ,Khajuraho,VOR-DME,IN
+KKP,Kancheepuram,VOR-DME,IN
+KKU,Silchar,VOR-DME,IN
+KL,Akola,NDB,IN
+KM,Kamalpur,NDB,IN
+KM,Khamampet,NDB,IN
+KN,Kangra,NDB,IN
+KO,Kota,NDB,IN
+KP,Kolhapur,NDB,IN
+KR,Kailashahar,NDB,IN
+KS,Keshod,NDB,IN
+LA,Leh,NDB,IN
+LBR,Lilabari,VOR-DME,IN
+LD,Ludhiana,NDB,IN
+LEH,Leh,VOR-DME,IN
+LKA,Esdem,VOR-DME,IN
+LLK,Lucknow,VOR-DME,IN
+LLP,Lengpui,VOR-DME,IN
+LM,Delhi,NDB,IN
+LU,Udaipur,NDB,IN
+LUN,Mabor,VOR-DME,IN
+MA,Chennai,NDB,IN
+MDI,Madurai,VOR-DME,IN
+MML,Mangalore,VOR-DME,IN
+MMV,Chennai,VOR-DME,IN
+NNP,Nagpur,VOR-DME,IN
+NR,Lilabari,NDB,IN
+OM,Pondicherry,NDB,IN
+PK,Pathankot,NDB,IN
+PL,Delhi,NDB,IN
+PO,Pune,NDB,IN
+PPB,Port Blair,VOR-DME,IN
+PPT,Patna,VOR-DME,IN
+PR,Porbandar,NDB,IN
+PRA,Pratapgarh,VOR-DME,IN
+PUN,Pune,VOR-DME,IN
+QQZ,Vadodara,VOR-DME,IN
+RKT,Rajkot,VOR-DME,IN
+RRC,Ranchi,VOR-DME,IN
+RRP,Raipur,VOR-DME,IN
+RY,Rajahmundry,NDB,IN
+SAI,Sri Sathya Sai,NDB,IN
+SAM,Sampla,VOR-DME,IN
+SG,Songarh,NDB,IN
+SH,Simla,NDB,IN
+SKA,Sakaras,VOR-DME,IN
+SNG,Srinagar,VOR-DME,IN
+SP,Sarsawa,NDB,IN
+SSB,Sikandrabad,VOR-DME,IN
+SU,Surat,NDB,IN
+TEZ,Tezpur,VOR-DME,IN
+TJ,Teju,NDB,IN
+TK,Tarkeshwar,NDB,IN
+TRR,Reengus/Asovo,NDB,IN
+TTP,Tirupati,VOR-DME,IN
+TTR,Tiruchirappalli,VOR-DME,IN
+TU,Tuticorin,NDB,IN
+TVM,Trivandrum,VOR-DME,IN
+UUD,Udaipur,VOR-DME,IN
+VB,Vikarabad,NDB,IN
+VVZ,Vishakhapatnam,VOR-DME,IN
+VZ,Vishakhapatnam,NDB,IN
+WSM,Washim,VOR,IN
+YH,Yelahanka,NDB,IN
+NDG,Diego Garcia,NDB,IO
+NKW,Diego Garcia,TACAN,IO
+BAP,Baghdad,TACAN,IQ
+BAR,Basrah,TACAN,IQ
+BGD,Baghdad,VOR,IQ
+BLD,Balad,VORTAC,IQ
+BSR,Basrah,VOR-DME,IQ
+KRK,Kirkuk,TACAN,IQ
+MAA,Al Asad,TACAN,IQ
+MAT,Al Taqaddum,TACAN,IQ
+QYW,Qayyarah West,TACAN,IQ
+SUL,Sulaymaniyah,VOR,IQ
+TAJI,Taji,NDB,IQ
+TAL,Tallil,TACAN,IQ
+TKT,Al Sahra,NDB,IQ
+AA,Aliabad,NDB,IR
+ABD,Abadan,VOR-DME,IR
+ABM,Abumusa Island,NDB,IR
+AJ,Aghajari,NDB,IR
+ANK,Anarak,VOR-DME,IR
+ARB,Ardabil,VOR-DME,IR
+ARK,Arak,NDB,IR
+ASL,Asaloyeh,NDB,IR
+AWZ,Ahwaz,VOR-DME,IR
+BAM,Bam,VOR-DME,IR
+BJD,Birjand,VOR-DME,IR
+BJD,Birjand,NDB,IR
+BND,Bandar Abbass,TACAN,IR
+BND,Bandar Abbass,VOR-DME,IR
+BRD,Bojnord,VOR-DME,IR
+BUZ,Bushehr,TACAN,IR
+CBH,Chah Bahar,VORTAC,IR
+DAR,Darband,VOR-DME,IR
+DHN,Dehnamak,VOR-DME,IR
+DNZ,Dasht-E-Naz,VOR-DME,IR
+DZF,Dezful,TACAN,IR
+DZF,Dezful,NDB,IR
+ESH,Shahid Vatan Pour,NDB,IR
+FSA,Fasa,NDB,IR
+GGN,Gorgan,VOR-DME,IR
+GSN,Gachsaran,NDB,IR
+HAB,Hamadan Mil,VORTAC,IR
+HAM,Hamadan,VOR-DME,IR
+HSA,Hesa,NDB-DME,IR
+IFN,Esfahan,TACAN,IR
+IKA,Imam Khomeini,VOR-DME,IR
+ILM,Ilam,VOR-DME,IR
+ISN,Esfahan,VOR-DME,IR
+ISR,Iran Shahr,VOR-DME,IR
+JAM,Jam,VOR-DME,IR
+JIR,Jiroft,NDB,IR
+JRM,Jahrom,NDB,IR
+JSK,Jask,TACAN,IR
+KAZ,Kahrizak,NDB,IR
+KER,Kerman,TACAN,IR
+KER,Kerman,VOR-DME,IR
+KHG,Khark Island,VOR-DME,IR
+KHM,Dayrestan,NDB-DME,IR
+KHY,Khoy,NDB,IR
+KIH,Kish Island,TACAN,IR
+KIS,Kish Island,VOR-DME,IR
+KLH,Kalaleh,NDB,IR
+KMS,Kermanshah,VOR-DME,IR
+KRD,Khoram Abad,VOR-DME,IR
+KRD,Khoram Abad,NDB,IR
+KSH,Kermanshah,TACAN,IR
+LAM,Lamerd,VOR-DME,IR
+LAR,Lar,VOR-DME,IR
+LEN,Bandar Lengeh,VOR-DME,IR
+LVA,Lavan Island,VOR-DME,IR
+MAH,Mahshahr,VOR-DME,IR
+MAL,Malayer,VOR-DME,IR
+MIS,Masjed Soleiman,NDB,IR
+MM,Parsabade Moghan,NDB,IR
+MSD,Mashhad,TACAN,IR
+MSD,Mashhad,NDB,IR
+NSR,Noshahr,NDB-DME,IR
+OMD,Omidiyeh,VORTAC,IR
+PAD,Parsabade Moghan,NDB,IR
+PIM,Payam,VOR-DME,IR
+PRG,Persian Gulf,NDB,IR
+RAF,Rafsanjan,NDB-DME,IR
+RSR,Ramsar,NDB-DME,IR
+RST,Rasht,VOR-DME,IR
+RUS,Rudeshur,NDB,IR
+SAV,Saveh,NDB-DME,IR
+SBZ,Sabzevar,VOR-DME,IR
+SHD,Sahand,NDB-DME,IR
+SHR,Shahroud,NDB,IR
+SIR,Sirri Island,VOR-DME,IR
+SKD,Shahre Kord,VOR-DME,IR
+SNJ,Sanandaj,VOR-DME,IR
+SR,Shiraz Shahid Dastghaib,NDB,IR
+SRJ,Sirjan,VOR-DME,IR
+SRN,Saravan,NDB,IR
+SRS,Sarakhs,NDB,IR
+SYZ,Shiraz Shahid Dastghaib,TACAN,IR
+TBS,Tabas,NDB-DME,IR
+TBZ,Tabriz,VORTAC,IR
+THR,Tehran,TACAN,IR
+TRN,Tehran,VOR-DME,IR
+UMH,Uromiyeh,VOR-DME,IR
+VR,Varamin,NDB,IR
+YSJ,Yasouj,NDB-DME,IR
+YZD,Yazd Shahid Sadooghi,TACAN,IR
+YZD,Yazd Shahid Sadooghi,VOR-DME,IR
+ZAH,Zahedan,TACAN,IR
+ZAJ,Zanjan,VORTAC,IR
+ZAJ,Zanjan,NDB,IR
+ZAL,Zabol,NDB,IR
+ZDN,Zahedan,VOR-DME,IR
+AKI,Akureyri,VOR-DME,IS
+AR,Akureyri,NDB,IS
+BL,Blonduos,NDB,IS
+BR,Breidavad,NDB,IS
+DA,Dalatangi,NDB,IS
+DO,Djupivogur,NDB,IS
+EL,Ellidavatn,NDB,IS
+ES,Egilsstadir,NDB,IS
+GA,Gardur,NDB,IS
+GF,Grof,NDB,IS
+GJ,Gjogur,NDB,IS
+GR,Grimsey,NDB,IS
+HA,Hofsa,NDB,IS
+HE,Hegranes,NDB,IS
+HJ,Hjalteyri,NDB,IS
+HK,Holmavik,NDB,IS
+HL,Helgafell,NDB,IS
+HN,Hornafjordur,NDB,IS
+HV,Hvammur,NDB,IS
+ING,Ingo,VOR-DME,IS
+IOG,Ogur,DME,IS
+IS,Isafjordur,NDB,IS
+KEF,Keflavik,VORTAC,IS
+KF,Keflavik,NDB,IS
+LA,Langholt,NDB,IS
+NB,Botn,NDB,IS
+NF,Nordfjordur,NDB,IS
+OK,Oscar Kilo,NDB,IS
+PA,Patreksfjordur,NDB,IS
+RA,Raufarhofn,NDB,IS
+RE,Reykjanesskoli,NDB,IS
+RF,Rif,NDB,IS
+RH,Reykholt,NDB,IS
+RK,Reykjavik,NDB,IS
+SA,Skagi,NDB,IS
+SB,Selardalur,NDB,IS
+SE,Selfoss,NDB,IS
+SL,Svinafell,NDB,IS
+SU,Stykkisholmur,NDB,IS
+TN,Thorshofn,NDB,IS
+TO,Torfur,NDB,IS
+VA,Vad,NDB,IS
+VM,Vestmannaeyjar,NDB,IS
+ABN,Albenga,NDB,IT
+AHO,Alghero,TACAN,IT
+ALB,Albenga,VOR-DME,IT
+ALG,Alghero,VORTAC,IT
+AME,Amendola,NDB,IT
+ANC,Ancona,VOR-DME,IT
+ARB,Tortoli,NDB,IT
+AVI,Aviano,TACAN,IT
+AVI,Aviano,NDB,IT
+BAR,Bari,VOR-DME,IT
+BEG,BERGAMO,VOR-DME,IT
+BLA,Biella Cerrione,VOR-DME,IT
+BOA,Bologna,VOR-DME,IT
+BOA,Bologna,NDB,IT
+BOL,Bolsena,VORTAC,IT
+BPL,Bari,NDB,IT
+BRD,Brindisi,VORTAC,IT
+BSA,Montichiari,VOR-DME,IT
+BZO,Bolzano,NDB,IT
+CAG,Cagliari,VOR-DME,IT
+CAG,Cagliari,NDB,IT
+CAM,Cameri,TACAN,IT
+CAM,Cameri,NDB,IT
+CAR,Carbonara,VOR-DME,IT
+CAS,Caselle,TACAN,IT
+CAS,Caselle,NDB,IT
+CAT,Catania,VOR-DME,IT
+CDC,Caraffa,VORTAC,IT
+CEV,Cervia,TACAN,IT
+CEV,Cervia,NDB,IT
+CHI,Chioggia,VOR-DME,IT
+CIA,Ciampino,NDB,IT
+CMO,Camogli,NDB,IT
+CMP,Campagnano,VOR-DME,IT
+COD,Codogno,NDB,IT
+CRN,Crotone,VOR-DME,IT
+CSL,Caselle,VOR-DME,IT
+CTF,Catania Fontanarossa,VOR-DME,IT
+DEC,Decimomannu,TACAN,IT
+DEC,Decimomannu,NDB,IT
+ELB,Elba,VORTAC,IT
+FAL,Falconara,TACAN,IT
+FAL,Falconara,NDB,IT
+FE,Fiumicino,NDB,IT
+FER,Ferrara,NDB,IT
+FN,Fiumicino,NDB,IT
+FOG,Foggia,VOR,IT
+FOR,Forli,NDB,IT
+FRS,Frosinone,VOR-DME,IT
+FRZ,Firenze,VORTAC,IT
+FW,Fiumicino,NDB,IT
+GAZ,Gazoldo,NDB,IT
+GEN,Genova,VOR-DME,IT
+GHE,Ghedi,TACAN,IT
+GIO,Gioia Del Colle,TACAN,IT
+GRA,Grazzanise,TACAN,IT
+GRO,Grosseto,TACAN,IT
+GRO,Grosseto,NDB,IT
+GRT,Grottaglie,NDB,IT
+GUI,Guidonia,NDB,IT
+ISA,Istrana,TACAN,IT
+ISA,Istrana,NDB,IT
+LAT,Latina,VOR-DME,IT
+LCC,Lecce,VORTAC,IT
+LEV,Levaldigi,NDB,IT
+LIN,Linate,VOR-DME,IT
+LIN,Linate,NDB,IT
+LMT,Lamezia Terme,VOR-DME,IT
+LPD,Lampedusa,VOR-DME,IT
+MAL,Malpensa,VOR-DME,IT
+MAL,Malpensa,NDB,IT
+MNL,Amendola,TACAN,IT
+NOV,Novara,NDB,IT
+NPC,Napoli Capodochino,DME,IT
+NSY,Navy Sigonella,TACAN,IT
+ORI,Orio Al Serio,NDB,IT
+ORT,Ortanova,TACAN,IT
+OST,Ostia,VOR-DME,IT
+OZE,Bolzano,VOR-DME,IT
+PAL,Palermo,VOR-DME,IT
+PAN,Pantelleria,VOR-DME,IT
+PAR,Parma,NDB,IT
+PDV,Padova,NDB,IT
+PED,Perdasdefogu,TACAN,IT
+PES,Pescara,VOR-DME,IT
+PIA,Piacenza,TACAN,IT
+PIA,Piacenza,NDB,IT
+PIN,Pisa,TACAN,IT
+PIS,Pisa,VOR-DME,IT
+PIS,Pisa,NDB,IT
+PNZ,Ponza,VORTAC,IT
+POM,Pomigliano,VOR-DME,IT
+PRA,Pratica Di Mare,NDB,IT
+PRS,Raisi,VOR-DME,IT
+PRT,Peretola,VOR-DME,IT
+PRU,Perugia,VOR-DME,IT
+RCA,Reggio Calabria,VOR-DME,IT
+RCA,Reggio Calabria,NDB,IT
+RCH,Ronchi,VOR-DME,IT
+RIM,Rimini,VORTAC,IT
+RIM,Rimini,NDB,IT
+RIV,Rivolto,TACAN,IT
+RIV,Rivolto,NDB,IT
+RMG,Romagnano,NDB,IT
+ROM,Roma,VOR-DME,IT
+RON,Ronchi,NDB,IT
+SAZ,Sarzana,TACAN,IT
+SES,Genova Sestri,VOR-DME,IT
+SIE,Siena,VOR-DME,IT
+SIG,Sigonella,TACAN,IT
+SME,Olbia Costa Smeralda,VOR-DME,IT
+SOR,Sorrento,VOR-DME,IT
+SRN,Saronno,VOR-DME,IT
+TAQ,Tarquinia,VOR-DME,IT
+TEA,Teano,VOR-DME,IT
+TES,Tessera,VOR-DME,IT
+TOP,Torino,VOR-DME,IT
+TPR,Pratica Di Mare,TACAN,IT
+TRE,Treviso,NDB,IT
+TRP,Trapani,VORTAC,IT
+TZO,Trezzo,VOR-DME,IT
+URB,Urbe,NDB,IT
+VEN,Venezia,NDB,IT
+VIB,Viterbo,NDB,IT
+VIC,Vicenza,VOR-DME,IT
+VIE,Vieste,VOR-DME,IT
+VIL,Villafranca,VORTAC,IT
+VIL,Villafranca,NDB,IT
+VOG,Voghera,VOR-DME,IT
+JSY,Jersey,VOR-DME,JE
+KIN,Kingston,NDB,JM
+MBJ,Montego Bay,NDB,JM
+MLY,Manley,VOR-DME,JM
+SIA,Sangster,VOR-DME,JM
+AMN,Amman,VOR-DME,JO
+AQA,Aqaba,NDB,JO
+AQB,Aqaba,VOR-DME,JO
+AQC,Aqaba,NDB,JO
+JYO,Amman,NDB,JO
+JYT,Qatraneh,NDB,JO
+MDB,Queen Alia,NDB,JO
+QA,Queen Alia,NDB,JO
+QAA,Queen Alia,VOR-DME,JO
+QL,Queen Alia (Locator),NDB,JO
+QTR,Qatraneh,VOR-DME,JO
+AHT,Ashiya,TACAN,JP
+AJE,Awaji,VOR-DME,JP
+AK,Akeno,NDB,JP
+AKE,Amakusa,VOR-DME,JP
+AKT,Akeno,TACAN,JP
+ALC,Amami,VORTAC,JP
+AME,Kasari,VOR-DME,JP
+AN,Aguni,NDB,JP
+ATE,Akita,VOR-DME,JP
+AWE,Asahikawa,VOR-DME,JP
+AY,Kumagaya,NDB,JP
+BTE,Batoh,VOR-DME,JP
+CA,Kamigoto,NDB,JP
+CBE,Chubu,VOR-DME,JP
+CHE,Chitose,VOR-DME,JP
+CI,Chichijima,NDB,JP
+CU,Otsu,NDB,JP
+CUE,Otsu,VOR-DME,JP
+CVC,Choshi,VORTAC,JP
+DF,Zama,NDB,JP
+DGC,Fukuoka,VORTAC,JP
+FKE,Fukushima,VOR-DME,JP
+FMT,Hofu,TACAN,JP
+FO,Fukuoka,NDB,JP
+FQ,Fukui,NDB,JP
+FUE,Fukue,VOR-DME,JP
+GBE,Goboh,VOR-DME,JP
+GFT,Gifu,TACAN,JP
+GKE,Ishigaki,VOR-DME,JP
+GOC,Daigo,VORTAC,JP
+GTC,Niigata,VORTAC,JP
+HCE,Hachijojima,VOR-DME,JP
+HGE,Hongo,VOR-DME,JP
+HK,Kagoshima,NDB,JP
+HKC,Kagoshima,VORTAC,JP
+HKE,Hokuso,VOR-DME,JP
+HME,Haneda,VOR-DME,JP
+HPE,Hanamaki,VOR-DME,JP
+HR,Hateruma,NDB,JP
+HUT,Hyakuri,TACAN,JP
+HVT,Hachinohe,TACAN,JP
+HWE,Hakodate,VOR-DME,JP
+HYE,Yokosuka,VOR-DME,JP
+IJT,Iwo Jima,TACAN,JP
+IK,Ikishima,NDB,JP
+IKE,Iki,VOR-DME,JP
+IME,Iwami,VOR-DME,JP
+IWC,Kuga,VORTAC,JP
+IXE,Iwaki,VOR-DME,JP
+JA,Kanoya,NDB,JP
+JAT,Kanoya,TACAN,JP
+JB,Omura,NDB,JP
+JBT,Omura,TACAN,JP
+JC,Hachinohe,NDB,JP
+JD,Nikko,NDB,JP
+JDT,Utsunomiya,TACAN,JP
+JEC,Miho,VORTAC,JP
+KAD,Kadena,VORTAC,JP
+KBE,Kokubu,VOR-DME,JP
+KCC,Nagoya,VORTAC,JP
+KCE,Kobe,VOR-DME,JP
+KEC,Kushimoto,VORTAC,JP
+KGE,Kajiki,VOR-DME,JP
+KI,Kikai,NDB,JP
+KJ,Komatsujima,NDB,JP
+KJT,Komatsujima,TACAN,JP
+KMC,Komatsu,VORTAC,JP
+KN,Kansai,NDB,JP
+KNE,Kansai,VOR-DME,JP
+KPE,Kan'On,VOR-DME,JP
+KQ,Akan,NDB,JP
+KRE,Kochi,VOR-DME,JP
+KSE,Kushiro,VOR-DME,JP
+KTE,Kagawa,VOR-DME,JP
+KU,Kumamoto,NDB,JP
+KUE,Kumamoto,VOR-DME,JP
+KWE,Kohtoh,VOR-DME,JP
+KXC,Kumejima,VORTAC,JP
+KYE,Kamiyaku,VOR-DME,JP
+KZE,Kisarazu,VOR-DME,JP
+LHE,Hamamatsu,VOR-DME,JP
+LHT,Hamamatsu,TACAN,JP
+MBE,Matsumoto,VOR-DME,JP
+MDE,Minami Daito,VOR-DME,JP
+MI,Omiya,NDB,JP
+MIS,Misawa,VORTAC,JP
+MIT,Mishima,TACAN,JP
+MJE,Miyakejima,VOR-DME,JP
+MKE,Mukawa,VOR-DME,JP
+ML,Minami Torishima,NDB,JP
+MLT,Minami Torishima,TACAN,JP
+MOE,Oyama,VOR-DME,JP
+MPE,Matsuyama,VOR-DME,JP
+MQE,Miyako,VOR-DME,JP
+MRE,Aomori,VOR-DME,JP
+MVE,Monbetsu,VOR-DME,JP
+MWE,Tohoku,VOR-DME,JP
+MXT,Matsushima,TACAN,JP
+MYC,Miyako Jima,VORTAC,JP
+MZE,Miyazaki,VOR-DME,JP
+MZT,Maizuru,TACAN,JP
+NA,Naganuma,NDB,JP
+NEU,Iwakuni,TACAN,JP
+NFO,Futenma,TACAN,JP
+NG,Aichi,NDB,JP
+NHC,Naha,VORTAC,JP
+NHT,Nyutabaru,TACAN,JP
+NI,Sado,NDB,JP
+NJA,Atsugi,TACAN,JP
+NJC,Niijima,VORTAC,JP
+NKE,Nanki,VOR-DME,JP
+NRE,Narita,VOR-DME,JP
+NSE,Nakashibetsu,VOR-DME,JP
+NTE,Noto,VOR-DME,JP
+NZE,Nasu,VOR-DME,JP
+OB,Obihiro,NDB,JP
+OBE,Obihiro,VOR-DME,JP
+OC,Ozuki,NDB,JP
+OCT,Ozuki,TACAN,JP
+ODE,Odate Noshiro,VOR-DME,JP
+OH,Tokachi,NDB,JP
+OIE,Oki,VOR-DME,JP
+OJC,Onjuku,VORTAC,JP
+OK,Okinawa,NDB,JP
+OKC,Okayama,VORTAC,JP
+OLE,Nagasaki,VOR-DME,JP
+OM,Ominato,NDB,JP
+OMT,Ominato,TACAN,JP
+ONC,Erabu,VORTAC,JP
+ORE,Okushiri,VOR-DME,JP
+OSE,Mihara,VOR-DME,JP
+OW,Itami,NDB,JP
+OWE,Osaka,VOR-DME,JP
+OX,Iwo Jima,NDB,JP
+OYE,Kibi,VOR-DME,JP
+PQ,Tateyama,NDB,JP
+PQE,Tateyama,VOR-DME,JP
+RB,Eda,NDB,JP
+RBE,Rebun,VOR-DME,JP
+RK,Osaka,NDB,JP
+RME,Tarama,VOR-DME,JP
+RSE,Rishiri,VOR-DME,JP
+SDE,Sendai,VOR-DME,JP
+SGE,Saga,VOR-DME,JP
+SHT,Shimofusa,TACAN,JP
+SIE,Shigi,VOR-DME,JP
+SJE,Shimojishima,VOR-DME,JP
+SKE,Shinoda,VOR-DME,JP
+SNE,Moriya,VOR-DME,JP
+SOE,Sonai,VOR-DME,JP
+SPE,Sapporo,VOR-DME,JP
+STE,Shodo,VOR-DME,JP
+SUC,Shimizu,VORTAC,JP
+SWE,Suoh,VOR-DME,JP
+SYE,Sekiyado,VOR-DME,JP
+TAE,Oita,VOR-DME,JP
+TBE,Memanbetsu,VOR-DME,JP
+TET,Tateyama,TACAN,JP
+TFE,Musashi,VOR-DME,JP
+TGE,Nakatane,VOR-DME,JP
+THE,Tajima,VOR-DME,JP
+TIC,Chinen,VORTAC,JP
+TKE,Tokunoshima,VOR-DME,JP
+TLE,Ami,VOR-DME,JP
+TME,Tomo,VOR-DME,JP
+TN,Shin-Tachikawa,NDB,JP
+TOE,Toyama,VOR-DME,JP
+TQT,Tsuiki,TACAN,JP
+TRE,Tottori,VOR-DME,JP
+TSC,Tokushima,VORTAC,JP
+TTE,Toyota,VOR-DME,JP
+TYE,Sakura,VOR-DME,JP
+TZC,Takamatsu,VORTAC,JP
+UBE,Ube,VOR-DME,JP
+UWE,Yuwa,VOR-DME,JP
+VCE,Tsushima,VOR-DME,JP
+VCT,Shimotsushima,TACAN,JP
+WKE,Wakkanai,VOR-DME,JP
+WMT,Matsumae,TACAN,JP
+XAC,Oshima,VORTAC,JP
+XM,Kowa,NDB,JP
+XMC,Kowa,VORTAC,JP
+XR,Kastner,NDB-DME,JP
+XZE,Izumo,VOR-DME,JP
+YKE,Yakushima,VOR-DME,JP
+YLT,Iruma,TACAN,JP
+YME,Miyazu,VOR-DME,JP
+YNE,Yonaguni,VOR-DME,JP
+YOE,Yao,VOR-DME,JP
+YOK,Yokota,TACAN,JP
+YRE,Yoron,VOR-DME,JP
+YSE,Shonai,VOR-DME,JP
+YTE,Yamagata,VOR-DME,JP
+YU,Yokosuka,NDB,JP
+YVE,Yonago,VOR-DME,JP
+YZ,Yaizu,NDB,JP
+YZT,Shizuhama,TACAN,JP
+ZMO,Zao-Yamada,VOR,JP
+ZYT,Chitose,TACAN,JP
+AL,Embakasi,NDB,KE
+EA,Eastleigh,NDB,KE
+ELD,Eldoret,VOR-DME,KE
+GA,Garissa,NDB,KE
+GAR,Garissa,VOR-DME,KE
+GG,Ngong,NDB,KE
+GV,Ngong,VOR-DME,KE
+KIV,Kisumu,VOR-DME,KE
+LL,Isiolo,NDB,KE
+LOV,Lodwar,VOR-DME,KE
+LW,Lodwar,NDB,KE
+MA,Mandera,NDB,KE
+MC,Mombasa,NDB,KE
+MLD,Malindi,VOR-DME,KE
+MO,Mombasa,NDB,KE
+MOV,Mombasa,VOR-DME,KE
+MR,Marsabit,NDB,KE
+MY,Moyale,NDB,KE
+NAK,Nakuru,VOR-DME,KE
+NI,Nairobi,NDB,KE
+NK,Narok,NDB,KE
+NO,Nairobi,NDB,KE
+NU,Nakuru,NDB,KE
+NV,Nairobi,VOR-DME,KE
+NY,Nyeri,NDB,KE
+NYK,Nanyuki,NDB,KE
+RA,Manyani,NDB,KE
+SF,Seven Forks,NDB,KE
+TH,Athi River,NDB,KE
+TV,Athi River,VOR,KE
+WAV,Wajir,VOR-DME,KE
+AFM,Manas,TACAN,KG
+B,Bishkek Manas,NDB,KG
+BI,Bishkek,NDB,KG
+BK,Bishkek,NDB,KG
+BL,Balykchi,NDB,KG
+DA,Zhalal Abad,NDB,KG
+DW,Chaldovar,NDB,KG
+DZ,Osh,NDB,KG
+IR,Irisu,NDB,KG
+KA,Karakol,NDB,KG
+KL,Kalinovka,NDB,KG
+KZ,Kyzyl Kiya,NDB,KG
+M,Bishkek Manas,NDB,KG
+MN,Bishkek,NDB,KG
+MNS,Bishkek,VOR-DME,KG
+NS,Naryn-Ges,NDB,KG
+OU,Osh,NDB,KG
+PD,Kant,NDB,KG
+BB,Battambang,NDB,KH
+KCW,Kampong Chhnang,NDB,KH
+KK,Koh Kong,NDB,KH
+MD,Mondulkiri,NDB,KH
+PNH,Phnom Penh,VOR-DME,KH
+PNP,Phnom Penh,NDB,KH
+RT,Ratanakiri,NDB,KH
+SRE,Siem Reap,VOR-DME,KH
+ST,Stung Treng,NDB,KH
+AA,Abemama,NDB,KI
+BO,Bonriki,NDB,KI
+TW,Tarawa,DME,KI
+XI,Christmas Island,NDB,KI
+AJ,Ouani,NDB,KM
+FXM,Iconi,NDB,KM
+HA,Prince Said Abrahim,NDB,KM
+HAI,Prince Said Ibrahim,VOR-DME,KM
+SKB,Bradshaw,NDB-DME,KN
+CR,Uiju,NDB,KP
+GG,Bucha,NDB,KP
+GK,Pyongyang,VOR-DME,KP
+KP,Anju,NDB,KP
+WK,Pyongyang,NDB,KP
+CHJ,Cheongju,TACAN,KR
+CHO,Cheongju,VOR-DME,KR
+CJU,Jeju,VORTAC,KR
+CUN,Yecheon,VOR-DME,KR
+CW,Seongmu,NDB,KR
+DOC,Donchon,VOR-DME,KR
+HGS,Wonju,VOR-DME,KR
+ICN,Icheon,VOR,KR
+JDG,Jedong,VOR-DME,KR
+JWN,Jungwon,TACAN,KR
+KAE,Gangwon,VORTAC,KR
+KAN,Gangneung,TACAN,KR
+KHE,Gimhae,TACAN,KR
+KIP,Gimpo,VOR-DME,KR
+KMH,Gimhae,VOR-DME,KR
+KOG,Gangneung,VOR-DME,KR
+KPO,Pohang,VORTAC,KR
+KSM,Seoul,VOR-DME,KR
+KUZ,Kunsan,VORTAC,KR
+KWA,Gwangju,VOR-DME,KR
+KWJ,Gwangju,TACAN,KR
+MKP,Mokpo,VOR-DME,KR
+NCN,Incheon,VOR-DME,KR
+NPH,Pohang (Navy),VORTAC,KR
+NSN,Nonsan,VOR-DME,KR
+NUE,Jinhae,TACAN,KR
+OSN,Osan,VORTAC,KR
+PSN,Busan,VORTAC,KR
+PTK,Pyeongtaek,VOR-DME,KR
+RE,Pyeongtaek,NDB,KR
+SAC,Sacheon,VOR-DME,KR
+SAN,Seosan,TACAN,KR
+SCH,Sokcho,VOR-DME,KR
+SCN,Sacheon,TACAN,KR
+SEL,Anyang,VORTAC,KR
+SK,Sokcho,NDB,KR
+SOL,Seoul,TACAN,KR
+SWN,Suwon,TACAN,KR
+TAG,Daegu,TACAN,KR
+TGU,Dalsung,VORTAC,KR
+USN,Ulsan,VOR-DME,KR
+UT,Pohang,NDB,KR
+WJ,Wonju,NDB,KR
+WNJ,Wonju,TACAN,KR
+YAG,Yangyang,VOR-DME,KR
+YCN,Yecheon,TACAN,KR
+YDM,Yongdam,VOR-DME,KR
+YJU,Yangju,VOR-DME,KR
+YSU,Yeosu,VOR-DME,KR
+ASB,Ali Al Salem,VORTAC,KW
+KFR,Wafra,VOR-DME,KW
+KUA,Kuwait,VOR-DME,KW
+UDI,Udairi,NDB,KW
+CBC,Cayman Brac,NDB,KY
+GCM,Grand Cayman,VOR-DME,KY
+ZIY,Grand Cayman,NDB,KY
+A,Almaty,NDB,KZ
+AB,Atbasar,NDB,KZ
+AGZ,Ayaguz,VOR,KZ
+AI,Akchi,NDB,KZ
+AK,Astana,NDB,KZ
+AKB,Aktyubinsk,VOR-DME,KZ
+AKT,Aktau,VOR-DME,KZ
+ALM,Almaty,VOR-DME,KZ
+AR,Arkalyk,NDB,KZ
+AST,Astana,VOR-DME,KZ
+AT,Aktyubinsk Lom,NDB,KZ
+ATR,Atyrau,VOR-DME,KZ
+AU,Aktau,NDB,KZ
+BA,Balkhash,NDB,KZ
+BLH,Balkhash,VOR-DME,KZ
+DZG,Zhezkazgan,VOR-DME,KZ
+E,Shymkent,NDB,KZ
+EL,Shalkar,NDB,KZ
+EN,Shymkent,NDB,KZ
+EY,Kaukey,NDB,KZ
+GN,Zhezkazgan,NDB,KZ
+I,Shymkent,NDB,KZ
+IM,Shymkent,NDB,KZ
+IN,Inderborsky,NDB,KZ
+K,Karaganda,NDB,KZ
+KA,Karaganda,NDB,KZ
+KD,Kurdaysky,NDB,KZ
+KI,Kirbaltabay,NDB,KZ
+KR,Taldykorgan,NDB,KZ
+KRG,Karaganda,VOR-DME,KZ
+KT,Kostanay,NDB,KZ
+KW,Kokshetau,NDB,KZ
+KZO,Kyzylorda,VOR-DME,KZ
+L,Almaty,NDB,KZ
+LM,Almaty,NDB,KZ
+MB,Taraz,NDB,KZ
+MK,Khodzhatugay,NDB,KZ
+MO,Astana,NDB,KZ
+NA,Kostanay,NDB,KZ
+NKZ,Novokazalinsk,VOR-DME,KZ
+NT,Tole Bi,NDB,KZ
+OL,Akkol,NDB,KZ
+OR,Kyzylorda,NDB,KZ
+OT,Kokshetau,NDB,KZ
+PT,Petropavlovsk,NDB,KZ
+PW,Pavlodar,NDB,KZ
+QK,Kaukey,VOR,KZ
+R,Karaganda,NDB,KZ
+RC,Makhtaly,NDB,KZ
+RG,Karaganda,NDB,KZ
+RP,Petropavlovsk,NDB,KZ
+S,Ust Kamenogorsk,NDB,KZ
+S,Semipalatinsk,NDB,KZ
+S,Uralsk,NDB,KZ
+SI,Ust Kamenogorsk,NDB,KZ
+SK,Uralsk,NDB,KZ
+SMK,Shymkent,VOR-DME,KZ
+SP,Semipalatinsk,NDB,KZ
+T,Atyrau,NDB,KZ
+TK,Taldykorgan,NDB,KZ
+TR,Turgay,NDB,KZ
+TS,Turkestan,NDB,KZ
+TU,Aktyubinsk Lom,NDB,KZ
+TY,Atyrau,NDB,KZ
+U,Ust Kamenogorsk,NDB,KZ
+U,Uralsk,NDB,KZ
+UC,Uzunagach,NDB,KZ
+UN,Arkalyk,NDB,KZ
+UR,Uralsk,NDB,KZ
+URL,Uralsk,VOR-DME,KZ
+US,Ust Kamenogorsk,NDB,KZ
+VQ,Komintern,NDB,KZ
+WL,Pavlodar,NDB,KZ
+Y,Atyrau,NDB,KZ
+YL,Taraz,NDB,KZ
+YR,Atyrau,NDB,KZ
+YZ,Ekibastuz,NDB,KZ
+ZK,Zhezkazgan,NDB,KZ
+ZU,Ayaguz,NDB,KZ
+BK,Luang Phabang,NDB,LA
+LPB,Luang Phabang,VOR-DME,LA
+PAK,Pakse,VOR-DME,LA
+PS,Pakse,NDB,LA
+SAV,Savannakhet,VOR-DME,LA
+THX,Xieng Khouang,VOR-DME,LA
+VE,Vientiane,NDB,LA
+VTG,Thangone,NDB,LA
+VTN,Vientiane,VOR-DME,LA
+WY,Wattay,NDB,LA
+BAB,Beirut,NDB,LB
+BOD,Beirut,NDB,LB
+CAK,Chekka,VOR-DME,LB
+KAD,Khaldeh,VOR-DME,LB
+RA,Rene Mouawad,NDB,LB
+BNE,Hewanorra,VOR-DME,LC
+SLU,Vigie,NDB,LC
+AN,Anuradhapura,NDB,LK
+BAT,Batticaloa,NDB,LK
+CHB,China Bay,NDB,LK
+CNL,Bandaranaike,NDB,LK
+KAT,Bandaranaike,VOR-DME,LK
+KG,Koggala,NDB,LK
+KK,Kankesanturai,NDB,LK
+MIN,Minneriya,NDB,LK
+RM,Colombo/Ratmalana,NDB,LK
+VNA,Vavuniya,NDB,LK
+FR,Monrovia Roberts,NDB,LR
+MO,Monrovia Roberts,NDB,LR
+ROB,Monrovia Roberts,VOR-DME,LR
+SM,Monrovia Spriggs Payne,NDB,LR
+ME,Berea,NDB,LS
+MU,Mejametalana,NDB,LS
+MZV,Mazenod,VOR-DME,LS
+KLA,Klaipeda,VOR-DME,LT
+KNA,Kaunas,VOR-DME,LT
+KUS,Kaunas,NDB,LT
+PA,Pajuostis,NDB,LT
+PN,Palanga,NDB,LT
+SAU,Siauliai,VOR-DME,LT
+SKD,Skaudvile,NDB,LT
+SQQ,Siauliai,TACAN,LT
+VNO,Vilnius,VOR-DME,LT
+DIK,Diekirch,VOR-DME,LU
+ELU,Luxembourg,NDB,LU
+LUX,Luxembourg,VOR-DME,LU
+WLU,Luxembourg,NDB,LU
+DGP,Daugavpils,VOR-DME,LV
+LBN,Trakshi,VOR-DME,LV
+LIE,Liepaja,VOR-DME,LV
+RIA,Riga,VOR-DME,LV
+VNT,Ventspils,VOR-DME,LV
+ABU,Abu Argub,VOR-DME,LY
+BNA,Benina,VOR-DME,LY
+DHR,Dahra,VOR-DME,LY
+GAD,Ghadames,VOR-DME,LY
+GAL,Giallo,NDB,LY
+GDS,Ghadames,NDB,LY
+GHT,Ghat,VOR-DME,LY
+GRT,Gheriat,NDB,LY
+GS,Sarir,NDB,LY
+GW,Al Hamada,NDB,LY
+HON,Hon,NDB,LY
+IZD,Mizda,NDB,LY
+KDR,Kadra,NDB,LY
+KFR,Kufra,VOR-DME,LY
+KFR,Kufra,NDB,LY
+LAB,Labraq,NDB,LY
+LOR,Dahra,NDB,LY
+MB,Marsa Brega,NDB,LY
+MIS,Misurata,VOR-DME,LY
+MTG,Mitiga,VOR,LY
+OA,Samah,NDB,LY
+OB,Giallo,NDB,LY
+OJ,Essider,NDB,LY
+OR,Warehouse 59a,NDB,LY
+OV,Nafoora M4,NDB,LY
+OXY,Alpha 103,NDB,LY
+PRB,Sabah 74,NDB,LY
+PRC,Zella 74,NDB,LY
+SEB,Sebha,VOR-DME,LY
+SEB,Sebha,NDB,LY
+SRT,Sirte,VOR-DME,LY
+SRT,Sirte,NDB,LY
+STF,Twenty Nine Charlie,NDB,LY
+TPI,Tripoli,VOR-DME,LY
+TRO,Joday,NDB,LY
+TZR,Tazerbo,NDB,LY
+UBR,Ubari,NDB,LY
+VA,Amal V12,NDB,LY
+VH,Hofra V10,NDB,LY
+VO,Ora V9,NDB,LY
+VR,Ras Lanuf V40,NDB,LY
+WLD,Beni Walid,VOR-DME,LY
+WLD,Beni Walid,NDB,LY
+XS,Beda No 1,NDB,LY
+XY,Booster,NDB,LY
+ZAR,Zwara,NDB,LY
+ZAW,Zawia,VOR-DME,LY
+ZT,Agip C97,NDB,LY
+ZUE,Zuetina,NDB,LY
+ADM,Agadir,VOR-DME,MA
+ALM,Al Hoceima,VOR-DME,MA
+ALS,Agadir,NDB,MA
+AML,Agadir,NDB,MA
+ARI,Nador Arwi,VOR-DME,MA
+ARW,El Aroui,NDB,MA
+AZR,Inezgane,NDB,MA
+BNS,Ben Slimane,VOR-DME,MA
+BRC,Casablanca,VOR-DME,MA
+CAE,Ben Slimane,NDB,MA
+CBA,Casablanca,VOR-DME,MA
+CNL,Kenitra,NDB,MA
+CNU,Oujda,NDB,MA
+CNZ,Marrakech,NDB,MA
+CSD,Daouarat,NDB,MA
+ERA,Errachidia,VOR-DME,MA
+ESS,Essaouira,VOR-DME,MA
+FES,Saiss,VOR-DME,MA
+GLM,Goulimine,VOR,MA
+IFR,Ifrane,NDB,MA
+KSR,Errachidia,NDB,MA
+MAK,Marrakech,VOR-DME,MA
+MKS,Meknes,VOR,MA
+OJD,Oujda,VOR-DME,MA
+OZT,Ouarzazate,VOR-DME,MA
+RBT,Rabat,VOR-DME,MA
+SBI,Rabat,NDB,MA
+SFI,Safi,NDB,MA
+SMN,Sidi Slimane,VOR-DME,MA
+TAN,Tan Tan,VOR,MA
+TNG,Tanger,VOR-DME,MA
+TTN,Tetouan,VOR-DME,MA
+TUN,Saniat Rmel,NDB,MA
+B,Balti,NDB,MD
+BL,Balti,NDB,MD
+CHN,Chisinau,VOR-DME,MD
+L,Balti,NDB,MD
+LC,Balti,NDB,MD
+AH,Antalaha,NDB,MG
+AT,Antsohihy,NDB,MG
+DO,Arrachart,NDB,MG
+IA,Antananarivo Ivato,NDB,MG
+IO,Antananarivo Ivato,NDB,MG
+MG,Philibert Tsiranana,VOR-DME,MG
+MJ,Mananjary,NDB,MG
+MMY,Maromamy,NDB,MG
+MT,Toamasina,VOR,MG
+MV,Toamasina,NDB,MG
+NSB,Fascene,VOR-DME,MG
+NT,Antananarivo Ivato,NDB,MG
+SA,Sambava,NDB,MG
+SM,Sainte Marie,NDB,MG
+TAN,Antanetibe,NDB,MG
+TE,Moramanga,NDB,MG
+TN,Ankazobe,NDB,MG
+TNV,Ivato,VOR-DME,MG
+TO,Toamasina,NDB,MG
+TW,Soavinandriana,NDB,MG
+VSF,Fianarantsoa,NDB,MG
+VSJ,Mahajanga,NDB,MG
+VSL,Maroantsetra,NDB,MG
+VSM,Toamasina,NDB,MG
+VSO,Morondava,NDB,MG
+VSP,Tolagnaro,NDB,MG
+VSQ,Toliara,NDB,MG
+VSR,Manakara,NDB,MG
+MAJ,Majuro,NDB-DME,MH
+NDJ,Bucholz,TACAN,MH
+ROI,Roi Namur,TACAN,MH
+BU,Skopje,NDB,MK
+IZD,Ohrid,NDB,MK
+OHR,Ohrid,VOR-DME,MK
+PEP,Prilep,NDB-DME,MK
+PT,Skopje,NDB,MK
+SIN,Sinko,VOR-DME,MK
+SKJ,Skopje,VOR-DME,MK
+BKO,Bamako/Senou,VOR-DME,ML
+BM,Bamako/Senou,NDB,ML
+GAO,Gao,VOR,ML
+GM,Goundam,NDB,ML
+KAY,Kayes,VOR-DME,ML
+MNT,Manantali,NDB,ML
+MO,Mopti/Ambodedjo,NDB,ML
+MTI,Mopti/Ambodedjo,VOR,ML
+NO,Nioro,NDB,ML
+SKO,Sikasso,VOR-DME,ML
+TBT,Tombouctou,VOR-DME,ML
+TZE,Tessalit,NDB,ML
+TZI,Gao,NDB,ML
+TZJ,Kayes,NDB,ML
+AN,Ann,NDB,MM
+BGN,Bagan,NDB,MM
+BGO,Bago,VOR-DME,MM
+BM,Banmaw,NDB,MM
+DWI,Dawei,VOR-DME,MM
+EL,El,NDB,MM
+HGU,Hlegu,VOR-DME,MM
+HHO,Heho,NDB,MM
+HL,Hommalinn,NDB,MM
+KG,Kengtung,NDB,MM
+KI,Kanti,NDB,MM
+KL,Kalay,NDB,MM
+KP,Kyaukpyu,NDB,MM
+KT,Kawthoung,NDB,MM
+LK,Loikaw,NDB,MM
+LSO,Lashio,VOR-DME,MM
+MDS,Mingaladon,NDB,MM
+MDY,Mandalay,VOR-DME,MM
+ME,Myeik,NDB,MM
+MIA,Mandalay,VOR-DME,MM
+MK,Myitkyina,NDB,MM
+MKA,Myitkyina West,NDB,MM
+MKT,Meiktila,NDB,MM
+MM,Mawlamyine,NDB,MM
+MS,Mong Hsat,NDB,MM
+MW,Magway,NDB,MM
+NS,Namsang,NDB,MM
+PA,Hpa An,NDB,MM
+PP,Hpapun,NDB,MM
+PT,Putao,NDB,MM
+PTN,Pathein,VOR-DME,MM
+SW,Sittwe,NDB,MM
+TD,Thandwe,NDB,MM
+TGO,Taungoo,VOR-DME,MM
+TL,Tachileik,NDB,MM
+YGN,Yangon,NDB,MM
+B,Khovd,NDB,MN
+B,Ulaangom,NDB,MN
+B,Underkhaan,NDB,MN
+B,Arvaikheer,NDB,MN
+B,Altai,NDB,MN
+BH,Bayankhongor,NDB,MN
+BS,Bulgan Sum,NDB,MN
+BU,Bulgan,NDB,MN
+DN,Sainshand,NDB,MN
+GA,Altai,NDB,MN
+HU,Khujirt,NDB,MN
+JA,Khovd,NDB,MN
+MG,Mandalgobi,NDB,MN
+MU,Muren,NDB,MN
+OG,Arvaikheer,NDB,MN
+SB,Baruun-Urt,NDB,MN
+TC,Tosontsengel,NDB,MN
+TD,Tudevtai,NDB,MN
+UDA,Ulaanbaatar,VOR-DME,MN
+UG,Dalanzadgad,NDB,MN
+UN,Underkhaan,NDB,MN
+US,Ulaangom,NDB,MN
+MCU,Macau,VOR-DME,MO
+ZAO,Jiuzhou,VOR,MO
+GRO,Rota,NDB,MP
+SN,Saipan,NDB,MP
+FOF,Fort De France,VOR-DME,MQ
+AA,Aioun El Atrouss,NDB,MR
+AR,Atar,NDB,MR
+FR,Bir Moghrein,NDB,MR
+KAE,Kaedi,NDB,MR
+KC,Nouakchott,VOR-DME,MR
+KF,Kiffa,NDB,MR
+NA,Nema,NDB,MR
+NH,Nouakchott,NDB,MR
+NM,Nema,VOR,MR
+PE,Nouadhibou,VOR-DME,MR
+TKA,Tidjikja,NDB,MR
+ZRT,Zouerat,VOR,MR
+MON,Geralds,NDB,MS
+GZO,Gozo,VOR-DME,MT
+LM,Malta,DME,MT
+LQ,Luqa,DME,MT
+LQA,Luqa,NDB,MT
+MLT,Malta,NDB,MT
+AGG,Agalega,NDB,MU
+FF,Flic -eE --lFc,NDB,MU
+GBY,Grand Bay,VOR-DME,MU
+MS,Plaisance,NDB,MU
+PLS,Plaisance,VOR-DME,MU
+RS,Rodrigues,NDB,MU
+GAN,Gan Island,VOR-DME,MV
+HA,Hanimaadhoo,NDB,MV
+KA,Kaadedhdhoo,NDB,MV
+KD,Kadhdhoo,NDB,MV
+MLE,Male,VOR-DME,MV
+DVL,Lilongwe,VOR-DME,MW
+KG,Lilongwe,NDB,MW
+LH,Lilongwe,NDB,MW
+NC,Chileka,NDB,MW
+UU,Mzuzu,NDB,MW
+VCL,Chileka,VOR-DME,MW
+VKA,Karonga,VOR-DME,MW
+VMZ,Mzuzu,VOR-DME,MW
+ACA,Acapulco,VOR-DME,MX
+ADN,Roberto,VOR-DME,MX
+AGU,Aguascalientes,VOR-DME,MX
+APN,Apan,VOR-DME,MX
+BJX,Leon,VOR-DME,MX
+CDR,Concepcion,VOR-DME,MX
+CEN,Obregon,VOR-DME,MX
+CHX,Choix,NDB,MX
+CJS,Juarez,VOR-DME,MX
+CME,Carmen,VOR-DME,MX
+CMT,Comitan,VOR-DME,MX
+COL,Colima,VOR-DME,MX
+CPE,Campeche,VOR-DME,MX
+CTM,Chetumal,VOR-DME,MX
+CUA,Cuautla,VOR-DME,MX
+CUL,Culiacan,VOR-DME,MX
+CUN,Cancun,VOR-DME,MX
+CUU,Chihuahua,VOR-DME,MX
+CUW,Chihuahua,NDB,MX
+CVJ,Cuernavaca,VOR-DME,MX
+CVM,Victoria,VOR-DME,MX
+CZA,Kaua,VOR-DME,MX
+CZM,Cozumel,VOR-DME,MX
+DEL,Delicias,VOR-DME,MX
+DGO,Durango,VOR-DME,MX
+ENS,Ensenada,NDB,MX
+GD,Guadalajara,NDB,MX
+GDL,Guadalajara,VOR-DME,MX
+GRN,Negro,NDB,MX
+GYM,Guaymas,NDB,MX
+HMO,Hermosillo,VOR-DME,MX
+HUX,Huatulco,VOR-DME,MX
+IZT,Ixtepec,VOR-DME,MX
+LAP,La Paz,VOR-DME,MX
+LMM,Mochis,VOR-DME,MX
+LTO,Loreto,VOR-DME,MX
+MAM,Matamoros,VOR-DME,MX
+MEX,Mexico,VOR-DME,MX
+MID,Merida,VOR-DME,MX
+MLM,Morelia,VOR-DME,MX
+MOV,Monclova,VOR-DME,MX
+MPG,Progreso,NDB,MX
+MTT,Minatitlan,VOR-DME,MX
+MTY,Monterrey,VOR-DME,MX
+MW,Plaza,NDB,MX
+MXL,Mexicali,VOR-DME,MX
+MZT,Mazatlan,VOR-DME,MX
+NAU,Nautla,VOR-DME,MX
+NLD,Nuevo Laredo,VOR-DME,MX
+OAX,Oaxaca,VOR-DME,MX
+OTU,Otumba,VOR-DME,MX
+PA1,Akal C,NDB,MX
+PA2,Akal J,NDB,MX
+PAZ,Poza Rica,VOR-DME,MX
+PB1,Bocas,NDB,MX
+PBC,Puebla,VOR-DME,MX
+PCA,Pachuca,VOR-DME,MX
+PI1,Ixtoc,NDB,MX
+PK1,Ku 22,NDB,MX
+PK2,Ku 407,NDB,MX
+PK3,Ku 482,NDB,MX
+PM1,Abkatum 1a,NDB,MX
+PM2,Abkatum 5,NDB,MX
+PN1,Nohoch A,NDB,MX
+PNG,Piedras,VOR-DME,MX
+PO1,Neptuno,NDB,MX
+PPE,Penasco,VOR-DME,MX
+PTJ,Pasteje,VOR-DME,MX
+PVR,Vallarta,VOR-DME,MX
+PXM,Escondido,VOR-DME,MX
+QET,Queretaro,VOR-DME,MX
+REX,Reynosa,VOR-DME,MX
+SJD,Cabos,VOR-DME,MX
+SLM,Lucia,VOR-DME,MX
+SLP,Potosi,VOR-DME,MX
+SLW,Saltillo,VOR-DME,MX
+SMO,Mateo,VOR-DME,MX
+SQN,Quintin,VOR-DME,MX
+SRL,Rosalia,VOR-DME,MX
+SZT,Cristobal,VOR-DME,MX
+TAM,Tampico,VOR-DME,MX
+TAP,Tapachula,VOR-DME,MX
+TEQ,Tequesquitengo,VOR-DME,MX
+TGM,Teran,VOR-DME,MX
+TGZ,Tuxtla,VOR-DME,MX
+TIJ,Tijuana,VOR-DME,MX
+TLC,Toluca,VOR-DME,MX
+TMN,Tamuin,VOR-DME,MX
+TNY,Tepic,VOR-DME,MX
+TPX,Tepexpan,NDB,MX
+TRC,Torreon,VOR-DME,MX
+TTM,Noria,VOR-DME,MX
+UPN,Uruapan,VOR-DME,MX
+VER,Veracruz,VOR-DME,MX
+VSA,Villahermosa,VOR-DME,MX
+ZAP,Zapopan,VOR-DME,MX
+ZCL,Zacatecas,VOR-DME,MX
+ZIH,Zihuatanejo,VOR-DME,MX
+ZLO,Manzanillo,VOR-DME,MX
+AM,Malacca,NDB,MY
+AN,Kuching,NDB,MY
+AT,Alor Star,NDB,MY
+BP,Batu Pahat,NDB,MY
+BTR,Butterworth,TACAN,MY
+BTU,Bintulu,NDB,MY
+CE,Caledonian,NDB,MY
+JB,Jaybee,NDB,MY
+JR,Johor Bahru,NDB,MY
+JSL,Kota Kinabalu,NDB,MY
+KB,Kota Bharu,NDB,MY
+KK,Kong Kong,NDB,MY
+KL,Kayell,NDB,MY
+LHD,Lahad Datu,NDB,MY
+LK,Langkawi,NDB,MY
+MC,Malacca,NDB,MY
+MDI,Marudi,NDB,MY
+MYY,Miri,NDB,MY
+NM,Kuala Lumpur,NDB,MY
+PK,Pekan,NDB,MY
+PNG,Penang,NDB,MY
+PR,Parit Buntar,NDB,MY
+SM,Kuala Lumpur,NDB,MY
+SN,Sandakan,NDB,MY
+TA,Telok Intan,NDB,MY
+TMS,Tanjung Manis,NDB,MY
+TU,Kuala Terengganu,NDB,MY
+TWU,Tawau,NDB,MY
+VAS,Alor Star,VOR-DME,MY
+VBA,Batu Arang,VOR-DME,MY
+VBT,Butterworth,VORTAC,MY
+VBU,Bintulu,VOR-DME,MY
+VGK,Gong Kedak,VORTAC,MY
+VIH,Ipoh,VOR-DME,MY
+VJN,Kota Kinabalu,VOR-DME,MY
+VJR,Johor Bahru,VOR-DME,MY
+VKB,Kota Bharu,VOR-DME,MY
+VKE,Kerteh,VOR-DME,MY
+VKG,Kuching,VOR-DME,MY
+VKL,Kuala Lumpur,VOR-DME,MY
+VKN,Kuantan,VORTAC,MY
+VKT,Kuala Terengganu,VOR-DME,MY
+VLB,Labuan,VOR-DME,MY
+VLG,Limbang,VOR-DME,MY
+VMI,Miri,VOR-DME,MY
+VMK,Malacca,VOR-DME,MY
+VMR,Mersing,VOR-DME,MY
+VPG,Penang,VOR-DME,MY
+VPL,Langkawi,VOR-DME,MY
+VPS,Ipoh,VOR,MY
+VPT,Pulau Tioman,VOR-DME,MY
+VSI,Sibu,VOR-DME,MY
+VSN,Sandakan,VOR-DME,MY
+VTW,Tawau,VOR-DME,MY
+VZU,Mulu,VOR-DME,MY
+CH,Chimoio,NDB,MZ
+DO,Dondo,NDB,MZ
+IN,Inhambane,NDB,MZ
+LP,Limpopo,NDB,MZ
+PB,Pemba,NDB,MZ
+SO,Songo,NDB,MZ
+TZ,Tete Chingodzi,NDB,MZ
+UG,Ulongwe,NDB,MZ
+VBR,Beira,VOR-DME,MZ
+VL,Vilankulo,NDB,MZ
+VLC,Lichinga,VOR-DME,MZ
+VMA,Maputo,VOR-DME,MZ
+VNP,Nampula,VOR-DME,MZ
+VQL,Quelimane,VOR-DME,MZ
+VTZ,Tete Chingodzi,VOR,MZ
+AD,Arandis,NDB,NA
+GFV,Grootfontein,VOR-DME,NA
+KL,Katima Mulilo,NDB,NA
+KTV,Keetmanshoop,VOR-DME,NA
+OA,Ondangwa,NDB,NA
+OP,Opuwa,NDB,NA
+OW,Otjiwarongo,NDB,NA
+RC,Ruacana,NDB,NA
+TM,Tsumeb,NDB,NA
+WBV,Walvis Bay,VOR-DME,NA
+WHV,Windhoek,VOR-DME,NA
+AV,La Tontouta,NDB,NC
+BL,Ile Art,NDB,NC
+FND,La Tontouta,NDB,NC
+IP,Ile Des Pins,NDB,NC
+KO,Koumac,NDB,NC
+KQ,Kone,NDB,NC
+LFU,Lifou,VOR-DME,NC
+LTO,La Tontouta,VOR-DME,NC
+MD,Magenta,NDB,NC
+MG,Magenta,NDB,NC
+MGA,Ouere,VOR-DME,NC
+MR,Mare,NDB,NC
+NW,La Tontouta,NDB,NC
+OA,Ouvea,NDB,NC
+TH,Touho,NDB,NC
+ARL,Arlit,NDB,NE
+AS,Agades,VOR,NE
+AS,Agades,NDB,NE
+DIR,Dirkou,VOR,NE
+IN,Zinder,NDB,NE
+MY,Maradi,NDB,NE
+NY,Niamey,VOR-DME,NE
+NY,Niamey,NDB,NE
+TA,Tahoua,NDB,NE
+ZR,Zinder,VOR,NE
+NF,Norfolk Island,VOR-DME,NF
+ABC,Abuja,VOR-DME,NG
+AG,Abuja,NDB,NG
+AK,Akure,NDB,NG
+AO,Kano,NDB,NG
+BC,Benin,NDB,NG
+BDA,Bida,VOR-DME,NG
+BE,Benin,NDB,NG
+BEN,Benin,VOR-DME,NG
+CAL,Calabar,VOR-DME,NG
+CR,Calabar,NDB,NG
+ENG,Enugu,VOR-DME,NG
+GB,Gboko,VOR-DME,NG
+GW,Gwasero,VOR-DME,NG
+IB,Ibadan,NDB,NG
+IBA,Ibadan,VOR-DME,NG
+IL,Ilorin,VOR-DME,NG
+IL,Ilorin,NDB,NG
+IN,Ibadan,NDB,NG
+JB,Jos,NDB,NG
+JOS,Jos,VOR-DME,NG
+KAN,Kano,VOR-DME,NG
+KC,Kaduna,NDB,NG
+KDA,Kaduna,VOR,NG
+KO,Kano,NDB,NG
+KT,Katsina,NDB,NG
+KU,Kaduna,VOR-DME,NG
+LA,Lagos,NDB,NG
+LAG,Lagos,VOR-DME,NG
+LOS,Lagos,VOR-DME,NG
+MA,Maiduguri,NDB,NG
+MIU,Maiduguri,VOR-DME,NG
+MK,Makurdi,NDB,NG
+MNA,Minna,VOR-DME,NG
+OK,Okitipupa,NDB,NG
+OW,Owerri,NDB,NG
+PH,Port Harcourt,NDB,NG
+PO,Potiskum,VOR-DME,NG
+POT,Port Harcourt,VOR-DME,NG
+SOK,Sokoto,VOR-DME,NG
+YOL,Yola,VOR-DME,NG
+BLU,Bluefields,VOR-DME,NI
+MGA,Managua,VOR-DME,NI
+PZA,Puerto Cabezas,VOR-DME,NI
+YNP,Managua,NDB,NI
+AMS,Amsterdam,VOR-DME,NL
+CH,Schiphol,NDB,NL
+DLN,Deelen,TACAN,NL
+EEL,Eelde,VOR-DME,NL
+EHN,Eindhoven,NDB,NL
+EHV,Eindhoven,TACAN,NL
+FRT,Haastrecht,DME,NL
+FRT,Lelystad,DME,NL
+GUL,Gull,NDB,NL
+GZR,Gilze Rijen,TACAN,NL
+HDR,Den Helder,VOR-DME,NL
+HSD,Haamstede,VOR,NL
+LWD,Leeuwarden,TACAN,NL
+MAS,Maastricht,VOR-DME,NL
+NV,Schiphol Locator,NDB,NL
+NW,Maastricht,NDB,NL
+PAM,Pampus,VOR-DME,NL
+PH,Eindhoven,NDB,NL
+PS,Rotterdam Locator,NDB,NL
+RKN,Rekken,VOR-DME,NL
+ROT,Rotterdam,NDB,NL
+RR,Rotterdam Locator,NDB,NL
+RTM,Rotterdam,VOR-DME,NL
+SO,Eelde,NDB,NL
+SPL,Schiphol,VOR-DME,NL
+SPY,Spijkerboor,VOR-DME,NL
+SSB,Soesterberg,TACAN,NL
+STD,Stad,NDB,NL
+STK,Stadskanaal,NDB,NL
+THN,Thorn,NDB,NL
+TWN,Twenthe,TACAN,NL
+TWN,Twenthe,NDB,NL
+VBG,Valkenburg,TACAN,NL
+VKL,Volkel,TACAN,NL
+WDT,Woensdrecht,TACAN,NL
+ZL,Maastricht Locator Zl,NDB,NL
+AD,Anda,NDB,NO
+AL,Lepsoy,NDB,NO
+ALA,Alta,NDB,NO
+AND,Andoya,VOR-DME,NO
+ASK,Askoy,NDB,NO
+ATA,Alta,VOR-DME,NO
+BAR,Bardufoss,TACAN,NO
+BBU,Brandbu,VOR-DME,NO
+BDF,Bardufoss,VOR-DME,NO
+BDO,Bodo,VOR-DME,NO
+BGU,Bergerud,NDB,NO
+BJO,Bjornoya,NDB,NO
+BL,Bringeland,NDB,NO
+BN,Birkeland,NDB,NO
+BNA,Banak,VOR-DME,NO
+BNK,Banak,TACAN,NO
+BNN,Bronnoy,VOR-DME,NO
+BNR,Banak,NDB,NO
+BOO,Bodo,TACAN,NO
+BRS,Bremsnes,NDB,NO
+BTA,Bratta,NDB,NO
+BV,Berlevag,NDB,NO
+BVK,Baatvik,NDB,NO
+BX,Batsfjord,NDB,NO
+DA,Dalen,NDB,NO
+DRA,Drammen,VOR-DME,NO
+EVD,Evenes,VOR-DME,NO
+EVS,Evenes,TACAN,NO
+FJ,Fjortoft,NDB,NO
+FLE,Flesland,TACAN,NO
+FLO,Floro,VOR-DME,NO
+FLR,Flornes,NDB,NO
+FLS,Flesland,VOR-DME,NO
+FLV,Fleinvaer,NDB,NO
+FN,Finndal,NDB,NO
+FOR,Forsol,NDB,NO
+FS,Fjellstad,NDB,NO
+FSK,Fauske,NDB,NO
+FT,Fleten,NDB,NO
+GFC,Gullfaks,NDB-DME,NO
+GRK,Grakallen,NDB,NO
+GRM,Gardermoen,VOR-DME,NO
+HAA,Hamar,NDB,NO
+HD,Hestad,NDB,NO
+HE,Heddal,NDB,NO
+HEI,Heidrun,NDB-DME,NO
+HG,Hegra,NDB,NO
+HK,Hasvik,NDB,NO
+HL,Helle,NDB,NO
+HLN,Helnes,NDB,NO
+HMF,Hammerfest,VOR-DME,NO
+HN,Hovden,NDB,NO
+HNS,Hoynes,NDB,NO
+HTK,Hestvik,NDB,NO
+HUM,Hummelfjell,TACAN,NO
+IL,Ilstad,NDB,NO
+KBV,Kobbe,NDB,NO
+KG,Kjerringnes,NDB,NO
+KIK,Kirkenes,VOR-DME,NO
+KKS,Kirkenes,NDB,NO
+KLD,Kalhovd,VOR-DME,NO
+KN,Skrova,NDB,NO
+KNO,Kautokeino,TACAN,NO
+KRM,Karmoy,VOR-DME,NO
+KT,Katnes,NDB,NO
+KV,Kvalsund,NDB,NO
+KVB,Kvernberget,VOR-DME,NO
+L,Porsang,NDB,NO
+LL,Leirin,NDB,NO
+LS,Langeneset,NDB,NO
+LST,Lista,TACAN,NO
+LST,Lista,NDB,NO
+LVK,Leirvika,NDB,NO
+MES,Mesnali,VOR-DME,NO
+MH,Mehamn,NDB,NO
+MOS,Mosjoen,TACAN,NO
+MR,Myra,NDB,NO
+NMS,Namsos,NDB,NO
+NTD,Notodden,NDB,NO
+ODD,Odden,NDB,NO
+ODR,Odderoy,NDB,NO
+OPA,Oppaker,NDB,NO
+ORL,Orland,TACAN,NO
+OYA,Andoya,TACAN,NO
+RBU,Rambu,NDB,NO
+REK,Reksten,NDB,NO
+RG,Tune,NDB,NO
+RS,Roest,VOR-DME,NO
+RS,Roros,NDB,NO
+RSY,Rennesoy,NDB,NO
+RVK,Roervik,VOR-DME,NO
+RYG,Rygge,TACAN,NO
+SA,Sorreisa,NDB,NO
+SAD,Sandsund,NDB,NO
+SD,Sandane,NDB,NO
+SDA,Seida,VOR-DME,NO
+SF,Sandefjord,NDB,NO
+SIG,Sigdal,VOR-DME,NO
+SJA,Senja,NDB,NO
+SKG,Skagen,VOR-DME,NO
+SKI,Skien,VOR-DME,NO
+SLB,Solberg,NDB,NO
+SM,Fossmo,NDB,NO
+SOA,Sola,TACAN,NO
+SOG,Sogndal,VOR-DME,NO
+SOK,Soknen,NDB,NO
+SPA,Sleipner A,NDB-DME,NO
+STD,Stord,VOR-DME,NO
+STG,Stegen,NDB,NO
+STM,Strommen,NDB,NO
+STO,Stokka,VOR-DME,NO
+STT,Stott,NDB,NO
+SVA,Svensheia,VOR-DME,NO
+TAT,Tautra,NDB,NO
+TGA,Tolga,VOR-DME,NO
+TIL,Tiller,NDB,NO
+TM,Lanes,NDB,NO
+TO,Malvik,NDB,NO
+TOR,Torp,VOR-DME,NO
+TR,Tor,NDB,NO
+TRF,Tyrifjord,NDB,NO
+TRL,Troll,DME,NO
+TRM,Trondheim,VOR-DME,NO
+TRO,Tromso,VOR-DME,NO
+TV,Talvik,NDB,NO
+ULA,Ula,NDB,NO
+ULV,Ulvingen,NDB,NO
+UTH,Uthaug,NDB,NO
+VAE,Vaernes,TACAN,NO
+VAR,Varhaug,NDB,NO
+VD,Vadso,NDB,NO
+VEA,Svea,DME,NO
+VFL,Vardefjell,VOR-DME,NO
+VG,Vaga,NDB,NO
+VGA,Vigra,NDB,NO
+VIA,Vigra,TACAN,NO
+VIG,Vigra,VOR-DME,NO
+VNG,Vangnes,NDB,NO
+VOO,Vollo,VOR-DME,NO
+VRD,Vardo,VOR-DME,NO
+YG,Enge,NDB,NO
+ZO,Sola,NDB,NO
+ZOL,Sola,VOR-DME,NO
+BDA,Bhattedanda,VOR-DME,NP
+BHP,Bharatpur,NDB,NP
+BRT,Biratnagar,VOR-DME,NP
+BWA,Bhairahawa,VOR-DME,NP
+DHI,Dhangadhi,NDB,NP
+DNG,Dang,NDB,NP
+DTI,Doti,NDB,NP
+JKP,Janakpur,NDB,NP
+JLA,Jumla,NDB,NP
+JPA,Chandragadhi,NDB,NP
+KTM,Kathmandu,VOR-DME,NP
+LDA,Lamidada,NDB,NP
+LNC,Nalinchowk,NDB,NP
+NGJ,Nepalgunj,VOR-DME,NP
+PHR,Pokhara,NDB-DME,NP
+RBJ,Rajbiraj,NDB,NP
+RKM,Chaurijhari,NDB,NP
+SKT,Surkhet,NDB,NP
+SMR,Simara,VOR-DME,NP
+TTR,Tumlingtar,NDB,NP
+VTN,Biratnagar,NDB,NP
+NI,Nauru,VOR-DME,NR
+NU,Niue,NDB-DME,NU
+AA,Auckland,VOR-DME,NZ
+AP,Taupo,NDB-DME,NZ
+AS,Ashburton,NDB,NZ
+AY,Appleby,NDB,NZ
+BE,Berridale,NDB,NZ
+BM,Blenheim,NDB-DME,NZ
+BU,Burnham,NDB,NZ
+CC,Cape Campbell,NDB,NZ
+CH,Christchurch,VOR-DME,NZ
+CI,Chatham Islands,NDB,NZ
+FY,Ferry,NDB,NZ
+GB,Great Barrier,NDB,NZ
+GS,Gisborne,VOR-DME,NZ
+HD,Whitford,NDB,NZ
+HK,Hokitika,NDB-DME,NZ
+HL,Henley,NDB-DME,NZ
+HN,Hamilton,VOR-DME,NZ
+KI,Kaikoura,NDB,NZ
+KK,Kerikeri,NDB-DME,NZ
+KT,Kaitaia,NDB-DME,NZ
+LX,Alexandra,NDB-DME,NZ
+MI,Mosgiel,NDB,NZ
+MO,Manapouri,NDB-DME,NZ
+NL,Newlands,NDB,NZ
+NP,New Plymouth,VOR-DME,NZ
+NR,Napier,VOR-DME,NZ
+NS,Nelson,VOR-DME,NZ
+NV,Invercargill,VOR-DME,NZ
+OD,Woodend,NDB,NZ
+OH,Ohakea,VORTAC,NZ
+OR,Ohura,VOR-DME,NZ
+OT,Westpoint,NDB,NZ
+OU,Oamaru,NDB,NZ
+PM,Palmerston North,VOR-DME,NZ
+PP,Paraparaumu,NDB-DME,NZ
+RD,Miranda,NDB,NZ
+RO,Rotorua,VOR-DME,NZ
+RY,Mount Mary,VOR-DME,NZ
+SF,Springfield,NDB,NZ
+SH,Slope Hill,VOR-DME,NZ
+SW,Swampy,VOR-DME,NZ
+SY,Surrey,NDB,NZ
+TG,Tauranga,NDB-DME,NZ
+TM,Taumarunui,NDB,NZ
+TR,Tory,VOR-DME,NZ
+TU,Timaru,NDB-DME,NZ
+TY,Titahi Bay,NDB,NZ
+WB,Woodbourne,VOR-DME,NZ
+WI,Waiuku,NDB,NZ
+WK,Whakatane,NDB-DME,NZ
+WN,Wellington,VOR-DME,NZ
+WO,Wairoa,NDB,NZ
+WP,Whenuapai,VORTAC,NZ
+WR,Whangarei,NDB-DME,NZ
+WS,Westport,NDB-DME,NZ
+WU,Wanganui,NDB-DME,NZ
+YW,Eyrewell,VOR-DME,NZ
+FHD,Fahud,VOR-DME,OM
+HAI,Haima,VOR-DME,OM
+IZK,Izki,VOR-DME,OM
+MCT,Seeb,VOR-DME,OM
+MR,Masirah,NDB,OM
+MRH,Masirah Island,VORTAC,OM
+MRL,Marmul,VOR-DME,OM
+NSB,Seeb,NDB,OM
+OA,Marmul,NDB,OM
+OL,Ghaba,NDB,OM
+SAN,Salalah,NDB,OM
+SLL,Salalah,VOR-DME,OM
+SUR,Sur,VOR-DME,OM
+TMR,Thumrait,VORTAC,OM
+AT,Tocumen,NDB,PA
+BDT,Bocas Del Toro,VOR-DME,PA
+CHE,Alonso Valderrama,NDB,PA
+DAV,David,VOR-DME,PA
+FNC,Enrique Jimenez,VOR-DME,PA
+PML,La Palma,VOR,PA
+STG,Santiago,VOR-DME,PA
+TBG,Taboga Island,VOR-DME,PA
+TPL,Tupile,NDB,PA
+TUM,Tocumen,VOR-DME,PA
+ACO,Atico,NDB,PE
+ANA,Contamana,NDB,PE
+AND,Andahuaylas,VOR-DME,PE
+ASI,Asia,VOR-DME,PE
+ATA,Anta,NDB,PE
+AYA,Ayacucho,NDB,PE
+BES,Tumbes,VOR,PE
+BTE,Chimbote,VOR,PE
+CLA,Chiclayo,VOR-DME,PE
+EC,Iquitos,NDB,PE
+EQU,Arequipa,VOR-DME,PE
+HIC,Chiclayo,NDB,PE
+IBE,Iberia,NDB,PE
+ILO,Ilo,VOR,PE
+IQT,Iquitos,VOR-DME,PE
+JUL,Juliaca,VOR-DME,PE
+LAY,Atalaya,NDB,PE
+LIM,Lima,VOR-DME,PE
+MAR,Cajamarca,NDB,PE
+NUC,Huanuco,NDB,PE
+OAS,Andoas,NDB,PE
+PDO,Puerto Maldonado,VOR-DME,PE
+PE,Ec,NDB,PE
+POY,Chachapoyas,VOR-DME,PE
+PUL,Pucallpa,VOR-DME,PE
+PZA,Puerto Esperanza,VOR,PE
+RIO,Rioja,NDB,PE
+SCO,Pisco,VOR-DME,PE
+SJN,San Juan,VOR,PE
+SLS,Salinas,VOR-DME,PE
+TAL,Talara,VOR,PE
+TAP,Tarapoto,VOR-DME,PE
+TCA,Tacna,VOR-DME,PE
+TGM,Tingo Maria,NDB,PE
+TOC,Tocto,VOR,PE
+TRO,Corrientes,NDB,PE
+TRU,Trujillo,VOR-DME,PE
+UAN,Juanjui,NDB,PE
+UAS,Sihuas,VOR,PE
+URA,Piura,VOR-DME,PE
+URC,Urcos,VOR-DME,PE
+YMR,Yurimaguas,VOR,PE
+YMS,Yurimaguas,NDB,PE
+ZCO,Cusco,VOR-DME,PE
+AA,Anaa,NDB,PF
+AN,Hiva Oa,NDB,PF
+AV,Raivavae,NDB,PF
+BB,Bora Bora,NDB,PF
+FK,Fakarava,NDB,PF
+FN,Fangatau,NDB,PF
+HAO,Hao,VOR-DME,PF
+HH,Huahine,NDB,PF
+HHN,Huahine,VOR-DME,PF
+HV,Hiva Oa,NDB,PF
+MA,Maupiti,NDB,PF
+MG,Totegegie,NDB,PF
+MH,Manihi,NDB,PF
+MK,Makemo,NDB,PF
+MO,Moorea,NDB,PF
+NH,Nuku Hiva,NDB,PF
+NP,Napuka,NDB,PF
+OA,Rangiroa,NDB,PF
+RAN,Rangiroa,VOR-DME,PF
+RD,Rangiroa,DME,PF
+RE,Reao,NDB,PF
+RT,Rurutu,NDB,PF
+RU,Raiatea,NDB,PF
+TAF,Tahiti Faaa,VOR-DME,PF
+TB,Tubuai,NDB,PF
+TP,Takapoto,NDB,PF
+UK,Ua Huka,NDB,PF
+BUK,Buka,NDB-DME,PG
+DAU,Daru,NDB-DME,PG
+FIN,Finschhafen,NDB-DME,PG
+GA,Goroka,NDB,PG
+GBE,Gobe,NDB-DME,PG
+GNY,Gurney,VOR-DME,PG
+GUA,Girua,NDB-DME,PG
+HKN,Hoskins,NDB-DME,PG
+JSN,Jackson,NDB,PG
+KAV,Kavieng,VOR-DME,PG
+KIK,Kikori,NDB,PG
+KIU,Kiunga,NDB-DME,PG
+KRM,Kerema,NDB-DME,PG
+KUB,Kubuna,NDB,PG
+KUT,Kumul Platform,NDB,PG
+LAE,Lae,NDB,PG
+LHR,Kunaye,NDB,PG
+MD,Madang,VOR-DME,PG
+MH,Mount Hagen,NDB-DME,PG
+MIS,Misima,NDB,PG
+MOE,Momote,NDB-DME,PG
+MOR,Moro,NDB-DME,PG
+NZ,Nadzab,VOR-DME,PG
+OKT,Ok Tedi,NDB-DME,PG
+PRE,Parer,NDB,PG
+PY,Port Moresby,VOR-DME,PG
+TOK,Tokua,VOR-DME,PG
+TVI,Tavai,NDB,PG
+VNO,Vanimo,NDB-DME,PG
+WK,Wewak,VOR-DME,PG
+AL,Alabat,NDB,PH
+BA,Bagabag,NDB,PH
+BB,Basa,NDB,PH
+BC,Bacolod,VOR,PH
+BG,Baguio,NDB,PH
+BN,Butuan,VOR-DME,PH
+BS,Basco,NDB,PH
+CAB,Cabanatuan,VOR-DME,PH
+CGO,Cagayan De Oro,VOR-DME,PH
+CIA,Clark,VOR-DME,PH
+COT,Cotabato,VOR-DME,PH
+CT,Caticlan,NDB,PH
+CUY,Cauayan,VOR-DME,PH
+DAO,Davao,VOR-DME,PH
+DG,Dumaguete,VOR,PH
+DI,Dipolog,NDB,PH
+DT,Daet,NDB,PH
+GSA,Tambler,VOR-DME,PH
+IOO,Iloilo,VOR-DME,PH
+JL,Jolo,NDB,PH
+JOM,Jomalig,VOR-DME,PH
+JV,Jovellar,NDB,PH
+KLO,Kalibo,VOR-DME,PH
+LAO,Laoag,VOR-DME,PH
+LBG,Lubang,VOR-DME,PH
+LIP,Lipa,VOR,PH
+LP,Legazpi,VOR-DME,PH
+LR,Larap,NDB,PH
+MBT,Masbate,VOR-DME,PH
+MCT,Mactan,VOR-DME,PH
+MIA,Manila,VOR-DME,PH
+MP,Malampaya (Shell Oil Platform),NDB,PH
+NGA,Naga,VOR-DME,PH
+OZ,Ozamis,NDB,PH
+PIN,Pamalican,NDB,PH
+PL,Plaridel,NDB,PH
+PN,Pagadian,NDB,PH
+PR,Puerto Princesa,VOR-DME,PH
+ROX,Roxas,VOR-DME,PH
+RS,Rosario,NDB,PH
+SAJ,San Jose,VOR-DME,PH
+SAN,San Fernando,VOR,PH
+SBA,Subic Bay,VOR-DME,PH
+SFS,Subic Bay,NDB,PH
+SU,Surigao,NDB,PH
+TAC,Tacloban,VOR-DME,PH
+TBR,Tambler,NDB,PH
+TD,Tandag,NDB,PH
+TUG,Tuguegarao,VOR-DME,PH
+VC,Virac,NDB,PH
+ZAM,Zamboanga,VOR-DME,PH
+BI,Bindo,VOR,PK
+BN,Bannu,NDB,PK
+BW,Bahawalpur,NDB,PK
+DB,Dalbandin,NDB,PK
+DG,Dera Ghazi Khan,NDB,PK
+DI,D I Khan,VOR,PK
+FA,Faisalabad,NDB,PK
+GD,Gwadar,NDB,PK
+GT,Gilgit,NDB,PK
+JI,Jiwani,VOR-DME,PK
+KA,Cape Monze,NDB,PK
+KC,Karachi,VOR-DME,PK
+KD,Hyderabad,NDB,PK
+KE,Chor,NDB,PK
+KF,Gharo,NDB,PK
+KH,Khuzdar,NDB,PK
+LA,Lahore,VOR-DME,PK
+MF,Muzaffarabad,NDB,PK
+MI,Mianwali,NDB,PK
+MJ,Moenjodaro,NDB,PK
+MT,Multan,VOR,PK
+NH,Nawabshah,VOR-DME,PK
+OR,Ormara,NDB,PK
+PC,Parachinar,NDB,PK
+PG,Panjgur,VOR-DME,PK
+PI,Pasni,NDB,PK
+PS,Peshawar,VOR-DME,PK
+QT,Quetta,VOR-DME,PK
+QT,Quetta,NDB,PK
+RK,Rahim Yar Khan,VOR-DME,PK
+RK,Rahim Yar Khan,NDB,PK
+RN,Islamabad,VOR-DME,PK
+RT,Rawalakot,NDB,PK
+SB,Sibi,NDB,PK
+SD,Skardu,NDB,PK
+SK,Sukkur,NDB,PK
+SN,Sehwan Sharif,NDB,PK
+SP,Sheikhupura,NDB,PK
+SS,Saidu Sharif,NDB,PK
+TU,Turbat,NDB,PK
+ZB,Zhob,VOR-DME,PK
+AY,Warszawa,NDB,PL
+BBM,Babimost,NDB,PL
+CHO,Chociwel,NDB,PL
+CZE,Czempin,VOR-DME,PL
+DAR,Darlowo,VOR-DME,PL
+DRE,Drezdenko,VOR-DME,PL
+DW,Szczytno,NDB,PL
+F,Pruszcz Gdanski,NDB,PL
+FT,Pruszcz Gdanski,NDB,PL
+GDA,Gdansk,NDB,PL
+GRU,Grudziadz,VOR-DME,PL
+H,Wroclaw,NDB,PL
+HG,Wroclaw,NDB,PL
+JAB,Jablonka,VOR-DME,PL
+JED,Jedow,VOR-DME,PL
+K,Oksywie,NDB,PL
+KMI,Kmiecin,VOR,PL
+KN,Oksywie,NDB,PL
+KRN,Karnice,VOR-DME,PL
+KRT,Kartuzy,VOR-DME,PL
+KRW,Krakow,NDB,PL
+L,Krakow,NDB,PL
+LAW,Poznan,VOR-DME,PL
+LDZ,Lodz,VOR-DME,PL
+LIN,Linin,VOR-DME,PL
+LUB,Lubin,NDB,PL
+MRA,Mragowo,VOR-DME,PL
+N,Oksywie,NDB,PL
+NK,Oksywie,NDB,PL
+OKE,Okecie,VOR-DME,PL
+OL,Szczecin,NDB,PL
+OR,Rzeszow,NDB,PL
+P,Lawica,NDB,PL
+P,Pyrzowice,NDB,PL
+PNO,Piaseczno,NDB,PL
+POZ,Poznan,NDB,PL
+PT,Katowice,NDB,PL
+RUD,Skupowo,VOR-DME,PL
+RZE,Rzeszow,VOR-DME,PL
+S,Bydgoszcz,NDB,PL
+S,Gdansk,NDB,PL
+SA,Mielec,NDB,PL
+SIE,Siedlce,VOR-DME,PL
+SL,Bydgoszcz,NDB,PL
+SUI,Subi,VOR-DME,PL
+SUW,Suwalki,VOR-DME,PL
+T,Lask,NDB,PL
+TRB,Treblo,VOR,PL
+TRZ,Trzebnica,VOR-DME,PL
+TZ,Lask,NDB,PL
+W,Warszawa,NDB,PL
+WAG,Warszawa,NDB,PL
+WAO,Warszawa,NDB,PL
+WAR,Zaborowek,VOR-DME,PL
+MQ,Miquelon,NDB,PM
+SP,St-Pierre,NDB,PM
+BQN,Borinquen,VORTAC,PR
+DDP,Dorado,NDB,PR
+MAZ,Mayaguez,VOR-DME,PR
+NRR,Roosevelt Roads,TACAN,PR
+PSE,Ponce,VOR-DME,PR
+SJ,Patty,NDB,PR
+SJU,San Juan,VORTAC,PR
+GZA,Gaza,VOR-DME,PS
+IRM,Jerusalem,NDB,PS
+RFH,Gaza,NDB,PS
+BEJ,Beja,VORTAC,PT
+BRG,Braganca,NDB,PT
+CAS,Cascais,VOR-DME,PT
+CB,Coimbra,NDB,PT
+COV,Covilha,NDB,PT
+CP,Caparica,NDB,PT
+ESP,Espichel,VORTAC,PT
+FIL,Horta,NDB,PT
+FLO,Flores,NDB,PT
+FRS,Flores,VOR-DME,PT
+FTM,Fatima,VOR-DME,PT
+FUN,Madeira,VOR-DME,PT
+GC,Graciosa,NDB,PT
+GP,Lajes,NDB,PT
+HT,Horta,NDB,PT
+LAJ,Lajes,TACAN,PT
+LAR,Arruda,NDB,PT
+LIS,Lisboa,VOR-DME,PT
+LM,Lajes,VOR,PT
+LO,Lisboa Lom,NDB,PT
+MAD,Madeira,NDB,PT
+MGL,Ponta Delgada,NDB,PT
+MIO,Montijo,NDB,PT
+MOJ,Montijo,TACAN,PT
+MTL,Monte Real,NDB,PT
+MTR,Monte Real,TACAN,PT
+NSA,Nisa,VORTAC,PT
+OVR,Ovar,TACAN,PT
+PD,Ponta Delgada,NDB,PT
+PG,Porto,NDB,PT
+PI,Pico,NDB,PT
+POR,Porto,NDB,PT
+PRT,Porto,VOR-DME,PT
+SGR,Sagres,VOR-DME,PT
+SNT,Porto Santo,VOR-DME,PT
+SRA,Sintra,VORTAC,PT
+STO,Porto Santo,TACAN,PT
+TRM,Terminal,TACAN,PT
+VFA,Faro,VOR-DME,PT
+VFL,Horta,VORTAC,PT
+VIS,Viseu,VOR-DME,PT
+VMG,Sao Miguel,VORTAC,PT
+VR,Vila Real,NDB,PT
+VSM,Santa Maria,VOR-DME,PT
+ROR,Koror,NDB-DME,PW
+ALG,Ciudad Del Este,NDB,PY
+CDE,Ciudad Del Este,NDB,PY
+CON,Concepcion,NDB,PY
+FIL,Filadelfia,NDB,PY
+ITU,Itaipu,NDB,PY
+MCL,Mariscal Estigarribia,NDB,PY
+PJC,Pedro Juan Caballero,NDB,PY
+PS,Asuncion,NDB,PY
+ST,Asuncion,NDB,PY
+STA,Santa Teresa,NDB,PY
+VAS,Asuncion,VOR-DME,PY
+VB,Asuncion,NDB,PY
+VES,Ciudad Del Este,VOR-DME,PY
+ALD,Al Udeid,VORTAC,QA
+DOH,Doha,VOR-DME,QA
+WK,Wk,NDB,QA
+FXR,St Denis Gillot,NDB,RE
+PRF,St Pierre Pierrefonds,VOR-DME,RE
+SDG,St Denis Gillot,VOR-DME,RE
+SP,Pierrefonds/Etang,NDB,RE
+A,Baneasa East,NDB,RO
+ARD,Arad,VOR-DME,RO
+B,Baneasa West,NDB,RO
+BC,Bacau,NDB,RO
+BCU,Bacau,VOR-DME,RO
+BMR,Baia Mare,NDB,RO
+BRV,Brasov,VOR-DME,RO
+BSE,Baneasa Southeast,NDB,RO
+BSW,Baneasa Southwest,NDB,RO
+CLJ,Cluj,VOR-DME,RO
+CND,Constanta,VOR-DME,RO
+CRS,Caransebes,NDB,RO
+CRV,Craiova,VOR-DME,RO
+D,Deveselu,NDB,RO
+DA,Deveselu West,NDB,RO
+DVA,Deva,VOR-DME,RO
+EA,Craiova,NDB,RO
+FLR,Floresti,VOR-DME,RO
+GLT,Galati,VOR-DME,RO
+IAS,Iasi,NDB,RO
+OPE,Otopeni,NDB,RO
+OPT,Rosiori,VOR-DME,RO
+OPW,Otopeni,NDB,RO
+ORA,Oradea,NDB,RO
+OTL,Otopeni,NDB,RO
+OTR,Otopeni,NDB,RO
+SAT,Satu Mare,VOR-DME,RO
+SCV,Suceava,VOR-DME,RO
+SIB,Sibiu,NDB,RO
+STJ,Strejnic,VOR-DME,RO
+TGJ,Targu Jiu,VOR-DME,RO
+TGM,Targu Mures,NDB,RO
+TLA,Tulcea,VOR-DME,RO
+TLC,Tulcea,NDB,RO
+TND,Tandarei,NDB,RO
+TSR,Timisoara,NDB,RO
+UU,Constanta,NDB,RO
+ZZ,Constanta,NDB,RO
+BGD,Beograd,VOR-DME,RS
+BLC,Blace,VOR-DME,RS
+BRN,Berane,NDB,RS
+BS,Bondsteel,NDB,RS
+BUI,Budisavci,VOR-DME,RS
+DAK,Dakovica,TACAN,RS
+DAK,Dakovica,NDB,RS
+DAN,Podgorica,NDB,RS
+IA,Indija,NDB,RS
+JA,Beograd,NDB,RS
+JST,Justic,NDB,RS
+KN,Beograd,NDB,RS
+MOJ,Mojkovac,NDB,RS
+NIK,Niksic,NDB,RS
+NIS,Nis,VOR-DME,RS
+OBR,Beograd,NDB,RS
+PA,Pancevo,NDB,RS
+POD,Podgorica,VOR-DME,RS
+POZ,Pozarevac,NDB,RS
+PRI,Pristina,NDB,RS
+PRT,Pristina,VOR-DME,RS
+SMI,Mitrovica,VOR-DME,RS
+SMR,Mitrovica,NDB,RS
+TAZ,Tivat,NDB,RS
+TPL,Topola,VOR-DME,RS
+VAC,Vrsac,VOR,RS
+VAL,Valjevo,VOR-DME,RS
+VEG,Gradiste,NDB,RS
+VRA,Vrsac,NDB,RS
+VRN,Vranje,NDB,RS
+VTN,Kraljevo,NDB,RS
+ZO,Nis,NDB,RS
+A,Sheremetyevo,NDB,RU
+AB,Podkamennaya Tunguska,NDB,RU
+AB,Abakan,NDB,RU
+ABK,Abakan,VOR-DME,RU
+AD,Sheremetyevo,NDB,RU
+AD,Aldan,NDB,RU
+ADL,Sochi,VOR-DME,RU
+AG,Agoy,NDB,RU
+AI,Tura,NDB,RU
+AJ,Krasnoyarsk,NDB,RU
+AJ,Staritsa,NDB,RU
+AK,Aleksandrovka,NDB,RU
+AL,Baykit,NDB,RU
+AM,Markovo,NDB,RU
+AM,Surgut,NDB,RU
+AM,Kazan,NDB,RU
+AM,Verkhneimbatsk,NDB,RU
+AN,Anapa,NDB,RU
+AN,Belgorod,NDB,RU
+AP,Anapa,NDB,RU
+AP,Voronezh,NDB,RU
+AR,Buzharovo,NDB,RU
+AR,Barnaul,NDB,RU
+AR,Artemovsky,NDB,RU
+AZ,Samara,NDB,RU
+AZ,Arkhangelsk,NDB,RU
+B,Sheremetyevo,NDB,RU
+BA,Balagannoye,NDB,RU
+BA,Bagayevsky,NDB,RU
+BA,Krasnodar,NDB,RU
+BA,Bakchar,NDB,RU
+BB,Beryozovo,NDB,RU
+BC,Provideniya Bay,NDB,RU
+BD,Bogdanovo,NDB,RU
+BD,Khabarovsk,NDB,RU
+BD,Razdolye,NDB,RU
+BD,Khanty Mansiysk,NDB,RU
+BE,Samara,NDB,RU
+BE,Beringovsky,NDB,RU
+BF,Norilsk,NDB,RU
+BG,Karmanovo,NDB,RU
+BG,Muraveyka,NDB,RU
+BI,Bisert,NDB,RU
+BI,Dudinka,NDB,RU
+BJ,Astrakhan,NDB,RU
+BK,Lunino,NDB,RU
+BK,Krasnoyarsk,NDB,RU
+BK,Perm,NDB,RU
+BL,Kazan,NDB,RU
+BL,Chernyshevka,NDB,RU
+BLG,Blagoveschensk,VOR-DME,RU
+BM,Blagoveschensk,NDB,RU
+BM,Pevek,NDB,RU
+BN,Bolshaya Nikolayevka,NDB,RU
+BO,Nizhny Novgorod,NDB,RU
+BP,Chelobityevo,NDB,RU
+BQ,Bokhan,NDB,RU
+BRT,Bratsk,VOR-DME,RU
+BS,Bratsk,NDB,RU
+BT,Alatyr,NDB,RU
+BU,Barnaul,NDB,RU
+BV,Elista,NDB,RU
+BW,Sheremetyevo,NDB,RU
+BW,Balakovo,NDB,RU
+BX,Belgorod,NDB,RU
+BZ,Bolshaya Murta,NDB,RU
+CE,Maksimkin Yar,NDB,RU
+CH,Vladikavkaz,NDB,RU
+CN,Irkutsk,NDB,RU
+CP,Magnitogorsk,NDB,RU
+CR,Cheboksary,NDB,RU
+CS,Osa,NDB,RU
+CW,Krasnaya Gorbatka,NDB,RU
+CZ,Vilyuysk,NDB,RU
+DB,Pochinok,NDB,RU
+DE,Yedinka,NDB,RU
+DE,Domodedovo,NDB,RU
+DEM,Mirny,VOR-DME,RU
+DG,Chita,NDB,RU
+DJ,Kazan,NDB,RU
+DK,Glotayevo,NDB,RU
+DK,Saratov,NDB,RU
+DM,Domodedovo,NDB,RU
+DM,Salekhard,NDB,RU
+DO,Domodedovo,NDB,RU
+DP,Khurba,NDB,RU
+DR,Skurygino,NDB,RU
+DT,Dyurtyuli,NDB,RU
+DV,Dzhubga,NDB,RU
+DW,Domodedovo,NDB,RU
+DW,Vorkuta,NDB,RU
+DW,Nikolskoye,NDB,RU
+DX,Maksim Gorky,NDB,RU
+E,Domodedovo,NDB,RU
+EB,Matveyevsky,NDB,RU
+ED,Koltsovo,NDB,RU
+EL,Koltsovo,NDB,RU
+ENS,Yeniseysk,VOR-DME,RU
+ER,Yegorlykskaya,NDB,RU
+FB,Kolpashevo,NDB,RU
+FE,Oktyabrsky,NDB,RU
+FE,Kukan,NDB,RU
+FI,Golitsyno,NDB,RU
+FK,Samara,NDB,RU
+FK,Magadan,NDB,RU
+FK,Gagarin,NDB,RU
+FO,Vanavara,NDB,RU
+FS,Ust-Tsilma,NDB,RU
+FV,Nizhneudinsk,NDB,RU
+FV,Venev,NDB,RU
+G,Vnukovo,NDB,RU
+GA,Naryan-Mar,NDB,RU
+GB,Volchanka,NDB,RU
+GD,Maloye Skuratovo,NDB,RU
+GE,Khabarovsk,NDB,RU
+GE,Kursk,NDB,RU
+GG,Vnukovo,NDB,RU
+GG,Bratsk,NDB,RU
+GK,Surgut,NDB,RU
+GL,Nizhnyaya Pesha,NDB,RU
+GO,Gorevoye,NDB,RU
+GR,Khorinsk,NDB,RU
+GR,Gorka,NDB,RU
+GR,Sumy,NDB,RU
+GU,Magdagachi,NDB,RU
+GV,Kolyvan,NDB,RU
+GV,Astrakhan,NDB,RU
+HAB,Khabarovsk,VOR-DME,RU
+HB,Zemetchino,NDB,RU
+HC,Makhachkala,NDB,RU
+HI,Khabarovsk,NDB,RU
+HJ,Mamadysh,NDB,RU
+HL,Ust-Tsilma,NDB,RU
+HY,Khalaktyrka,NDB,RU
+IA,Bodaybo,NDB,RU
+IG,Lensk,NDB,RU
+IGR,Igarka,VOR-DME,RU
+IN,Sukhotino,NDB,RU
+IP,Zakharovka,NDB,RU
+IR,Irkutsk,NDB,RU
+IRK,Irkutsk,VOR-DME,RU
+JH,Nizhnevartovsk,NDB,RU
+JQ,Bomnak,NDB,RU
+KA,Olzony,NDB,RU
+KA,Konstantinovsk,NDB,RU
+KA,Khurba,NDB,RU
+KB,Anadyr,NDB,RU
+KD,Novotyryshkino,NDB,RU
+KE,Kikerino,NDB,RU
+KF,Tiksi,NDB,RU
+KG,Kogalym,NDB,RU
+KI,Kirensk,NDB,RU
+KL,Krasny Sulin,NDB,RU
+KM,Arkhangelsk,NDB,RU
+KM,Kamyshin,NDB,RU
+KM,Kamenskoe,NDB,RU
+KM,Kem,NDB,RU
+KN,Kostino,NDB,RU
+KN,Kobona,NDB,RU
+KO,Kotly,NDB,RU
+KP,Kargopol,NDB,RU
+KQ,Koltsovo,NDB,RU
+KR,Krasnoarmeysk,NDB,RU
+KR,Kaliningrad,NDB,RU
+KR,Kirishi,NDB,RU
+KR,Krasnodar,NDB,RU
+KRS,Krasnoyarsk,VOR-DME,RU
+KS,Opalikha,NDB,RU
+KS,Krasny,NDB,RU
+KS,Nizhneye Sancheleevo,NDB,RU
+KS,Chelyabinsk,NDB,RU
+KT,Tolmachevo,NDB,RU
+KT,Stavropol,NDB,RU
+KT,Kukushtan,NDB,RU
+KTL,Kotlas,VOR-DME,RU
+KU,Koltsovo,NDB,RU
+KU,Migalovo,NDB,RU
+KU,Mogocha,NDB,RU
+KW,Kislovodsk,NDB,RU
+KW,Knevichi,NDB,RU
+KZ,Kizlyar,NDB,RU
+KZ,Severnoye,NDB,RU
+KZL,Kyzyl,VOR-DME,RU
+KZN,Kazan,VOR-DME,RU
+LA,Lavrentiya,NDB,RU
+LA,Lazarevskoye,NDB,RU
+LA,Cheboksary,NDB,RU
+LB,Chelyabinsk,NDB,RU
+LBN,Chelyabinsk,VOR-DME,RU
+LD,Krasnodar,NDB,RU
+LE,Biysk,NDB,RU
+LF,Bazhenovo,NDB,RU
+LM,Sanger,NDB,RU
+LO,Klimovsk,NDB,RU
+LP,Shafranovo,NDB,RU
+LS,Ulyanovsk,NDB,RU
+LT,Chokurdakh,NDB,RU
+LZ,Ufa,NDB,RU
+LZ,Blagoveschensk,NDB,RU
+M,Sheremetyevo,NDB,RU
+M,Domodedovo,NDB,RU
+MA,Chaybukha,NDB,RU
+MA,Maykop,NDB,RU
+MB,Chernukha,NDB,RU
+MD,Mineralnyye Vody,NDB,RU
+ME,Nikolayevsk-Na-Amure,NDB,RU
+MF,Yakutsk,NDB,RU
+MF,Larionovo,NDB,RU
+MGR,Magnitogorsk,VOR-DME,RU
+MH,Mikhaylovsk,NDB,RU
+MH,Mikhaylovsky,NDB,RU
+MI,Mikhaylovka,NDB,RU
+MK,Malka,NDB,RU
+ML,Chapaev,NDB,RU
+MN,Manychsky,NDB,RU
+MN,Mendeleyevo,NDB,RU
+MR,Sheremetyevo,VOR-DME,RU
+MR,Volochaevka,NDB,RU
+MR,Ulyanovsk,NDB,RU
+MW,Mineralnyye Vody,NDB,RU
+MW,Milkovo,NDB,RU
+MW,Migalovo,NDB,RU
+MX,Zhigalovo,NDB,RU
+MZ,Mezen,NDB,RU
+N,Sheremetyevo,NDB,RU
+NA,Salekhard,NDB,RU
+NA,Begishevo,NDB,RU
+NB,Uelkal,NDB,RU
+NC,Kemerovo,NDB,RU
+ND,Smyshlyayevka,NDB,RU
+ND,Bolshevik,NDB,RU
+NE,Nerl,NDB,RU
+NG,Nizhny Novgorod,NDB,RU
+NH,Nikolsk,NDB,RU
+NH,Tobolsk,NDB,RU
+NJC,Nizhnevartovsk,VOR-DME,RU
+NK,Nikolskoye,NDB,RU
+NK,Begishevo,NDB,RU
+NK,Ayan,NDB,RU
+NL,Nalchik,NDB,RU
+NL,Sheremetyevo,NDB,RU
+NL,Olenek,NDB,RU
+NM,Ufa,NDB,RU
+NM,Ust-Ilimsk,NDB,RU
+NN,Kozhevnikovo,NDB,RU
+NO,Nadym,NDB,RU
+NP,Pskov,NDB,RU
+NR,Novolokti,NDB,RU
+NRG,Chulman,VOR-DME,RU
+NSK,Novosibirsk,VOR-DME,RU
+NU,Bryansk,NDB,RU
+NV,Zabaykalsk,NDB,RU
+NVD,Nizhneudinsk,VOR,RU
+NZ,Nizhnevartovsk,NDB,RU
+NZ,Ust-Labinsk,NDB,RU
+NZ,Mirny,NDB,RU
+NZ,Nyazepetrovsk,NDB,RU
+NZ,Achinsk,NDB,RU
+O,Domodedovo,NDB,RU
+O,Vnukovo,NDB,RU
+OA,Khatanga,NDB,RU
+OB,Vnukovo,NDB,RU
+OC,Legostayevo,NDB,RU
+OD,Bryansk,NDB,RU
+OG,Russky Kameshkir,NDB,RU
+OG,Onega,NDB,RU
+OH,Saratov,NDB,RU
+OK,Lyskovo,NDB,RU
+OL,Ishim,NDB,RU
+OL,Kogalym,NDB,RU
+ON,Olekminsk,NDB,RU
+OP,Stavropol,NDB,RU
+OR,Kirov,NDB,RU
+OR,Orsk,NDB,RU
+OS,Osmino,NDB,RU
+OS,Ossora,NDB,RU
+PA,Pavlovshina,NDB,RU
+PE,Pechory,NDB,RU
+PF,Bolshoye Goloustnoye,NDB,RU
+PF,Murmansk,NDB,RU
+PG,Zayeltsovskiy,NDB,RU
+PI,Khomutovo,NDB,RU
+PK,Pulkovo,NDB,RU
+PK,Pskov,NDB,RU
+PK,Pevek,NDB,RU
+PL,Pulkovo,NDB,RU
+PM,Pechora,NDB,RU
+PO,Pretoria,NDB,RU
+PO,Pulkovo,NDB,RU
+PR,Peredovaya,NDB,RU
+PR,Petropavlovsk-Kamchatsky,NDB,RU
+PS,Kyzyl,NDB,RU
+PS,Krasitsky,NDB,RU
+PS,Kazan,NDB,RU
+PT,Ufa,NDB,RU
+PT,Dalna,NDB,RU
+PTG,Podkamennaya Tunguska,VOR-DME,RU
+PU,Pulkovo,NDB,RU
+PW,Sokol,NDB,RU
+PW,Syktyvkar,NDB,RU
+PX,Perm,NDB,RU
+PZ,Nadym,NDB,RU
+QA,Ekimchan,NDB,RU
+QD,Knevichi,NDB,RU
+QD,Petrozavodsk,NDB,RU
+QD,Orel,NDB,RU
+QF,Tyumen,NDB,RU
+QH,Pechora,NDB,RU
+QI,Troitskoye,NDB,RU
+QL,Algasovo,NDB,RU
+QM,Shumerlya,NDB,RU
+QO,Aksinyino,NDB,RU
+QT,Belokholunitsky,NDB,RU
+RD,Bazarnye Mataki,NDB,RU
+RD,Murmansk,NDB,RU
+RD,Yeniseysk,NDB,RU
+RF,Ladozhskaya,NDB,RU
+RF,Magnitogorsk,NDB,RU
+RG,Ufa,VOR-DME,RU
+RG,Ufa,NDB,RU
+RG,Tunoshna,NDB,RU
+RI,Boguchany,NDB,RU
+RK,Naryan-Mar,NDB,RU
+RL,Zhiguli,NDB,RU
+RM,Omsk,NDB,RU
+RM,Mama,NDB,RU
+RN,Raduzhny,NDB,RU
+RN,Penza,NDB,RU
+RN,Rostov-Na-Donu,NDB,RU
+RN,Tyumen,NDB,RU
+RO,Tolmachevo,NDB,RU
+RO,Aginskoye,NDB,RU
+RP,Sosnovskoye,NDB,RU
+RQ,Chulman,NDB,RU
+RR,Uyar,NDB,RU
+RT,Kyakhta,NDB,RU
+RW,Rostov-Na-Donu,NDB,RU
+RW,Maryino,NDB,RU
+RZ,Sharanga,NDB,RU
+S,Shenkursk,NDB,RU
+SA,Elista,NDB,RU
+SA,Saratov,NDB,RU
+SB,Sambek,NDB,RU
+SD,Nizhnaya Tavda,NDB,RU
+SE,Serov,NDB,RU
+SF,Cherusti,NDB,RU
+SF,Orsk,NDB,RU
+SG,Mirny,NDB,RU
+SH,Salekhard,VOR-DME,RU
+SL,Khomutovo,NDB,RU
+SL,Sukhodol,NDB,RU
+SL,Solodniki,NDB,RU
+SM,Makhachkala,NDB,RU
+SM,Smolenskaya,NDB,RU
+SN,Sultanskoye,NDB,RU
+SO,Sochi,NDB,RU
+SP,Malinovka,NDB,RU
+SPB,Sankt-Peterburg,VOR-DME,RU
+SR,Syktyvkar,NDB,RU
+SR,Pavlovsk,NDB,RU
+ST,Sirotinskaya,NDB,RU
+ST,Nizhny Novgorod,NDB,RU
+SU,Belozersk,NDB,RU
+SU,Dikson,NDB,RU
+SW,Savelovo,NDB,RU
+SZ,Barabinsk,NDB,RU
+T,Vnukovo,NDB,RU
+TA,Takhtayamsk,NDB,RU
+TA,Makhachkala,NDB,RU
+TD,Roschino,NDB,RU
+TE,Terbuny,NDB,RU
+TH,Takhtalym,NDB,RU
+TH,Tachtamygda,NDB,RU
+THN,Turukhansk,VOR-DME,RU
+TK,Tilichiki,NDB,RU
+TK,Omsk,NDB,RU
+TP,Teplorechensky,NDB,RU
+TQ,Vnukovo,NDB,RU
+TR,Turan,NDB,RU
+TS,Zadonsk,NDB,RU
+TS,Tarko-Sale,NDB,RU
+TU,Bely,NDB,RU
+TV,Tyoply Kluch,NDB,RU
+TX,Tomsk,NDB,RU
+UB,Ust-Bolsheretsk,NDB,RU
+UD,Chudovo,NDB,RU
+UD,Yakutsk,NDB,RU
+UD,Buturlino,NDB,RU
+UF,Novokuznetsk,NDB,RU
+UF,Khabarovsk,NDB,RU
+UF,Koshki,NDB,RU
+UG,Raduzhny,NDB,RU
+UH,Tikhoretsk,NDB,RU
+UH,Ust-Khayruzovo,NDB,RU
+UHT,Ukhta,VOR-DME,RU
+UJ,Ust-Mana,NDB,RU
+UK,Yukhnov,NDB,RU
+UK,Ust-Kamchatsk,NDB,RU
+UL,Vostochny,NDB,RU
+UM,Ivanovskoye,NDB,RU
+UP,Zenzeli,NDB,RU
+UR,Chagda,NDB,RU
+US,Muravlyanka,NDB,RU
+US,Elshanka,NDB,RU
+UV,Nizhny Novgorod,NDB,RU
+UWS,Vostochny,VOR-DME,RU
+UX,Anadyr,NDB,RU
+UY,Sovetskiy,NDB,RU
+UY,Kyzyl,NDB,RU
+UY,Orel,NDB,RU
+VA,Dobrynskoye,NDB,RU
+VC,Leshukonskoye,NDB,RU
+VD,Yakutsk,NDB,RU
+VG,Zhigansk,NDB,RU
+VL,Zheltoye,NDB,RU
+W,Domodedovo,NDB,RU
+W,Vnukovo,NDB,RU
+WA,Magadan,NDB,RU
+WA,Kursk,NDB,RU
+WD,Gumrak,NDB,RU
+WG,Gumrak,NDB,RU
+WG,Samara,NDB,RU
+WH,Penza,NDB,RU
+WJ,Mys Schmidta,NDB,RU
+WJ,Leshukonskoye,NDB,RU
+WKL,Velikiye Luki,VOR,RU
+WM,Vnukovo,NDB,RU
+WN,Poliarny,NDB,RU
+WN,Vostochny,NDB,RU
+WP,Krasnodar,NDB,RU
+WQ,Veschevo,NDB,RU
+WR,Voronezh,NDB,RU
+WT,Vitim,NDB,RU
+WT,Kartino,NDB,RU
+WU,Sosnovka,NDB,RU
+WW,Vaganovo,NDB,RU
+WZ,Kamenka,NDB,RU
+WZ,Srednebeloye,NDB,RU
+XO,Petrozavodsk,NDB,RU
+XR,Selikhino,NDB,RU
+XT,Ryazanskaya,NDB,RU
+XV,Novy Vasyugan,NDB,RU
+XZ,Tyumen,NDB,RU
+YK,Buinsk,NDB,RU
+YO,Biryucha Kosa,NDB,RU
+ZA,Batagay,NDB,RU
+ZBK,Zabaykalsk,VOR,RU
+ZD,Ulan-Ude,NDB,RU
+ZE,Noyarsk,NDB,RU
+ZG,Petrovskoye,NDB,RU
+ZG,Kharasavey,NDB,RU
+ZG,Zelenga,NDB,RU
+ZJ,Khanty Mansiysk,VOR-DME,RU
+ZL,Mys Kamenny,NDB,RU
+ZM,Chita,NDB,RU
+ZT,Khatanga,NDB,RU
+BG,Bugarura,NDB,RW
+CR,Rusumo,NDB,RW
+GY,Gisenyi,NDB,RW
+KB,Kamembe,NDB,RW
+KNM,Kigali,VOR-DME,RW
+LO,Kigali,NDB,RW
+RH,Ruhengeri,NDB,RW
+ZE,Gabiro,NDB,RW
+AAR,Arar,VORTAC,SA
+AB,Abqaiq,NDB,SA
+ABH,Abha,VORTAC,SA
+AJF,Al Jouf,VORTAC,SA
+AKJ,Al Kharj,VORTAC,SA
+ASH,Al-Shigar,VOR-DME,SA
+BDB,Bir Darb,VOR-DME,SA
+BHA,Al Baha,VORTAC,SA
+BPN,Bopan,VOR-DME,SA
+BSH,Bisha,VORTAC,SA
+DAW,Al Dawadmi,VOR-DME,SA
+DFN,Dafinah,VOR-DME,SA
+DHA,Dhahran,VORTAC,SA
+GAS,Gassim,VORTAC,SA
+GIZ,Jazan,VORTAC,SA
+GRY,Guriat,VORTAC,SA
+HAR,Harad,NDB,SA
+HAW,Hawtah,NDB,SA
+HFR,Hafr Al-Batin,VORTAC,SA
+HIL,Hail,VORTAC,SA
+HLF,Halaifa,VOR-DME,SA
+HSA,Al Ahsa,VORTAC,SA
+JBL,Jubail,VOR-DME,SA
+JDW,King Abdulaziz,VORTAC,SA
+KAM,Khamis Mushait,VORTAC,SA
+KFA,Dammam,VORTAC,SA
+KHA,Khurais,NDB,SA
+KIA,King Khaled,VORTAC,SA
+KMC,King Khaled Military City,VORTAC,SA
+MGA,Magala,VOR-DME,SA
+NEJ,Nejran,VORTAC,SA
+PMA,Prince Mohammad Bin Abdulaziz,VOR-DME,SA
+PS0,Pump Station 10,NDB,SA
+PS3,Pump Station 3,NDB,SA
+PS6,Pump Station 6,NDB,SA
+PS9,Pump Station 9,NDB,SA
+PSA,Prince Sultan,VORTAC,SA
+QUN,Qunfidah,VOR-DME,SA
+RAF,Rafha,VOR-DME,SA
+RAS,Ras Mishab,VORTAC,SA
+RBG,Rabigh,VOR-DME,SA
+RGB,Raghba,VOR-DME,SA
+RIY,Riyadh,VORTAC,SA
+RT,Ras Tanura,NDB,SA
+SHA,Sharurah,VORTAC,SA
+STN,Prince Sultan,TACAN,SA
+SYH,Shayba,NDB,SA
+TBK,Tabuk,VORTAC,SA
+TIF,Taif,VORTAC,SA
+TJ,Ras Tanajib,NDB,SA
+TRF,Turaif,VOR-DME,SA
+UDH,Udhailiyah,NDB,SA
+WDR,Wadi Al Dawasir,VORTAC,SA
+WEJ,Wejh,VORTAC,SA
+HN,Honiara,VOR-DME,SB
+COE,Coetivy,NDB,SC
+PRA,Praslin,VOR-DME,SC
+SEY,Seychelles,VOR-DME,SC
+SEY,Seychelles,NDB,SC
+ATB,Atbara,NDB,SD
+DMZ,Damazin,NDB,SD
+DOG,Dongola,VOR-DME,SD
+FSR,El Fashir,VOR-DME,SD
+GNA,Geneina,NDB,SD
+KNA,Kenana,VOR-DME,SD
+KNA,Kenana,NDB,SD
+KTM,Khartoum,VOR-DME,SD
+ME,Port Sudan,NDB,SD
+MRW,Merowe,VOR-DME,SD
+NYL,Nyala,VOR-DME,SD
+OBD,El Obeid,VOR-DME,SD
+PSD,Port Sudan,VOR-DME,SD
+SGD,Sheik Elgunied,VOR-DME,SD
+ALM,Alma,VOR,SE
+AN,Arvidsjaur,NDB,SE
+ANE,Arlanda,DME,SE
+ANW,Arlanda,DME,SE
+ARL,Arlanda,VOR-DME,SE
+ARS,Aros,VOR-DME,SE
+ASW,Arlanda,DME,SE
+BAK,Backa,VOR-DME,SE
+BCS,Bacchus,NDB,SE
+BOR,Borlange,VOR-DME,SE
+CG,Arlanda,NDB,SE
+COR,Corner,NDB,SE
+DKR,Dunker,VOR,SE
+DL,Arlanda,NDB,SE
+EN,Orebro,NDB,SE
+ERK,Erken,NDB,SE
+HAR,Harry,VOR,SE
+HMR,Hammar,VOR-DME,SE
+JON,Jonkoping,VOR-DME,SE
+JX,Vaxjo,NDB,SE
+KAL,Kalmar,VOR-DME,SE
+KBG,Karlsborg,NDB,SE
+KRA,Kiruna,VOR-DME,SE
+KSD,Karlstad,VOR-DME,SE
+LA,Arlanda,NDB,SE
+LAV,Landvetter,VOR-DME,SE
+LF,Ronneby,NDB,SE
+LJU,Ljungbyhed,VOR-DME,SE
+LNA,Lena,NDB,SE
+LP,Ronneby,NDB,SE
+LUE,Lunde,NDB,SE
+NAK,Nacka,NDB,SE
+NAT,Natta,VOR-DME,SE
+NB,Bromma,NDB,SE
+NM,N Mora,NDB,SE
+NOL,Nolvik,VOR,SE
+NS,Sturup,NDB,SE
+NTL,Nortel,VOR-DME,SE
+NV,Vilhelmina,NDB,SE
+OEM,Kristianstad,NDB,SE
+OG,Gallivare,NDB,SE
+OG,Gavle,NDB,SE
+OHT,Arlanda,NDB,SE
+OP,Kiruna,NDB,SE
+OSK,Ornskoldsvik,VOR-DME,SE
+OSS,Ostersund,VOR-DME,SE
+OU,Bromma,NDB,SE
+OY,Sveg,NDB,SE
+OZ,Skallen,NDB,SE
+RB,Orebro,NDB,SE
+SKA,Skelleftea,VOR-DME,SE
+SLU,Lulea,VOR-DME,SE
+SS,Sturup,NDB,SE
+SUM,Storuman,VOR-DME,SE
+SUN,Sundsvall,VOR-DME,SE
+SUP,Sturup,VOR-DME,SE
+SVD,Sveda,VOR-DME,SE
+TEB,Tebby,VOR-DME,SE
+TRS,Trosa,VOR-DME,SE
+TRU,Trundon,NDB,SE
+UME,Umea,VOR-DME,SE
+UP,Uppsala,NDB,SE
+VEY,Vedby,VOR,SE
+VNA,Vanja,NDB,SE
+VSB,Visby,VOR-DME,SE
+VSN,Vassen,VOR-DME,SE
+VX,Vaxjo,NDB,SE
+AG,Sembawang,NDB,SG
+BED,Bedok,NDB,SG
+PLA,Paya Lebar,TACAN,SG
+PU,Papa Uniform,VOR-DME,SG
+SEL,Seletar,NDB,SG
+SJ,Sinjon,VOR-DME,SG
+TNG,Tengah,TACAN,SG
+VTK,Tekong,VOR-DME,SG
+ASI,Ascension Aux Af,VORTAC,SH
+DOL,Dolsko,VOR-DME,SI
+ILB,Bistrica,VOR-DME,SI
+KAM,Dolsko,NDB,SI
+MEL,Metlika,NDB,SI
+MG,Ljubljana,NDB,SI
+MI,Maribor,NDB,SI
+MR,Maribor,NDB,SI
+PZ,Portoroz,NDB,SI
+B,Barka,NDB,SK
+CN,Piestany,NDB,SK
+D,David,NDB,SK
+DBV,Dubove,NDB,SK
+JAN,Janovce,VOR-DME,SK
+KE,Kosice,NDB,SK
+KSC,Kosice,VOR-DME,SK
+NIT,Nitra,VOR-DME,SK
+OB,Stefanik South,NDB,SK
+OKR,Stefanik North,NDB,SK
+OKR,Stefanik,DME,SK
+PE,Tatry,NDB,SK
+PNY,Centr,NDB,SK
+PPD,Tatry,VOR-DME,SK
+PW,Tatry,NDB,SK
+RP,Malacky,NDB,SK
+SLC,Sliac,VOR-DME,SK
+TR,Trencin,NDB,SK
+ZLA,Zilina,NDB,SK
+LGI,Freetown Lungi,VOR-DME,SL
+SL,Freetown Lungi,NDB,SL
+KD,Kolda,NDB,SN
+MA,Matam/Ouro Sogui,NDB,SN
+SDS,Dakar,NDB,SN
+SKG,Kedougou,NDB,SN
+SKK,Kaolack,NDB,SN
+SKN,Cap Skiring,NDB,SN
+SLO,Saint Louis,NDB,SN
+SMI,Simenti,NDB,SN
+SR,Podor,NDB,SN
+SZR,Ziguinchor,NDB,SN
+TD,Tambacounda,VOR,SN
+YF,Dakar,VOR-DME,SN
+ZG,Ziguinchor,VOR,SN
+ZY,Zanderij,VOR-DME,SR
+JUB,Juba,VOR-DME,SS
+MLK,Malakal,VOR-DME,SS
+Wau_NDB_,Wau,NDB,SS
+PR,Principe,NDB,ST
+SP,Sao Tome,NDB,ST
+STM,Sao Tome,VOR-DME,ST
+CAT,El Salvador,VOR-DME,SV
+LAN,Amatecampo,NDB,SV
+YSV,Ilopango,VOR-DME,SV
+ABD,Abyad,NDB,SY
+ALE,Aleppo,VOR-DME,SY
+BAN,Banias,NDB,SY
+DAL,Otaebe,NDB,SY
+DAM,Damascus,VOR-DME,SY
+DRZ,Deir Zzor,VOR-DME,SY
+HAS,Hassakeh,NDB,SY
+KML,Kamishly,VOR-DME,SY
+KTN,Kariatain,VOR-DME,SY
+LTK,Bassel Al Assad,VOR-DME,SY
+LTK,Bassel Al Assad,NDB,SY
+MER,Aleppo,NDB,SY
+MEZ,Mezze,NDB,SY
+PAL,Palmyra,NDB,SY
+TAN,Tanf,VOR-DME,SY
+VMS,Matsapha,VOR-DME,SZ
+GTK,Grand Turk,VORTAC,TC
+PVN,Providenciales,VOR-DME,TC
+SC,South Caicos,NDB,TC
+AE,Abeche,VOR,TD
+FA,Sarh,NDB,TD
+FL,Ndjamena,VOR-DME,TD
+FLU,Faya Largeau,NDB,TD
+LN,Ndjamena,NDB,TD
+MN,Moundou,NDB,TD
+TD,Moundou,VOR,TD
+LM,Lome,VOR-DME,TG
+NN,Niamtougou,NDB,TG
+NS,Niamtougou,NDB,TG
+NT,Niamtougou,VOR-DME,TG
+SK,Sokode,NDB,TG
+BK,Bangkok,NDB,TH
+BKK,Bangkok,VOR-DME,TH
+BRM,Buri Ram,VOR-DME,TH
+BUT,U Taphao,TACAN,TH
+BUT,U Taphao,VOR-DME,TH
+CHM,Chiang Mai,TACAN,TH
+CMA,Chiang Mai,VOR-DME,TH
+CMP,Chum Phae,VOR-DME,TH
+CPN,Chumphon,VOR-DME,TH
+CTR,Chiang Rai,VOR-DME,TH
+HHN,Hua Hin,VOR-DME,TH
+HTY,Hat Yai,TACAN,TH
+HY,Hat Yai,NDB,TH
+KBI,Krabi,VOR-DME,TH
+KKN,Khon Kaen,VOR-DME,TH
+KPS,Kamphaeng Saen,TACAN,TH
+KPS,Kamphaeng Saen,VOR-DME,TH
+KRT,Khorat,TACAN,TH
+KRT,Khorat,VOR-DME,TH
+LB,Lop Buri,NDB,TH
+LOB,Lop Buri,TACAN,TH
+LOY,Loei,VOR-DME,TH
+LPN,Lampang,VOR-DME,TH
+MH,Mae Hong Son,NDB,TH
+MHS,Mae Hong Son,VOR-DME,TH
+MST,Mae Sot,VOR-DME,TH
+NAN,Nan,VOR-DME,TH
+NKP,Nakhon Phanom,VOR-DME,TH
+NKR,Nakhon Ratchasima,VOR-DME,TH
+NKS,Nakhon Si Thammarat,VOR-DME,TH
+NN,Nan,NDB,TH
+NS,Cha Ian,NDB,TH
+NTW,Narathiwat,VOR-DME,TH
+PAE,Phrae,VOR-DME,TH
+PB,Prachin Buri,NDB,TH
+PCB,Phetchabun,VOR-DME,TH
+PCK,Prachuap,TACAN,TH
+PCK,Prachuap,NDB,TH
+PH,Phetchabun,NDB,TH
+PR,Phrae,NDB,TH
+PSL,Phitsanulok,TACAN,TH
+PSL,Phitsanulok,VOR-DME,TH
+PT,Pattani,NDB,TH
+PUT,Phuket,VOR-DME,TH
+RAN,Ranong,VOR-DME,TH
+RE,Roi Et,NDB,TH
+ROT,Roi Et,VOR-DME,TH
+RYN,Rayong,VOR-DME,TH
+SKL,Songkhla,VOR-DME,TH
+SKN,Sakon Nakhon,VOR-DME,TH
+SMU,Samui,VOR-DME,TH
+SPN,Sa Pran Nak,VOR,TH
+SR,Surat Thani,NDB,TH
+SRT,Surat Thani,TACAN,TH
+STN,Surat Thani,VOR-DME,TH
+SVB,Suvarnabhumi Intl,VOR-DME,TH
+THS,Sukhothai,NDB-DME,TH
+TK,Tak,NDB,TH
+TKL,Takhli,TACAN,TH
+TL,Takhli,NDB,TH
+TRN,Trang,VOR-DME,TH
+TRT,Trat,NDB-DME,TH
+UBL,Ubon,TACAN,TH
+UBL,Ubon,VOR-DME,TH
+UDN,Udon,TACAN,TH
+UDN,Udon,VOR-DME,TH
+UP,U Taphao,NDB,TH
+WN,Watthana Nakhon,NDB,TH
+CG,Kulyab,NDB,TJ
+DNB,Dushanbe,VOR-DME,TJ
+FN,Dushanbe,NDB,TJ
+HD,Khudzhand,NDB,TJ
+HU,Dangara,NDB,TJ
+HV,Khudzhand,NDB,TJ
+JD,Fayzabad,NDB,TJ
+PF,Ura Tyube,NDB,TJ
+PR,Oktyabrsky,NDB,TJ
+SX,Pugus,NDB,TJ
+WG,Dushanbe,NDB,TJ
+NK,Nukunonu,NDB,TK
+DIL,Dili,VOR-DME,TL
+KO,Dili,NDB,TL
+AD,Ashgabat,NDB,TM
+ASB,Ashgabat,VOR-DME,TM
+CO,Turkmenbashi,NDB,TM
+GH,Ashgabat,NDB,TM
+KRS,Turkmenbashi,VOR-DME,TM
+LBA,Turkmenabat,VOR-DME,TM
+MP,Mary,NDB,TM
+NQ,Turkmenabat,NDB,TM
+NS,Mary,NDB,TM
+PQ,Ashgabat,NDB,TM
+RJ,Serdar,NDB,TM
+RP,Dashoguz,NDB,TM
+UT,Turkmenabat,NDB,TM
+VH,Dashoguz,NDB,TM
+WZ,Turkmenbashi,NDB,TM
+ART,Rize-Artvin,VOR-DME,TN
+BAN,Sidi Ben Aoun,VOR,TN
+BC,Cap Blanc,NDB,TN
+BIZ,Bizerte,VOR-DME,TN
+CBN,Cap Bon,VOR,TN
+EBA,El Borma,VOR,TN
+GAB,Gabes,VOR-DME,TN
+GAF,Gafsa,VOR-DME,TN
+JBA,Djerba,VOR-DME,TN
+JER,Zarzis,NDB,TN
+KDN,Tunis,NDB,TN
+KR,El aAtaya,NDB,TN
+MON,Monastir,VOR-DME,TN
+SFX,Sfax,VOR,TN
+TBK,Tabarka,VOR-DME,TN
+TK,Tabarka 7 Novembre,NDB,TN
+TON,Tozeur,VOR-DME,TN
+TS,Tunis,NDB,TN
+TUC,Tunis,VOR-DME,TN
+ZN,Nefta,NDB,TN
+FM,Fua Amotu,NDB,TO
+HA,Haapai,NDB,TO
+TBU,Fua Amotu,VOR-DME,TO
+TV,Vavau,NDB,TO
+ADA,Adana,VOR-DME,TR
+ADA,Adana,NDB,TR
+AKC,Trabzon,NDB,TR
+AKI,Akhisar,TACAN,TR
+ANK,Ankara,NDB-DME,TR
+ANT,Antalya,DME,TR
+ARF,Topel,TACAN,TR
+ARF,Topel,NDB,TR
+ARI,Agri,VOR-DME,TR
+AYT,Antalya,TACAN,TR
+AYT,Antalya,VOR-DME,TR
+BAG,Baglum,VOR-DME,TR
+BAT,Batman,TACAN,TR
+BAT,Batman,VOR-DME,TR
+BDM,Bandirma,TACAN,TR
+BDR,Milas Bodrum,VOR-DME,TR
+BEY,Beypazari,NDB,TR
+BIG,Biga,VOR-DME,TR
+BKZ,Beykoz,VOR-DME,TR
+BRI,Balikesir,TACAN,TR
+BRY,Yenisehir,VOR-DME,TR
+BUK,Cubuk,VOR-DME,TR
+CAY,Caycuma,NDB-DME,TR
+CEK,Cekmece,NDB,TR
+CIG,Cigli,TACAN,TR
+CIG,Cigli,NDB,TR
+CLU,Corlu,TACAN,TR
+CNK,Canakkale,VOR-DME,TR
+CRD,Cardak,TACAN,TR
+CRD,Cardak,VOR-DME,TR
+CRL,Corlu,VOR-DME,TR
+CRM,Carsamba,VOR-DME,TR
+DAL,Dalaman,TACAN,TR
+DAL,Dalaman,VOR-DME,TR
+DAN,Incirlik,TACAN,TR
+DIY,Diyarbakir,TACAN,TR
+DYB,Diyarbakir,VOR-DME,TR
+EDR,Edremit,VOR-DME,TR
+EKI,Tekirdag,VOR-DME,TR
+ER,Erzurum,NDB,TR
+ERD,Erdemir,NDB,TR
+ERH,Malatya,VOR,TR
+ERH,Erhac,TACAN,TR
+ERH,Erhac,NDB,TR
+ERN,Erzincan,VOR-DME,TR
+ERZ,Erzurum,TACAN,TR
+ERZ,Erzurum,VOR-DME,TR
+ESK,Eskisehir,TACAN,TR
+ESR,Eskisehir,VOR-DME,TR
+ETI,Etimesgut,TACAN,TR
+EZS,Elazig,VOR-DME,TR
+EZS,Elazig,NDB,TR
+GAZ,Gaziantep,VOR-DME,TR
+GAZ,Oguzeli,NDB,TR
+GBI,Golbasi,NDB,TR
+GEM,Gemerek,VOR-DME,TR
+GEY,Antalya,NDB,TR
+GML,Kiyikislacik,VOR-DME,TR
+HAY,Haymana,NDB-DME,TR
+IMR,Izmir,VOR-DME,TR
+INB,Inebolu,VOR-DME,TR
+IPT,Isparta,VOR-DME,TR
+IS,Istanbul,NDB,TR
+ISK,Iskenderun,NDB,TR
+IST,Istanbul,VORTAC,TR
+KAD,Kadifekale,NDB,TR
+KAR,Kars,VOR-DME,TR
+KFK,Afyon,TACAN,TR
+KFK,Afyon,VOR-DME,TR
+KHD,Adiyaman,VOR-DME,TR
+KHM,Kahramanmaras,VOR-DME,TR
+KLC,Kaklic,TACAN,TR
+KNY,Konya,VOR-DME,TR
+KON,Konya,TACAN,TR
+KSR,Kayseri,TACAN,TR
+KSR,Kayseri,VOR-DME,TR
+KUT,Kutahya,TACAN,TR
+ME,Menderes,NDB,TR
+MEN,Menderes,TACAN,TR
+MNI,Merzifon,TACAN,TR
+MRD,Mardin,VOR-DME,TR
+MUS,Mus,VOR-DME,TR
+MUT,Mut,VOR-DME,TR
+SBH,Sabiha Gokcen,VOR-DME,TR
+SEL,Efes,NDB,TR
+SIN,Sinop,VOR-DME,TR
+SIV,Sivas,VOR-DME,TR
+SRT,Siirt,VOR-DME,TR
+SRT,Siirt,NDB,TR
+ST,Ataturk,NDB,TR
+SYT,Sivrihisar,TACAN,TR
+TBN,Trabzon,VOR-DME,TR
+TKT,Tokat,NDB-DME,TR
+TZK,Tuzkoy,VOR-DME,TR
+URF,Sanliurfa,VOR-DME,TR
+USK,Usak,NDB-DME,TR
+VAN,Van,VOR-DME,TR
+YAA,Yalova,VOR-DME,TR
+YAA,Yalova,NDB,TR
+YEN,Yenisehir,TACAN,TR
+YT,Antalya,NDB,TR
+ZIR,Akinci,TACAN,TR
+BGH,Bgh,NDB,TT
+POS,Piarco,VOR-DME,TT
+TAB,Crown Point,NDB,TT
+TRI,Piarco,NDB,TT
+FU,Funafuti,NDB-DME,TV
+APU,Anpu,VOR-DME,TW
+BM,Magong,NDB,TW
+BS,Kinmen,NDB-DME,TW
+CCK,Ching Chuan Kang,TACAN,TW
+CHI,Chiayi,TACAN,TW
+GID,Lyudao,VORTAC,TW
+HC,Taipei/Sungshan,DME,TW
+HCN,Hengchun,VORTAC,TW
+HLG,Houlung,VORTAC,TW
+HLN,Hualien,TACAN,TW
+HLN,Hualien,VOR-DME,TW
+HSU,Hsinchu,TACAN,TW
+HW,Hualien,NDB,TW
+KS,Ks,NDB,TW
+KT,Hengchun,NDB,TW
+KTG,Hengchun,DME,TW
+KU,Chiayi,NDB,TW
+KW,Hengchun,NDB,TW
+LK,Lk,NDB,TW
+LKU,Sungshan,TACAN,TW
+LU,Lu,NDB,TW
+LY,Lanyu,NDB,TW
+MKG,Magong,TACAN,TW
+MKG,Magong,VOR-DME,TW
+MR,Kueijen,NDB,TW
+MS,Ilan,NDB,TW
+MSNN,Msnn,DME,TW
+NK,Nangan,NDB,TW
+NKN,Nangan,DME,TW
+NN,Shikang,NDB,TW
+O,O,NDB,TW
+PIT,Pingtung South,TACAN,TW
+PK,Beigan,NDB,TW
+PKN,Beigan,DME,TW
+RA,Lungtang,NDB,TW
+SG,Sg,NDB,TW
+SK,Sk,NDB,TW
+SN,Sn,NDB,TW
+SW,Sw,NDB,TW
+TC,Taichung,NDB,TW
+TCK,Taichung,DME,TW
+TIA,Chiang Kai Shek,VOR-DME,TW
+TNN,Shikang,VORTAC,TW
+TWS,Tainan,TACAN,TW
+TYN,Taoyuan,TACAN,TW
+WK,Hsinshie,NDB,TW
+YU,Hualien,NDB,TW
+ZN,Taitung,NDB,TW
+AR,Arusha,NDB,TZ
+BK,Bukoba,NDB,TZ
+DM,Dar Es Salaam,NDB,TZ
+DO,Dodoma,NDB,TZ
+DR,Dar Es Salaam,NDB,TZ
+DS,Dar Es Salaam,NDB,TZ
+DV,Dar Es Salaam,VOR-DME,TZ
+IR,Iringa,NDB,TZ
+KB,Kilimanjaro,NDB,TZ
+KG,Kigoma,NDB,TZ
+KL,Kilimanjaro,NDB,TZ
+KO,Kilimanjaro,NDB,TZ
+KV,Kilimanjaro,VOR-DME,TZ
+MB,Mbeya,NDB,TZ
+MF,Mafia,NDB,TZ
+MT,Mtwara,NDB,TZ
+MU,Musoma,NDB,TZ
+MZ,Mwanza,VOR,TZ
+PA,Pemba,NDB,TZ
+SG,Songea,NDB,TZ
+TB,Tabora,NDB,TZ
+TG,Tanga,NDB,TZ
+ZZ,Zanzibar,NDB,TZ
+A,Kharkiv,NDB,UA
+A,Zaporizhzhia,NDB,UA
+AL,Alushta,NDB,UA
+AU,Auly,NDB,UA
+B,Boryspil,NDB,UA
+BB,Bibrka,NDB,UA
+BI,Boryspil,NDB,UA
+BO,Bohdanivka,NDB,UA
+BRP,Boryspil,VOR-DME,UA
+C,Antonov,NDB,UA
+C,Cherkasy,NDB,UA
+CC,Cherkasy,NDB,UA
+CH,Cherniakhiv,NDB,UA
+CK,Cherkasy,NDB,UA
+CN,Chernivtsi,NDB,UA
+CR,Chernivtsi,NDB,UA
+CY,Chervonyi,NDB,UA
+D,Odesa,NDB,UA
+DK,Dokuchaievs K,NDB,UA
+DM,Dmytrivka,NDB,UA
+DN,Donetsk,NDB,UA
+DNP,Dnipropetrovsk,VOR-DME,UA
+DO,Dobrushyn,NDB,UA
+DO,Donetsk,NDB,UA
+DON,Donetsk,VOR-DME,UA
+DP,Dnipropetrovsk,NDB,UA
+DR,Dnipropetrovsk,NDB,UA
+DW,Davydo-Mykilske,NDB,UA
+E,Boryspil,NDB,UA
+E,Odesa,NDB,UA
+F,Ivano-Frankovsk,NDB,UA
+F,Simferopol,NDB,UA
+G,Kryvyi Rih,NDB,UA
+G,Luhansk,NDB,UA
+GE,Helmiaziv,NDB,UA
+GO,Antonov,NDB,UA
+GR,Krasnohrad,NDB,UA
+HA,Kharkiv,NDB,UA
+I,Boryspil,NDB,UA
+I,Zhuliany,NDB,UA
+I,Mykolaiv,NDB,UA
+IF,Ivano-Frankovsk,NDB,UA
+IV,Ivano-Frankovsk,NDB,UA
+IVF,Ivano Frankivsk,VOR-DME,UA
+JA,Yahotyn,NDB,UA
+JL,Yalta,NDB,UA
+K,Cherkasy,NDB,UA
+K,Mykolaiv,NDB,UA
+KB,Boryspil,NDB,UA
+KE,Boryspil,NDB,UA
+KER,Kerch,DME,UA
+KH,Kakhovka,NDB,UA
+KHR,Kharkiv,VOR-DME,UA
+KI,Zhulyany,NDB,UA
+KO,Koshany,NDB,UA
+KP,Kamenets,NDB,UA
+KR,Krabor,NDB,UA
+KV,Zhulyany,NDB,UA
+KVR,Kryvyi Rih,DME,UA
+KW,Koviahy,NDB,UA
+LB,Liubymivka,NDB,UA
+LC,Antonov,NDB,UA
+LE,Lesnik,NDB,UA
+LG,Luhansk,NDB,UA
+LI,Lykhacheve,NDB,UA
+LIV,Lviv,VOR-DME,UA
+LO,Lviv,NDB,UA
+LS,Krasnyi Luch,NDB,UA
+LU,Luhansk,NDB,UA
+LV,Lviv,NDB,UA
+MO,Mohyliv Podilskyi,NDB,UA
+MRP,Mariupol,DME,UA
+N,Chernivtsi,NDB,UA
+N,Donetsk,NDB,UA
+N,Simferopol,NDB,UA
+NI,Mykolaiv,NDB,UA
+NK,Mykolaiv,NDB,UA
+NL,Nikola,NDB,UA
+NM,Nemyriv,NDB,UA
+NO,Boryspil,NDB,UA
+O,Antonov,NDB,UA
+O,Kryvyi Rih,NDB,UA
+O,Donetsk,NDB,UA
+O,Boryspil,NDB,UA
+O,Lviv,NDB,UA
+ODS,Odesa,VOR-DME,UA
+OE,Odesa,NDB,UA
+P,Zaporizhzhia,NDB,UA
+P,Dnipropetrovsk,NDB,UA
+PA,Parutyne,NDB,UA
+PI,Pii,NDB,UA
+PW,Pavlivka,NDB,UA
+R,Chernivtsi,NDB,UA
+R,Kharkiv,NDB,UA
+R,Dnipropetrovsk,NDB,UA
+RD,Rivne,NDB,UA
+RG,Kryvyi Rih,NDB,UA
+RO,Kryvyi Rih,NDB,UA
+RS,Rashivka,NDB,UA
+RW,Rivne,NDB,UA
+SF,Simferopol,NDB,UA
+SH,Shyriaieve,NDB,UA
+SLV,Soloviivka,VOR-DME,UA
+SM,Semenivka,NDB,UA
+SMF,Simferopol,VOR-DME,UA
+SN,Simferopol,NDB,UA
+SR,Serednie,NDB,UA
+SV,Stebliv,NDB,UA
+SW,Shepetivka,NDB,UA
+TM,Tomakivka,NDB,UA
+TP,Topchyne,NDB,UA
+TR,Trypillia,NDB,UA
+U,Luhansk,NDB,UA
+V,Ivano-Frankovsk,NDB,UA
+V,Lviv,NDB,UA
+VI,Verhnie,NDB,UA
+VIN,Vinnytsia,DME,UA
+W,Rivne,NDB,UA
+WM,Volodymyrets,NDB,UA
+ZA,Zaporizhzhia,NDB,UA
+ZK,Zhuliany,NDB,UA
+ZL,Zolochiv,NDB,UA
+ZP,Zaporizhzhia,NDB,UA
+EM,Entebbe,NDB,UG
+KA,Kasese,NDB,UG
+KS,Kisoro,NDB,UG
+NN,Entebbe,VOR-DME,UG
+PB,Port Bell,NDB,UG
+SO,Soroti,NDB,UG
+SV,Soroti,DME,UG
+AWK,Wake Island,VORTAC,UM
+MDY,Midway,NDB,UM
+AR,Carrasco,NDB,UY
+ASI,Adami,NDB,UY
+AT,Artigas,NDB,UY
+BD,Durazno,NDB,UY
+CA,Carrasco,NDB,UY
+CAR,Carrasco,NDB,UY
+COL,Colonia,NDB,UY
+CRR,Carrasco,VOR-DME,UY
+DO,Durazno,NDB,UY
+DUR,Durazno,VOR-DME,UY
+LDS,Curbelo,VOR-DME,UY
+MLO,Melo,VOR,UY
+MP,Durazno,NDB,UY
+PN,Paysandu,NDB,UY
+RV,Rivera,NDB,UY
+RVA,Rivera,NDB,UY
+STO,Salto,VOR,UY
+TMB,Tacuarembo,VOR,UY
+AD,Andizhan,NDB,UZ
+AN,Andizhan,NDB,UZ
+BR,Bukhara,NDB,UZ
+CV,Syrdarya,NDB,UZ
+DS,Urgut,NDB,UZ
+DY,Nagornaya,NDB,UZ
+F,Yuzhny,NDB,UZ
+FC,Dalverzin,NDB,UZ
+FD,Tashkent,NDB,UZ
+GR,Guzar,NDB,UZ
+GZ,Kakaydy,NDB,UZ
+HA,Sherabad,NDB,UZ
+HK,Nurata,NDB,UZ
+KA,Dzhizak,NDB,UZ
+M,Samarkand,NDB,UZ
+MZ,Samarkand,NDB,UZ
+N,Termez,NDB,UZ
+NG,Tashkent,NDB,UZ
+NO,Termez,NDB,UZ
+NU,Urgench,NDB,UZ
+PD,Bulungur,NDB,UZ
+RG,Urgench,NDB,UZ
+SA,Namangan,NDB,UZ
+SO,Muynak,NDB,UZ
+SR,Sergeli,NDB,UZ
+ST,Tamdybulak,NDB,UZ
+SW,Karakhtay,NDB,UZ
+TD,Kakaydy,NDB,UZ
+TKT,Tashkent,VOR-DME,UZ
+TMD,Tamdybulak,VOR-DME,UZ
+TRZ,Termez,VOR-DME,UZ
+U,Bukhara,NDB,UZ
+UA,Toytepa,NDB,UZ
+UH,Bukhara,NDB,UZ
+UP,Kokand,NDB,UZ
+URG,Urgench,VOR-DME,UZ
+UTV,Karshi,TACAN,UZ
+YU,Kasan,NDB,UZ
+Z,Yuzhny,NDB,UZ
+ZU,Fergana,NDB,UZ
+ZW,Tashkent,NDB,UZ
+CAI,Canouan,NDB,VC
+SV,E T Joshua,NDB-DME,VC
+ADA,Aguada Grande,NDB,VE
+AGV,Acarigua,VOR-DME,VE
+BAL,El Libertador,VORTAC,VE
+BCO,Bachaquero,NDB,VE
+BNA,Barcelona,VORTAC,VE
+BNS,Barinas,VOR-DME,VE
+BRM,Barquisimeto,VOR-DME,VE
+CBC,Cabo Codera,VOR-DME,VE
+CBL,Ciudad Bolivar,VOR-DME,VE
+CDO,Caicara Del Orinoco,VOR-DME,VE
+CMA,Canaima,VOR-DME,VE
+COR,Carora,VOR-DME,VE
+CRO,Coro,VOR-DME,VE
+CTN,El Canton,VOR-DME,VE
+CUM,Cumana,VOR-DME,VE
+CUP,Carupano,NDB,VE
+CZO,Calabozo,VOR-DME,VE
+ELO,El Dorado,NDB,VE
+EPL,El Pinal,NDB,VE
+EVG,El Vigia,NDB,VE
+EZA,Elorza,NDB,VE
+GNA,Guayana,VORTAC,VE
+GRE,Guanare,NDB,VE
+GRI,Tocomita,NDB,VE
+GTO,Guasdualito,NDB,VE
+GUI,Guiria,NDB,VE
+HOT,Higuerote,NDB,VE
+ICA,Icabaru,NDB,VE
+KAV,Kavanayen,NDB,VE
+KEM,Uonquen,NDB,VE
+LDP,La Divina Pastora,VOR-DME,VE
+LEA,Luepa,NDB,VE
+LFA,La Fria,VOR-DME,VE
+LRS,Gran Roque,VOR-DME,VE
+MAR,Maracaibo,VORTAC,VE
+MAU,Mene Mauroa,VOR-DME,VE
+MIQ,Maiquetia,VOR-DME,VE
+MOI,Morichal,NDB,VE
+MT,Giles,NDB,VE
+MTA,Margarita,VOR-DME,VE
+MUN,Maturin,VOR-DME,VE
+NOL,No Leon,VOR-DME,VE
+OMO,Ocamo,NDB,VE
+PAY,Puerto Ayacucho,VOR,VE
+PBL,Puerto Cabello,VOR-DME,VE
+PIJ,Los Pijiguaos,NDB,VE
+PRG,Paraguana,VOR-DME,VE
+PRM,Paramillo,NDB,VE
+SBB,Santa Barbara De Barinas,NDB,VE
+SFD,San Fernando De Apure,VOR-DME,VE
+SJM,San Juan De Manapiare,NDB,VE
+SOM,San Tome,VOR-DME,VE
+SPE,San Felipe,NDB,VE
+SRN,San Carlos De Rio Negro,NDB,VE
+SSB,San Sebastian,NDB,VE
+STB,Santa Barbara Del Zulia,VOR-DME,VE
+STD,Santo Domingo,TACAN,VE
+TMO,Tumeremo,VOR-DME,VE
+TUC,Tucupita,NDB,VE
+TUY,Charallave,VOR-DME,VE
+URC,Urica,NDB,VE
+URM,Uriman,NDB,VE
+VAL,Valencia,VOR-DME,VE
+VPA,Valle De La Pascua,VOR-DME,VE
+VRA,Valera,VOR-DME,VE
+VRA,Valera,NDB,VE
+VSJ,Punta San Juan,VOR-DME,VE
+YAR,Yaritagua,NDB,VE
+BFI,Beef Island,NDB,VG
+COY,St Croix,VOR-DME,VI
+STT,St Thomas,VOR-DME,VI
+SX,Peste,NDB,VI
+AC,Anloc,NDB,VN
+AM,Gialam,NDB,VN
+BK,Catbi,NDB,VN
+BMT,Buon Ma Thuot,VOR-DME,VN
+BQ,Nasan,NDB,VN
+BU,Buon Ma Thuot,NDB,VN
+CAB,Catbi,VOR-DME,VN
+CL,Camly,NDB,VN
+CQ,Chu Lai,NDB,VN
+CRA,Cam Ranh,VOR-DME,VN
+CS,Conson,NDB,VN
+CT,Can Tho,NDB,VN
+D,Danang,NDB,VN
+DAN,Danang,VOR-DME,VN
+DIB,Dien Bien,VOR-DME,VN
+DJ,Danang,NDB,VN
+DL,Dalat,NDB,VN
+GN,Tansonnhat,NDB,VN
+GV,Tansonnhat,NDB,VN
+HL,Nam Dinh,NDB,VN
+HUE,Phubai,VOR-DME,VN
+K,Noibai,NDB,VN
+KW,Noibai,NDB,VN
+MC,Mocchau,NDB,VN
+NAH,Namha,VOR-DME,VN
+NG,Nhatrang,NDB,VN
+NOB,Noibai,VOR-DME,VN
+PB,Phubai,NDB,VN
+PC,Phucat,NDB,VN
+PCA,Phucat,VOR-DME,VN
+PHT,Phanthiet,VOR-DME,VN
+PK,Pleiku,NDB,VN
+PQ,Phuquoc,NDB,VN
+QL,Camau,NDB,VN
+RG,Rachgia,NDB,VN
+SG,Tansonnhat,NDB,VN
+TD,Tansonnhat,NDB,VN
+TH,Tuyhoa,NDB,VN
+TSN,Tansonnhat,VOR-DME,VN
+VIN,Vinh,VOR-DME,VN
+VTV,Vungtau,VOR,VN
+XVL,Vungtau,NDB,VN
+XW,Vinh,NDB,VN
+BA,Bauerfield,NDB,VU
+LN,Lo-Linua,NDB,VU
+SON,Santo,NDB-DME,VU
+VLI,Bauerfield,VOR-DME,VU
+WG,White Grass,NDB,VU
+FN,Futuna,NDB,WF
+HOI,Wallis,VOR-DME,WF
+FA,Faleolo,VOR-DME,WS
+AD,Aden,NDB,YE
+GDA,Al Ghaidah,NDB,YE
+HDH,Hodeidah,VOR-DME,YE
+KRA,Aden,VOR-DME,YE
+MRB,Marib,NDB,YE
+RIN,Riyan,VOR-DME,YE
+SA,Sanaa,NDB,YE
+SAA,Sanaa,VOR-DME,YE
+SAH,Sanaa,NDB,YE
+SCT,Socotra,NDB,YE
+SYE,Saadah,NDB,YE
+SYN,Sayun,NDB,YE
+TAZ,Taiz,VOR-DME,YE
+DZP,Dzaoudzi Pamandzi,VOR-DME,YT
+FJO,Dzaoudzi Pamandzi,NDB,YT
+AB,Alexander Bay,NDB,ZA
+ABV,Alexander Bay,VOR-DME,ZA
+AGV,Aggeneys,VOR-DME,ZA
+BDV,Burgersdorp,VOR,ZA
+BH,Badshoogte,NDB,ZA
+BL,Bloemfontein,NDB,ZA
+BLV,Bloemfontein,VORTAC,ZA
+BM,Bethlehem,NDB,ZA
+BTF,New Tempe,NDB,ZA
+CB,Cape Town,NDB,ZA
+CH,Cookhouse,NDB,ZA
+CL,Carolina,NDB,ZA
+CTV,Cape Town,VORTAC,ZA
+CW,Clanwilliam,NDB,ZA
+DH,Durnacol,NDB,ZA
+DN,Durban,NDB,ZA
+DNV,Durban,VORTAC,ZA
+DU,Durban,NDB,ZA
+ELV,East London,VORTAC,ZA
+ER,Ellisras,NDB,ZA
+ERV,Ellisras,VOR-DME,ZA
+ES,Eshowe,NDB,ZA
+FB,Ficksburg,NDB,ZA
+GAV,Grasmere,VOR,ZA
+GC,Grand Central,NDB,ZA
+GE,Greyton,NDB,ZA
+GG,George,NDB,ZA
+GGV,George,VOR-DME,ZA
+GI,Giyani,NDB,ZA
+GT,Greytown,NDB,ZA
+GWN,Greytown,NDB,ZA
+GWV,Greefswald,VOR,ZA
+GYV,Greytown,VOR,ZA
+HA,Hoedspruit,NDB,ZA
+HBV,Hartebeespoortdam,VOR,ZA
+HE,Hendrina,NDB,ZA
+HGV,Heidelberg,VOR,ZA
+HL,Hluhluwe,NDB,ZA
+HS,Harrismith,NDB,ZA
+HSV,Hoedspruit,VORTAC,ZA
+HZ,Hotazel,NDB,ZA
+JB,Johannesburg,NDB,ZA
+JF,Jagersfontein,NDB,ZA
+JP,Gravelotte,NDB,ZA
+JSV,Johannesburg,VOR-DME,ZA
+KD,Klerksdorp,NDB,ZA
+KK,Kapteinskop,NDB,ZA
+KM,Kimberley,NDB,ZA
+KS,Kroonstad,NDB,ZA
+KUR,Kuruman,NDB,ZA
+KYV,Kimberley,VOR-DME,ZA
+KZ,Kleinsee,NDB,ZA
+LA,Lanseria,NDB,ZA
+LIV,Lanseria,VOR-DME,ZA
+LO,Louis Trichardt,NDB,ZA
+LS,Makhado,NDB,ZA
+LTV,Makhado,VORTAC,ZA
+LU,Makhado,NDB,ZA
+LWV,Langebaanweg,VORTAC,ZA
+LY,Ladysmith,NDB,ZA
+LYV,Ladysmith,VOR,ZA
+MAJ,Majuba,NDB,ZA
+MC,Roodeplaat,NDB,ZA
+MEV,Bronkhorstspruit,VORTAC,ZA
+MH,Mafikeng,NDB,ZA
+MMV,Mafikeng,VOR-DME,ZA
+MP,Mariepskop,NDB,ZA
+NC,Newcastle,NDB,ZA
+NMT,Meyerton,NDB,ZA
+NSV,Nelspruit,VOR-DME,ZA
+NVV,Nieuwoudtville,VOR,ZA
+NY,Nylstroom,NDB,ZA
+OB,Overberg,NDB,ZA
+OBI,Pietermaritzburg,NDB,ZA
+OBV,Overberg,VORTAC,ZA
+OH,Oudtshoorn,NDB,ZA
+ORI,Pietermaritzburg,NDB,ZA
+PA,Port Alfred,NDB,ZA
+PB,Polokwane,NDB,ZA
+PEV,Port Elizabeth,VOR-DME,ZA
+PGL,Pongola,NDB,ZA
+PHV,Phalaborwa,VOR,ZA
+PI,Pietersburg,NDB,ZA
+PJ,Port St Johns,NDB,ZA
+PK,Kruger Mpumalanga,NDB,ZA
+PLB,Pilanesberg,NDB,ZA
+PLG,Pilanesberg,NDB,ZA
+PMV,Pietermaritzburg,VOR-DME,ZA
+PNV,Pilanesberg,VOR-DME,ZA
+PPV,Polokwane,VOR-DME,ZA
+PRF,Piet Retief,NDB,ZA
+PSV,Potchefstroom,VOR-DME,ZA
+PU,Pietermaritzburg,NDB,ZA
+PW,Phalaborwa,NDB,ZA
+PY,Plettenberg Bay,NDB,ZA
+PZ,Pietermaritzburg,NDB,ZA
+RA,Rand,NDB,ZA
+RAV,Rand,VOR-DME,ZA
+RBV,Richards Bay,VOR-DME,ZA
+RD,Rand,NDB,ZA
+RDW,Rand,NDB,ZA
+RG,Rustenburg,NDB,ZA
+RI,Richards Bay,NDB,ZA
+RIV,Robben Island,VOR-DME,ZA
+SC,Secunda,NDB,ZA
+SI,Lusikisi,NDB,ZA
+SLV,Sutherland,VOR,ZA
+SMH,Ulundi,NDB,ZA
+SS,Sishen,NDB,ZA
+STV,Standerton,VOR,ZA
+SU,Secunda,NDB,ZA
+SVV,Somersveld,VOR,ZA
+SWV,Swellendam,VOR,ZA
+SZ,Skukuza,NDB,ZA
+TB,Thabazimbi,NDB,ZA
+THO,Thohoyandou,NDB,ZA
+TOY,Thohoyandou,NDB,ZA
+TSH,Tshikondeni,NDB,ZA
+TSO,Malelane,NDB,ZA
+TU,Tutuka,NDB,ZA
+TZ,Tzaneen,NDB,ZA
+UA,Mthatha,NDB,ZA
+UCV,Ulco,VOR,ZA
+UD,Ulundi,NDB,ZA
+UL,Ulundi,NDB,ZA
+UL,Ulundi,DME,ZA
+UN,Upington,NDB,ZA
+UPV,Upington,VOR-DME,ZA
+UR,Margate,NDB,ZA
+UT,Mthatha,NDB,ZA
+VB,Vryburg,NDB,ZA
+VHD,Vryheid,NDB,ZA
+VHL,Vryheid,NDB,ZA
+VM,Venetia,NDB,ZA
+VV,Vereeniging,NDB,ZA
+VWV,Victoria West,VOR,ZA
+WB,Wonderboom,NDB,ZA
+WC,Worcester,NDB,ZA
+WDV,Warden,VOR,ZA
+WIV,Witbank,VOR,ZA
+WK,Waterkloof,NDB,ZA
+WKP,Wolfkop,NDB,ZA
+WKV,Waterkloof,VORTAC,ZA
+WL,Waterkloof,NDB,ZA
+WMV,Welkom,VOR-DME,ZA
+WR,Wonderboom,NDB,ZA
+WY,Wolseley,NDB,ZA
+CP,Chipata,NDB,ZM
+KE,Kasompe,NDB,ZM
+KM,Kapiri Mposhi,NDB,ZM
+KO,Kaoma,NDB,ZM
+KS,Kasama,NDB,ZM
+KT,Southdowns,NDB,ZM
+LE,Lusaka,NDB,ZM
+LN,Lusaka,NDB,ZM
+LW,Lusaka,NDB,ZM
+LZ,Livingstone,NDB,ZM
+MA,Mansa,NDB,ZM
+MG,Mongu,NDB,ZM
+NW,Ndola,NDB,ZM
+SW,Solwezi,NDB,ZM
+VLI,Livingstone,VOR,ZM
+VLS,Lusaka,VOR-DME,ZM
+VMF,Mfuwe,VOR-DME,ZM
+VND,Ndola,VOR-DME,ZM
+ZB,Zambezi,NDB,ZM
+BI,Buffalo Range,NDB,ZW
+BZ,Harare,NDB,ZW
+CP,Charles Prince,NDB,ZW
+CZ,Buffalo Range,NDB,ZW
+DW,Kariba,NDB,ZW
+FA,Victoria Falls,NDB,ZW
+GR,Mutare Grand Reef,NDB,ZW
+IL,J M Nkomo,NDB,ZW
+KB,Kariba,NDB,ZW
+KU,Makumbi,NDB,ZW
+MS,Masvingo,NDB,ZW
+MT,Matetsi,NDB,ZW
+MU,Mutare,NDB,ZW
+NZ,Norton,NDB,ZW
+OL,Harare,NDB,ZW
+PO,Hwange National Park,NDB,ZW
+RC,Kwekwe,NDB,ZW
+SI,Harare,NDB,ZW
+SL,Solera,NDB,ZW
+SZ,J M Nkomo,NDB,ZW
+TI,Gweru Thornhill,NDB,ZW
+TO,Gweru Thornhill,NDB,ZW
+VBU,J M Nkomo,VOR-DME,ZW
+VF,Victoria Falls,NDB,ZW
+VGO,Gokwe,VOR-DME,ZW
+VI,Masvingo,NDB,ZW
+VMV,Masvingo,VOR-DME,ZW
+VSB,Harare,VOR-DME,ZW
+VTL,Gweru Thornhill,VOR-DME,ZW
+VWN,Hwange,VOR-DME,ZW
+WN,Hwange National Park,NDB,ZW
+WO,J M Nkomo,NDB,ZW
+YT,J M Nkomo,NDB,ZW
+EMO,BALTIC & FRAIT & SECSI & SEE & MALTA & HELLAS & NICFRA,NDB,EU
+ISI,BALTIC & FRAIT & SECSI & SEE & MALTA & HELLAS & NICFRA,NDB,EU
+KPC,BALTIC & FRAIT & SECSI & SEE & MALTA & HELLAS & NICFRA,NDB,EU
+KRV,BALTIC & FRAIT & SECSI & SEE & MALTA & HELLAS & NICFRA,NDB,EU
+MMP,BALTIC & FRAIT & SECSI & SEE & MALTA & HELLAS & NICFRA,NDB,EU
+NII,BALTIC & FRAIT & SECSI & SEE & MALTA & HELLAS & NICFRA,NDB,EU
+ROZ,BALTIC & FRAIT & SECSI & SEE & MALTA & HELLAS & NICFRA,NDB,EU
+VIT,BALTIC & FRAIT & SECSI & SEE & MALTA & HELLAS & NICFRA,NDB,EU
+VRB,BALTIC & FRAIT & SECSI & SEE & MALTA & HELLAS & NICFRA,NDB,EU
+GRD,BELFRA,NDB,EU
+ADV,BodÃ¸ Oceanic FRA,NDB,EU
+LEP,BOREALIS FRA,NDB,EU
+ARR,ESPORTFRA,NDB,EU
+DMT,ESPORTFRA,NDB,EU
+LKN,FRA SPB,NDB,EU
+BNG,FRATURK,NDB,EU
+CTP,FRATURK,NDB,EU
+DEN,FRATURK,NDB,EU
+ESB,FRATURK,NDB,EU
+EZN,FRATURK,NDB,EU
+GAP,FRATURK,NDB,EU
+GDR,FRATURK,NDB,EU
+GKA,FRATURK,NDB,EU
+GZP,FRATURK,NDB,EU
+KST,FRATURK,NDB,EU
+RNA,FRATURK,NDB,EU
+YKV,FRATURK,NDB,EU
+NVO,MUAC FRA,NDB,EU
+SAS,MUAC FRA,NDB,EU
+CYBR,TORONTO,VOR-DME,CA
+CCW3,GUNN,VOR-DME,CA
+WN35,HUH3,VOR-DME,CA
+CTP4,KL90,VOR-DME,CA
+CSE6,MT80,VOR-DME,CA
+PAGY,PJ48,VOR-DME,CA
+CNM3,CNM3,VOR-DME,CA
+CYBW,SPRINGBANK,VOR-DME,CA
+CYBR,NORDIK,VOR-DME,CA
+CYBR,CARTER,VOR-DME,CA
+CYBR,IMPACT,VOR-DME,CA
+CYBR,LAFLEUR,VOR-DME,CA
+CYBR,ROCKET,VOR-DME,CA
+CAPITAL,CAPITAL,VOR-DME,CA
+LAZO,LAZO,VOR-DME,CA
+SARATOGA,SARATOGA,VOR-DME,CA
+HAMPTON,HAMPTON,VOR-DME,CA
+COUNTY,COUNTY,VOR-DME,CA
+CYPRESS,CYPRESS,VOR-DME,CA
+ISLAND,ISLAND,VOR-DME,CA
+FRASER,FRASER,VOR-DME,CA
+GEORGIA,GEORGIA,VOR-DME,CA
+RICHMOND,RICHMOND,VOR-DME,CA
+STANLEY,STANLEY,VOR-DME,CA
+COWBOY,COWBOY,VOR-DME,CA
+STAMPEDE,STAMPEDE,VOR-DME,CA
+LABRADOR,LABRADOR,VOR-DME,CA
+AV,ST ANDREWS,NDB,CA
+ALOUETTE,ALOUETTE,SID,CA
+HORNET,HORNET,SID,CA
+OYSTER,OYSTER,SID,CA
