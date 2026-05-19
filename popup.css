@@ -165,7 +165,7 @@ html, body {
   font-size: 10px; color: var(--text-fainter);
   font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
 }
-.theme-toggle {
+.hdr-btn {
   flex-shrink: 0;
   width: 26px; height: 26px;
   background: var(--panel-bg);
@@ -176,11 +176,27 @@ html, body {
   font-size: 14px;
   color: var(--text-soft);
   transition: background 0.15s, color 0.15s;
+  padding: 0;
 }
-.theme-toggle:hover { background: var(--hover-bg); color: var(--text-strong); }
+.hdr-btn:hover { background: var(--hover-bg); color: var(--text-strong); }
+.hdr-btn:disabled { opacity: 0.55; cursor: default; }
+.hdr-btn:disabled:hover { background: var(--panel-bg); color: var(--text-soft); }
 .theme-toggle .theme-icon { line-height: 1; }
 :root[data-theme="light"] .icon-sun  { display: none; }
 :root[data-theme="dark"]  .icon-moon { display: none; }
+
+.refresh-btn .refresh-icon {
+  line-height: 1;
+  display: inline-block;
+  font-size: 15px;
+}
+.refresh-btn.spinning .refresh-icon {
+  animation: refresh-spin 0.9s linear infinite;
+}
+@keyframes refresh-spin {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
 
 /* ============================================================
    FILTERS
