@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<title>"Probably Correct" Fix</title>
+<link rel="stylesheet" href="popup.css">
+</head>
+<body>
+
+<header class="hdr">
+  <img src="logo.png" class="logo" alt="">
+  <div class="title-wrap">
+    <h1>"Probably Correct" Fix</h1>
+    <span class="version">v2.0.0</span>
+  </div>
+  <button class="theme-toggle" id="theme-toggle" type="button"
+          title="Toggle dark / light theme" aria-label="Toggle theme">
+    <span class="theme-icon icon-moon" aria-hidden="true">☾</span>
+    <span class="theme-icon icon-sun"  aria-hidden="true">☀</span>
+  </button>
+</header>
+
+<section class="filters">
+  <div class="filter-row">
+    <label for="region-select">Region</label>
+    <select id="region-select">
+      <option value="">All regions</option>
+      <option value="AS">Asia (AS)</option>
+      <option value="AF">Africa (AF)</option>
+      <option value="EU">Europe (EU)</option>
+      <option value="OC">Oceania (OC)</option>
+      <option value="SA">South America (SA)</option>
+      <option value="NA">North America (NA)</option>
+    </select>
+  </div>
+
+  <div class="filter-row">
+    <label for="country-input">Country</label>
+    <div class="combobox" id="country-combobox">
+      <input id="country-input" type="text" placeholder="Any country" autocomplete="off">
+      <button class="clear-btn" data-clear="country" type="button" aria-label="Clear country">✕</button>
+      <div class="dropdown" id="country-dropdown" role="listbox"></div>
+    </div>
+  </div>
+
+  <div class="filter-row">
+    <label>Type</label>
+    <div class="type-pills" id="type-pills" role="tablist">
+      <button class="pill active" data-type="" role="tab" type="button">All</button>
+      <button class="pill" data-type="wp" role="tab" type="button">Waypoints</button>
+      <button class="pill" data-type="nv" role="tab" type="button">Navaids</button>
+      <button class="pill" data-type="ap" role="tab" type="button">Airports</button>
+      <button class="pill" data-type="vf" role="tab" type="button">VFR</button>
+    </div>
+  </div>
+</section>
+
+<div class="search-wrap">
+  <input id="search" type="text" placeholder="🔍 Search ident, IATA, ICAO, or name…" autocomplete="off">
+  <button class="clear-btn search-clear" data-clear="search" type="button" aria-label="Clear search">✕</button>
+</div>
+
+<div class="results-wrap">
+  <div class="results-meta" id="results-meta"></div>
+  <div class="results" id="results"></div>
+</div>
+
+<footer class="fact">
+  <div class="fact-label">Did you know?</div>
+  <div class="fact-text" id="fact-text">Loading flight facts…</div>
+</footer>
+
+<div class="toast" id="toast" aria-live="polite"></div>
+
+<script src="popup.js"></script>
+</body>
+</html>

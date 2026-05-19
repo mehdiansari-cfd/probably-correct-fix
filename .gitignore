@@ -1,0 +1,33 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs / caches
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node (in case tooling is added later)
+node_modules/
+dist/
+build/
+.cache/
+
+# Packaged extension artifacts
+*.zip
+*.crx
+*.xpi
+web-ext-artifacts/
+
+# Local env
+.env
+.env.local
