@@ -4,6 +4,7 @@
   "version": "2.0.0",
   "description": "Quick lookup for aviation waypoints, navaids (NDB/VOR/TACAN/etc.), airports, and VFR reporting points. Light and dark mode.",
   "permissions": ["storage"],
+  "host_permissions": ["https://raw.githubusercontent.com/*"],
   "icons": {
     "16": "icons/icon-16.png",
     "32": "icons/icon-32.png",

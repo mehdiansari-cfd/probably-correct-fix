@@ -5,9 +5,11 @@
  * cloud sync. Theme toggle (light / dark) is the only state we persist.
  *
  * Data layer
- *   The dataset lives in four CSV files plus a countries.json index, all
- *   shipped inside the extension under data/. The popup fetches them in
- *   parallel on open and builds the in-memory indices once.
+ *   The four CSVs (waypoints / navaids / airports / VFR) are fetched
+ *   from the GitHub raw URLs and cached in chrome.storage.local with a
+ *   TTL, so upstream data updates reach existing installs without a
+ *   reinstall. The bundled data/ copy ships as the offline / first-run
+ *   fallback. countries.json stays bundled and is loaded directly.
  *
  * Record shapes after parsing
  *   waypoint: [ident, cc]
@@ -99,6 +101,59 @@
     const res = await fetch(dataURL(name));
     if (!res.ok) throw new Error('Failed to load ' + name + ': ' + res.status);
     return res.json();
+  }
+
+  // --------------------------------------------------------------
+  // REMOTE CSV CACHE
+  // CSVs come from the GitHub raw URLs so upstream edits propagate
+  // without a reinstall. chrome.storage.local holds the last fetched
+  // text + timestamp; we re-fetch when the entry is older than
+  // CACHE_TTL_MS. On network failure we prefer stale cache; if there
+  // is no cache (first run / offline) we fall through to the bundled
+  // copy that ships under data/.
+  // --------------------------------------------------------------
+  const REMOTE_CSV_BASE = 'https://raw.githubusercontent.com/mehdiansari-cfd/probably-correct-fix/main/data/';
+  const CACHE_TTL_MS = 6 * 60 * 60 * 1000;
+  const REMOTE_FETCH_TIMEOUT_MS = 8000;
+
+  function csvCacheKey(name) { return 'pcf:csv:' + name; }
+
+  async function fetchRemoteCSV(name) {
+    const ctrl = new AbortController();
+    const timer = setTimeout(() => ctrl.abort(), REMOTE_FETCH_TIMEOUT_MS);
+    try {
+      const res = await fetch(REMOTE_CSV_BASE + name, { cache: 'no-cache', signal: ctrl.signal });
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      return await res.text();
+    } finally {
+      clearTimeout(timer);
+    }
+  }
+
+  async function loadCSV(name) {
+    let cached = null;
+    if (hasChromeStorage) {
+      const entry = await storageGet([csvCacheKey(name)]);
+      cached = entry[csvCacheKey(name)] || null;
+      if (cached && cached.text && cached.fetchedAt &&
+          (Date.now() - cached.fetchedAt) < CACHE_TTL_MS) {
+        return cached.text;
+      }
+    }
+    try {
+      const text = await fetchRemoteCSV(name);
+      if (hasChromeStorage) {
+        await storageSet({ [csvCacheKey(name)]: { text, fetchedAt: Date.now() } });
+      }
+      return text;
+    } catch (err) {
+      if (cached && cached.text) {
+        console.warn('[PCF] remote ' + name + ' fetch failed; using stale cache:', err);
+        return cached.text;
+      }
+      console.warn('[PCF] remote ' + name + ' fetch failed; using bundled copy:', err);
+      return fetchText(name);
+    }
   }
 
   // --------------------------------------------------------------
@@ -723,10 +778,10 @@
     try {
       const [countriesJson, wpText, nvText, apText, vfText] = await Promise.all([
         fetchJSON('countries.json'),
-        fetchText('waypoints.csv'),
-        fetchText('navaids.csv'),
-        fetchText('airports.csv'),
-        fetchText('vfr.csv'),
+        loadCSV('waypoints.csv'),
+        loadCSV('navaids.csv'),
+        loadCSV('airports.csv'),
+        loadCSV('vfr.csv'),
       ]);
 
       for (const [cc, info] of Object.entries(countriesJson)) {
