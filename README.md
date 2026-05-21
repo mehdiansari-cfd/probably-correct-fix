@@ -12,9 +12,12 @@ airports, and VFR reporting points. Click the icon, type, hit Copy.
   files under `data/`, with country metadata (name, region, nearby
   countries) split out into `data/countries.json`. The old monolithic
   `waypoints-data.js` is gone — updating the dataset is just editing
-  a CSV (or re-running `scripts/build_data.py` from the source data).
-- **Async data load.** The popup fetches and parses the four CSVs on
-  open with a brief loading state. Total payload is about 1.4 MB.
+  a CSV.
+- **Auto-updating data.** The four CSVs are fetched from GitHub at
+  runtime and cached in `chrome.storage.local` (6-hour TTL), so
+  dataset edits reach installed extensions without a reinstall. A ↻
+  refresh button forces an immediate update. The bundled `data/`
+  copies are the offline / first-run fallback.
 
 ## Repo layout
 
@@ -30,34 +33,25 @@ probably-correct-fix/
 │   ├── icon-32.png
 │   ├── icon-48.png
 │   └── icon-128.png         (copy from a prior v1.4.0 build)
-├── data/
-│   ├── waypoints.csv        — ident, country_code
-│   ├── navaids.csv          — ident, name, type, country_code
-│   ├── airports.csv         — ident, type, name, iso_country, iata_code, icao_code
-│   ├── vfr.csv              — ident, name, country_code, airport
-│   └── countries.json       — { "XX": { name, region, nearby } }
-└── scripts/
-    └── build_data.py        — regenerates data/ from the source CSVs
+└── data/
+    ├── waypoints.csv        — ident, country_code
+    ├── navaids.csv          — ident, name, type, country_code
+    ├── airports.csv         — ident, type, name, iso_country, iata_code, icao_code
+    ├── vfr.csv              — ident, name, country_code, airport
+    └── countries.json       — { "XX": { name, region, nearby } }
 ```
 
-## Regenerating the data
+## Updating the data
 
-The slim CSVs and `countries.json` are derived from the working
-"Sweden" repo (the dev tool). Re-run the build whenever the source
-data changes:
+`data/` is the source of truth — edit the CSVs directly and commit
+to `main`. There is no build step.
 
-```powershell
-# From the probably-correct-fix repo root
-python scripts/build_data.py
-# or, with a custom source path:
-python scripts/build_data.py --src "C:\path\to\Sweden"
-```
-
-The script expects the Sweden repo at `..\Sweden\` (i.e. a sibling
-of this folder under `Documents\GitHub\`). It strips lat/lon and
-other columns the extension doesn't use, filters airports to those
-with an ICAO or IATA code, and recomputes nearby-country lists from
-the lat/lon before discarding them.
+At runtime the four CSVs are fetched from
+`raw.githubusercontent.com/<owner>/probably-correct-fix/main/data/`
+and cached in `chrome.storage.local` for 6 hours, so a commit reaches
+installed extensions on the next popup open — or immediately via the
+↻ refresh button. The bundled `data/` copies are the offline /
+first-run fallback. `countries.json` is loaded from the bundle only.
 
 ## Features
 
@@ -67,14 +61,17 @@ the lat/lon before discarding them.
   results also include geographically adjacent countries (with a
   "Nearby" tag and a small score penalty so in-country sorts first).
 - **Type filter** — narrow to Waypoints, Navaids, Airports, or VFR.
-- **Copy** — one-click copy of the identifier in uppercase.
+- **Copy** — one-click copy in uppercase: the ident for waypoints
+  and airports, the name for navaids and VFR reporting points.
+- **Refresh** — the ↻ button re-fetches the dataset from GitHub on
+  demand.
 - **Light & dark theme** — toggle in the top-right corner; preference
   is remembered. First-run default follows your OS preference.
 
 ## Install
 
 1. Clone or download this repo (and make sure `data/` and the icon
-   PNGs are present — see "Regenerating the data" above)
+   PNGs are present)
 2. Open `chrome://extensions/` and turn on Developer mode
 3. Click **Load unpacked** and select this folder
 4. Pin the toolbar icon
@@ -84,10 +81,13 @@ The extension can also be loaded as a temporary add-on in Firefox via
 
 ## Permissions
 
-`storage` only — used to remember your theme preference. No host
-permissions, no network calls, no telemetry. The CSV files are
-shipped inside the extension and loaded from
-`chrome-extension://…/data/…`.
+- `storage` — remembers your theme preference and caches the
+  dataset CSVs.
+- host access to `raw.githubusercontent.com` — used to fetch dataset
+  updates. No telemetry.
+
+The CSV files are also shipped inside the extension under `data/`
+and used as the offline / first-run fallback.
 
 ## Search ranking
 
@@ -116,7 +116,8 @@ Nearby-country results take a –30 penalty.
 ## Relationship to the dev build
 
 This production build is the user-facing version: search only, no
-Entry tab, no cloud sync, no host permissions. The dev build (the
-"Sweden" repo) adds an Entry tab for adding custom records and
-Google Sheets sync. Both builds share the same datasets, search
-ranking, fact list, and visual design.
+Entry tab, no cloud sync. The dev build (the "Sweden" repo) adds an
+Entry tab for adding custom records and Google Sheets sync. The two
+builds share search ranking, fact list, and visual design; the
+production dataset under `data/` is now maintained directly in this
+repo.
